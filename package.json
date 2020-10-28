@@ -1,0 +1,27 @@
+{
+  "name": "lah-archives",
+  "version": "0.1.0",
+  "repository": "https://github.com/liveahero-community/archives",
+  "author": "salmon",
+  "license": "MIT",
+  "scripts": {
+    "download:official-bundles": "ts-node tools/download-official-bundles.ts",
+    "remove:sensitive-assets": "ts-node tools/remove-sensitive-assets.ts",
+    "remove:duplicated-assets": "ts-node tools/remove-duplicated-assets.ts"
+  },
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "fs-extra": "^9.0.1",
+    "lodash": "^4.17.20",
+    "node-fetch": "2.6.7",
+    "ts-node": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/app-root-path": "^1.2.4",
+    "@types/fs-extra": "^9.0.2",
+    "@types/lodash": "^4.14.162",
+    "@types/node": "^14.11.8",
+    "@types/node-fetch": "^2.6.2",
+    "typescript": "^4.0.3"
+  }
+}

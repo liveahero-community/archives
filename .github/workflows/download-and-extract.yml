@@ -1,0 +1,130 @@
+name: download-and-extract
+
+on:
+  schedule:
+    # At minute 15.
+    - cron: '15 * * * *'
+  workflow_dispatch:
+    inputs:
+      run:
+        description: just run by manually
+        required: false
+
+jobs:
+  build:
+    name: Build
+    env:
+      MY_SECRET: ${{secrets.commit_secret}}
+      USER_NAME: githubaction
+      USER_EMAIL: githubaction@fake.com
+      BUNDLES_DIR: bundles
+      ARTIFACTS_DIR: artifacts
+      ARTIFACTS_RIPPER_DIR: ripper.artifacts
+      ASSET_RIPPER_VERSION: "0.3.4.0"
+      FINISH_INDICATOR: done
+      ARTIFACTS_BRANCH: artifacts
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [18]
+        python-version: [3.9]
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Node.js package installation
+        run: |
+          yarn install
+
+      - name: Download official bundles
+        id: bundles
+        run: |
+          mkdir -p "$BUNDLES_DIR"
+          yarn run download:official-bundles
+          # Calculate BUNDLE_COUNT, and default is zero.
+          BUNDLE_COUNT=$(find $BUNDLES_DIR -type f | wc -l | awk '$1=$1')
+          BUNDLE_COUNT="${BUNDLE_COUNT:-0}"
+          echo "BUNDLE_COUNT is $BUNDLE_COUNT."
+          # Set ENV to next steps.
+          echo "BUNDLE_COUNT=$BUNDLE_COUNT" >> $GITHUB_ENV
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v4
+        if: env.BUNDLE_COUNT != '0'
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: 'pip'
+
+      - name: Extract bundles
+        if: env.BUNDLE_COUNT != '0'
+        run: |
+          python -m pip install -r requirements.txt
+          python extract.py $BUNDLES_DIR $ARTIFACTS_DIR
+
+      - name: Extract bundles (AssetRipper)
+        if: env.BUNDLE_COUNT != '0'
+        run: |
+          # Unzip twice
+          curl -L -o AssetRipper_linux_x64.zip https://github.com/AssetRipper/AssetRipper/releases/download/$ASSET_RIPPER_VERSION/AssetRipper_linux_x64.zip
+          unzip ./AssetRipper_linux_x64.zip
+          unzip ./AssetRipper.zip -d AssetRipper
+          # Export ripper artifacts
+          ./AssetRipper/AssetRipper $BUNDLES_DIR -o $ARTIFACTS_RIPPER_DIR -q
+          ls -al $ARTIFACTS_RIPPER_DIR
+          cp -R $ARTIFACTS_RIPPER_DIR/ExportedProject/Assets/Texture2D/*.png $ARTIFACTS_DIR/Texture2D/
+
+      - name: Filter assets
+        if: env.BUNDLE_COUNT != '0'
+        run: |
+          yarn run remove:sensitive-assets -- $ARTIFACTS_DIR
+          yarn run remove:duplicated-assets -- $ARTIFACTS_DIR
+
+      - name: Commit asset list info
+        if: env.BUNDLE_COUNT != '0'
+        run: |
+          mkdir -p temp
+          git diff version/ > temp/version.diff
+          DIFF_SIZE=$(wc -c temp/version.diff | awk '{print $1}')
+          rm -rf temp
+
+          if [ "$DIFF_SIZE" -eq "0" ]; then
+            echo "Assets are already up to date."
+          else
+            echo "Asset list is updated."
+            git config --global user.name $USER_NAME
+            git config --global user.email $USER_EMAIL
+            git status
+            git add --all
+            git commit -m "auto-update asset list"
+            git push origin HEAD
+            echo "🤘 update version complete."
+          fi
+
+      - uses: actions/checkout@v3
+        if: env.BUNDLE_COUNT != '0'
+        with:
+          ref: ${{ env.ARTIFACTS_BRANCH }}
+          path: origin-${{ env.ARTIFACTS_DIR }}
+          clean: false
+
+      - name: Commit artifacts
+        if: env.BUNDLE_COUNT != '0'
+        run: |
+          cp -r $ARTIFACTS_DIR/* origin-${{ env.ARTIFACTS_DIR }}
+          cd origin-${{ env.ARTIFACTS_DIR }}
+          git config --global user.name $USER_NAME
+          git config --global user.email $USER_EMAIL
+          git add --all
+          git commit -m "Auto-extract assets to artifacts"
+          git push origin HEAD
+
+      - name: Trigger to update atlas
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ env.MY_SECRET }}
+          repository: liveahero-community/atlas
+          event-type: altas-update
