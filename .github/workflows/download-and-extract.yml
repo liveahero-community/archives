@@ -1,0 +1,105 @@
+name: download-and-extract
+
+on:
+  schedule:
+    # At minute 15.
+    - cron: '15 * * * *'
+  workflow_dispatch:
+    inputs:
+      run:
+        description: just run by manually
+        required: false
+
+jobs:
+  build:
+    name: Build
+    env:
+      MY_SECRET: ${{secrets.commit_secret}}
+      USER_NAME: githubaction
+      USER_EMAIL: githubaction@fake.com
+      BUNDLES_DIR: bundles
+      ARTIFACTS_DIR: artifacts
+      FINISH_INDICATOR: done
+      SELECTED_FOLDERS: Texture2D, Sprite
+      ARTIFACTS_BRANCH: artifacts
+    runs-on: windows-2019
+    strategy:
+      matrix:
+        node-version: [12.x]
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Installation
+        run: |
+          npx yarn install
+
+      - name: Download official bundles
+        id: bundles
+        run: |
+          New-Item -Path . -Name ${env:BUNDLES_DIR} -ItemType directory
+          npm run download:official-bundles
+          $Env:BUNDLE_COUNT = (Get-ChildItem ${env:BUNDLES_DIR} | Measure-Object).Count
+          Write-Output "BUNDLE_COUNT: ${env:BUNDLE_COUNT}"
+
+      - name: Extract bundles
+        if: env.BUNDLE_COUNT != '0'
+        run: |
+          Expand-Archive -Path AssetStudio.zip -DestinationPath AssetStudio
+          .\AssetStudio\Release\AssetStudioConsole.exe ${env:BUNDLES_DIR} ${env:ARTIFACTS_DIR} ${env:FINISH_INDICATOR}
+          npm run watch:finish-indicator -- ${env:FINISH_INDICATOR}
+          Remove-Item ${env:FINISH_INDICATOR}
+          Get-Childitem ${env:ARTIFACTS_DIR} -include * -depth 100
+
+      - name: Filter assets
+        if: env.BUNDLE_COUNT != '0'
+        run: |
+          npm run remove:sensitive-assets -- ${env:ARTIFACTS_DIR} ${env:SELECTED_FOLDERS}
+          npm run remove:duplicated-assets -- ${env:ARTIFACTS_DIR}
+
+      - name: Commit asset list info
+        if: env.BUNDLE_COUNT != '0'
+        run: |
+          New-Item -Path . -Name temp -ItemType directory
+          git diff version/ > temp/version.diff
+          $Env:DIFF_SIZE = (Get-Content .\temp\version.diff).Length
+          Remove-Item -Recurse -Force temp
+
+          if (${env:DIFF_SIZE} -eq 0) {
+            Write-Output "Assets are already up to date."
+          } else {
+            Write-Output "Asset list is updated."
+            git config --global user.name ${env:USER_NAME}
+            git config --global user.email ${env:USER_EMAIL}
+            git status
+            git add --all
+            git commit -m "auto-update asset list"
+            git push origin HEAD
+            Write-Output "🤘 update version complete."
+          }
+
+      - uses: actions/checkout@v2
+        if: env.BUNDLE_COUNT != '0'
+        with:
+          ref: ${{ env.BUNDLE_COUNT }}
+          clean: false
+
+      - name: Commit artifacts
+        if: env.BUNDLE_COUNT != '0'
+        run: |
+          Get-Childitem .
+          Copy-Item -Force -Recurse -Path ${env:ARTIFACTS_DIR}\* -Destination .
+          Remove-Item -Recurse -Force ${env:ARTIFACTS_DIR}
+          Remove-Item -Recurse -Force ${env:BUNDLES_DIR}
+          Remove-Item -Recurse -Force AssetStudio
+          Remove-Item -Recurse -Force node_modules
+          git config --global user.name ${env:USER_NAME}
+          git config --global user.email ${env:USER_EMAIL}
+          git status
+          git add --all
+          git commit -m "auto-extract assets to artifacts"
+          git push origin HEAD

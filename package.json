@@ -5,6 +5,10 @@
   "author": "salmon",
   "license": "MIT",
   "scripts": {
+    "download:official-bundles": "ts-node tools/download-official-bundles.ts",
+    "remove:sensitive-assets": "ts-node tools/remove-sensitive-assets.ts",
+    "remove:duplicated-assets": "ts-node tools/remove-duplicated-assets.ts",
+    "watch:finish-indicator": "ts-node tools/watch-finish-indicator.ts"
   },
   "dependencies": {
     "app-root-path": "^3.0.0",
