@@ -1,0 +1,166 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_villainTraineeNinjaEarth_s01",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1210547500100778125
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_villainTraineeNinjaEarth_s01",
+      "atlasName": "fg_villainTraineeNinjaEarth_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_villainTraineeNinjaEarth_s01b",
+      "atlasName": "fg_villainTraineeNinjaEarth_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        14,
+        15,
+        16,
+        12,
+        17,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_villainTraineeNinjaEarth_s01c",
+      "atlasName": "fg_villainTraineeNinjaEarth_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        18,
+        19,
+        16,
+        12,
+        17,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_villainTraineeNinjaEarth_s01d",
+      "atlasName": "fg_villainTraineeNinjaEarth_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        20,
+        21,
+        16,
+        12,
+        17,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_villainTraineeNinjaEarth_s01e",
+      "atlasName": "fg_villainTraineeNinjaEarth_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        22,
+        23,
+        16,
+        12,
+        17,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_villainTraineeNinjaEarth_s01f",
+      "atlasName": "fg_villainTraineeNinjaEarth_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        24,
+        25,
+        16,
+        12,
+        17,
+        12
+      ],
+      "transparentIndex": 12
+    }
+  ]
+}

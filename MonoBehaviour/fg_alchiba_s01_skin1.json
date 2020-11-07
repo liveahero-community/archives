@@ -1,0 +1,166 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_alchiba_s01_skin1",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8134498744471976601
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_alchiba_s01_skin1",
+      "atlasName": "fg_alchiba_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_alchiba_s01b_skin1",
+      "atlasName": "fg_alchiba_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        14,
+        1,
+        2,
+        3,
+        15,
+        5,
+        16,
+        7,
+        8,
+        17,
+        18,
+        11,
+        12,
+        13,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_alchiba_s01c_skin1",
+      "atlasName": "fg_alchiba_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        14,
+        1,
+        2,
+        3,
+        15,
+        5,
+        16,
+        7,
+        8,
+        19,
+        20,
+        11,
+        12,
+        13,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_alchiba_s01d_skin1",
+      "atlasName": "fg_alchiba_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        14,
+        1,
+        2,
+        3,
+        15,
+        5,
+        16,
+        7,
+        8,
+        21,
+        22,
+        11,
+        23,
+        24,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_alchiba_s01e_skin1",
+      "atlasName": "fg_alchiba_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        14,
+        1,
+        2,
+        3,
+        25,
+        5,
+        26,
+        7,
+        8,
+        27,
+        28,
+        11,
+        29,
+        24,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_alchiba_s01f_skin1",
+      "atlasName": "fg_alchiba_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        14,
+        1,
+        2,
+        3,
+        15,
+        5,
+        16,
+        7,
+        8,
+        30,
+        31,
+        11,
+        12,
+        13,
+        12
+      ],
+      "transparentIndex": 12
+    }
+  ]
+}

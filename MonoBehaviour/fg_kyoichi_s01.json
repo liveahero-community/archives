@@ -1,0 +1,214 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_kyoichi_s01",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 270395946643519672
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_kyoichi_s01",
+      "atlasName": "fg_kyoichi_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        5,
+        12,
+        5
+      ],
+      "transparentIndex": 5
+    },
+    {
+      "name": "fg_kyoichi_s01b",
+      "atlasName": "fg_kyoichi_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        13,
+        14,
+        5,
+        12,
+        5
+      ],
+      "transparentIndex": 5
+    },
+    {
+      "name": "fg_kyoichi_s01c",
+      "atlasName": "fg_kyoichi_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        15,
+        11,
+        5,
+        12,
+        5
+      ],
+      "transparentIndex": 5
+    },
+    {
+      "name": "fg_kyoichi_s01d",
+      "atlasName": "fg_kyoichi_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        16,
+        11,
+        5,
+        12,
+        5
+      ],
+      "transparentIndex": 5
+    },
+    {
+      "name": "fg_kyoichi_s01e",
+      "atlasName": "fg_kyoichi_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        17,
+        11,
+        5,
+        12,
+        5
+      ],
+      "transparentIndex": 5
+    },
+    {
+      "name": "fg_kyoichi_s01f",
+      "atlasName": "fg_kyoichi_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        18,
+        11,
+        5,
+        12,
+        5
+      ],
+      "transparentIndex": 5
+    },
+    {
+      "name": "fg_kyoichi_s01g",
+      "atlasName": "fg_kyoichi_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        19,
+        11,
+        5,
+        12,
+        5
+      ],
+      "transparentIndex": 5
+    },
+    {
+      "name": "fg_kyoichi_s01h",
+      "atlasName": "fg_kyoichi_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        20,
+        14,
+        5,
+        12,
+        5
+      ],
+      "transparentIndex": 5
+    }
+  ]
+}

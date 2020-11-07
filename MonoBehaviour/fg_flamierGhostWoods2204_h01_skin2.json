@@ -1,0 +1,166 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_flamierGhostWoods2204_h01_skin2",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6402982618858328656
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_flamierGhostWoods2204_h01_skin2",
+      "atlasName": "fg_flamierGhostWoods2204_h01_skin2_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        2,
+        12,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_flamierGhostWoods2204_h01b_skin2",
+      "atlasName": "fg_flamierGhostWoods2204_h01_skin2_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        13,
+        14,
+        11,
+        2,
+        12,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_flamierGhostWoods2204_h01c_skin2",
+      "atlasName": "fg_flamierGhostWoods2204_h01_skin2_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        15,
+        16,
+        11,
+        2,
+        12,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_flamierGhostWoods2204_h01d_skin2",
+      "atlasName": "fg_flamierGhostWoods2204_h01_skin2_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        17,
+        18,
+        11,
+        2,
+        12,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_flamierGhostWoods2204_h01e_skin2",
+      "atlasName": "fg_flamierGhostWoods2204_h01_skin2_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        19,
+        20,
+        11,
+        2,
+        12,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_flamierGhostWoods2204_h01f_skin2",
+      "atlasName": "fg_flamierGhostWoods2204_h01_skin2_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        21,
+        22,
+        11,
+        2,
+        12,
+        2
+      ],
+      "transparentIndex": 2
+    }
+  ]
+}

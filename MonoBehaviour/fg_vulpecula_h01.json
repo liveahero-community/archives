@@ -1,0 +1,190 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_vulpecula_h01",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2085406283043246223
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_vulpecula_h01",
+      "atlasName": "fg_vulpecula_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        11,
+        12,
+        11
+      ],
+      "transparentIndex": 11
+    },
+    {
+      "name": "fg_vulpecula_h01b",
+      "atlasName": "fg_vulpecula_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        13,
+        14,
+        11,
+        11,
+        12,
+        11
+      ],
+      "transparentIndex": 11
+    },
+    {
+      "name": "fg_vulpecula_h01c",
+      "atlasName": "fg_vulpecula_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        15,
+        16,
+        11,
+        11,
+        12,
+        11
+      ],
+      "transparentIndex": 11
+    },
+    {
+      "name": "fg_vulpecula_h01d",
+      "atlasName": "fg_vulpecula_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        17,
+        18,
+        11,
+        11,
+        12,
+        11
+      ],
+      "transparentIndex": 11
+    },
+    {
+      "name": "fg_vulpecula_h01e",
+      "atlasName": "fg_vulpecula_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        19,
+        20,
+        11,
+        11,
+        12,
+        11
+      ],
+      "transparentIndex": 11
+    },
+    {
+      "name": "fg_vulpecula_h01f",
+      "atlasName": "fg_vulpecula_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        21,
+        22,
+        11,
+        11,
+        12,
+        11
+      ],
+      "transparentIndex": 11
+    },
+    {
+      "name": "fg_vulpecula_h01g",
+      "atlasName": "fg_vulpecula_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        23,
+        24,
+        11,
+        11,
+        12,
+        11
+      ],
+      "transparentIndex": 11
+    }
+  ]
+}

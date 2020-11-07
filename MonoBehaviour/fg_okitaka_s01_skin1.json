@@ -1,0 +1,262 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_okitaka_s01_skin1",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7506049461722632089
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_okitaka_s01_skin1",
+      "atlasName": "fg_okitaka_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        5
+      ],
+      "transparentIndex": 5
+    },
+    {
+      "name": "fg_okitaka_s01b_skin1",
+      "atlasName": "fg_okitaka_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        14,
+        15,
+        11,
+        12,
+        16,
+        5
+      ],
+      "transparentIndex": 5
+    },
+    {
+      "name": "fg_okitaka_s01c_skin1",
+      "atlasName": "fg_okitaka_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        17,
+        18,
+        11,
+        12,
+        16,
+        5
+      ],
+      "transparentIndex": 5
+    },
+    {
+      "name": "fg_okitaka_s01d_skin1",
+      "atlasName": "fg_okitaka_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        19,
+        20,
+        11,
+        12,
+        16,
+        5
+      ],
+      "transparentIndex": 5
+    },
+    {
+      "name": "fg_okitaka_s01e_skin1",
+      "atlasName": "fg_okitaka_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        21,
+        22,
+        11,
+        12,
+        23,
+        5
+      ],
+      "transparentIndex": 5
+    },
+    {
+      "name": "fg_okitaka_s01f_skin1",
+      "atlasName": "fg_okitaka_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        24,
+        25,
+        11,
+        26,
+        27,
+        5
+      ],
+      "transparentIndex": 5
+    },
+    {
+      "name": "fg_okitaka_s01g_skin1",
+      "atlasName": "fg_okitaka_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        28,
+        29,
+        11,
+        12,
+        16,
+        5
+      ],
+      "transparentIndex": 5
+    },
+    {
+      "name": "fg_okitaka_s01h_skin1",
+      "atlasName": "fg_okitaka_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        30,
+        31,
+        11,
+        12,
+        16,
+        5
+      ],
+      "transparentIndex": 5
+    },
+    {
+      "name": "fg_okitaka_s01i_skin1",
+      "atlasName": "fg_okitaka_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        32,
+        33,
+        11,
+        12,
+        16,
+        5
+      ],
+      "transparentIndex": 5
+    },
+    {
+      "name": "fg_okitaka_s01j_skin1",
+      "atlasName": "fg_okitaka_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        34,
+        35,
+        11,
+        12,
+        36,
+        5
+      ],
+      "transparentIndex": 5
+    }
+  ]
+}

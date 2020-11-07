@@ -1,0 +1,166 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_hisaki_s01_skin3",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 67648236011137495
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_hisaki_s01_skin3",
+      "atlasName": "fg_hisaki_s01_skin3_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_hisaki_s01b_skin3",
+      "atlasName": "fg_hisaki_s01_skin3_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        13,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_hisaki_s01c_skin3",
+      "atlasName": "fg_hisaki_s01_skin3_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        14,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_hisaki_s01d_skin3",
+      "atlasName": "fg_hisaki_s01_skin3_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        15,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_hisaki_s01e_skin3",
+      "atlasName": "fg_hisaki_s01_skin3_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        16,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_hisaki_s01f_skin3",
+      "atlasName": "fg_hisaki_s01_skin3_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        17,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    }
+  ]
+}

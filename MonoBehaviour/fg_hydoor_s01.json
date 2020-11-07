@@ -1,0 +1,166 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_hydoor_s01",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7148941089648560122
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_hydoor_s01",
+      "atlasName": "fg_hydoor_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_hydoor_s01b",
+      "atlasName": "fg_hydoor_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        13,
+        2,
+        14,
+        15,
+        5,
+        6,
+        16,
+        17,
+        18,
+        19,
+        20,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_hydoor_s01c",
+      "atlasName": "fg_hydoor_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        21,
+        22,
+        23,
+        24,
+        25,
+        6,
+        26,
+        27,
+        28,
+        29,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_hydoor_s01d",
+      "atlasName": "fg_hydoor_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        6,
+        36,
+        37,
+        38,
+        39,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_hydoor_s01e",
+      "atlasName": "fg_hydoor_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_hydoor_s01f",
+      "atlasName": "fg_hydoor_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    }
+  ]
+}

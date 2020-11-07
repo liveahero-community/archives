@@ -1,0 +1,166 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_ADV_koukionly_s01",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4388180417684701444
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_ADV_koukionly_s01",
+      "atlasName": "fg_ADV_koukionly_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        3,
+        9,
+        3,
+        3,
+        3,
+        3
+      ],
+      "transparentIndex": 3
+    },
+    {
+      "name": "fg_ADV_koukionly_s01b",
+      "atlasName": "fg_ADV_koukionly_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        10,
+        11,
+        3,
+        12,
+        3,
+        3,
+        3,
+        3
+      ],
+      "transparentIndex": 3
+    },
+    {
+      "name": "fg_ADV_koukionly_s01c",
+      "atlasName": "fg_ADV_koukionly_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        13,
+        8,
+        3,
+        14,
+        3,
+        3,
+        3,
+        3
+      ],
+      "transparentIndex": 3
+    },
+    {
+      "name": "fg_ADV_koukionly_s01d",
+      "atlasName": "fg_ADV_koukionly_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        15,
+        8,
+        3,
+        16,
+        3,
+        3,
+        3,
+        3
+      ],
+      "transparentIndex": 3
+    },
+    {
+      "name": "fg_ADV_koukionly_s01e",
+      "atlasName": "fg_ADV_koukionly_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        17,
+        8,
+        3,
+        18,
+        3,
+        3,
+        3,
+        3
+      ],
+      "transparentIndex": 3
+    },
+    {
+      "name": "fg_ADV_koukionly_s01f",
+      "atlasName": "fg_ADV_koukionly_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        19,
+        8,
+        3,
+        20,
+        3,
+        3,
+        3,
+        3
+      ],
+      "transparentIndex": 3
+    }
+  ]
+}

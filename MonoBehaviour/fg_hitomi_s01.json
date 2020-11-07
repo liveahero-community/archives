@@ -1,0 +1,166 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_hitomi_s01",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4538883390874229616
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_hitomi_s01",
+      "atlasName": "fg_hitomi_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        2,
+        5,
+        6,
+        2,
+        7,
+        8,
+        2,
+        2,
+        2,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_hitomi_s01b",
+      "atlasName": "fg_hitomi_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        2,
+        5,
+        6,
+        2,
+        7,
+        9,
+        2,
+        2,
+        2,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_hitomi_s01c",
+      "atlasName": "fg_hitomi_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        2,
+        5,
+        6,
+        2,
+        7,
+        10,
+        2,
+        2,
+        2,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_hitomi_s01d",
+      "atlasName": "fg_hitomi_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        2,
+        5,
+        6,
+        2,
+        7,
+        11,
+        2,
+        2,
+        2,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_hitomi_s01e",
+      "atlasName": "fg_hitomi_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        2,
+        5,
+        6,
+        2,
+        7,
+        12,
+        2,
+        2,
+        2,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_hitomi_s01f",
+      "atlasName": "fg_hitomi_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        2,
+        5,
+        6,
+        2,
+        7,
+        13,
+        2,
+        2,
+        2,
+        2
+      ],
+      "transparentIndex": 2
+    }
+  ]
+}

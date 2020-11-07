@@ -1,0 +1,166 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_shoenValentine2102_h01",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2709960864229691293
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_shoenValentine2102_h01",
+      "atlasName": "fg_shoenValentine2102_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        11,
+        11,
+        11
+      ],
+      "transparentIndex": 11
+    },
+    {
+      "name": "fg_shoenValentine2102_h01b",
+      "atlasName": "fg_shoenValentine2102_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        11,
+        11,
+        11,
+        11
+      ],
+      "transparentIndex": 11
+    },
+    {
+      "name": "fg_shoenValentine2102_h01c",
+      "atlasName": "fg_shoenValentine2102_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        23,
+        24,
+        20,
+        25,
+        26,
+        11,
+        11,
+        11,
+        11
+      ],
+      "transparentIndex": 11
+    },
+    {
+      "name": "fg_shoenValentine2102_h01d",
+      "atlasName": "fg_shoenValentine2102_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        27,
+        28,
+        20,
+        29,
+        30,
+        11,
+        11,
+        11,
+        11
+      ],
+      "transparentIndex": 11
+    },
+    {
+      "name": "fg_shoenValentine2102_h01e",
+      "atlasName": "fg_shoenValentine2102_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        31,
+        32,
+        8,
+        33,
+        34,
+        11,
+        11,
+        11,
+        11
+      ],
+      "transparentIndex": 11
+    },
+    {
+      "name": "fg_shoenValentine2102_h01f",
+      "atlasName": "fg_shoenValentine2102_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        35,
+        36,
+        20,
+        37,
+        38,
+        11,
+        11,
+        11,
+        11
+      ],
+      "transparentIndex": 11
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_suhail_s01",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6180307383546026875
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_suhail_s01",
+      "atlasName": "fg_suhail_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "transparentIndex": -1
+    },
+    {
+      "name": "fg_suhail_s01b",
+      "atlasName": "fg_suhail_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        15,
+        16,
+        11,
+        12,
+        13,
+        14
+      ],
+      "transparentIndex": -1
+    },
+    {
+      "name": "fg_suhail_s01c",
+      "atlasName": "fg_suhail_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        17,
+        18,
+        11,
+        12,
+        13,
+        14
+      ],
+      "transparentIndex": -1
+    },
+    {
+      "name": "fg_suhail_s01d",
+      "atlasName": "fg_suhail_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        19,
+        20,
+        11,
+        12,
+        13,
+        14
+      ],
+      "transparentIndex": -1
+    },
+    {
+      "name": "fg_suhail_s01e",
+      "atlasName": "fg_suhail_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        21,
+        22,
+        11,
+        12,
+        13,
+        14
+      ],
+      "transparentIndex": -1
+    },
+    {
+      "name": "fg_suhail_s01f",
+      "atlasName": "fg_suhail_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        23,
+        24,
+        11,
+        12,
+        13,
+        14
+      ],
+      "transparentIndex": -1
+    },
+    {
+      "name": "fg_suhail_s01g",
+      "atlasName": "fg_suhail_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        25,
+        26,
+        11,
+        12,
+        13,
+        14
+      ],
+      "transparentIndex": -1
+    },
+    {
+      "name": "fg_suhail_s01h",
+      "atlasName": "fg_suhail_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        27,
+        28,
+        11,
+        12,
+        13,
+        14
+      ],
+      "transparentIndex": -1
+    }
+  ]
+}

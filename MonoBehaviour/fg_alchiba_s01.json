@@ -1,0 +1,166 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_alchiba_s01",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1447373591166071444
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_alchiba_s01",
+      "atlasName": "fg_alchiba_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_alchiba_s01b",
+      "atlasName": "fg_alchiba_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        12,
+        26,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_alchiba_s01c",
+      "atlasName": "fg_alchiba_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        27,
+        15,
+        28,
+        29,
+        30,
+        31,
+        20,
+        21,
+        22,
+        32,
+        33,
+        34,
+        12,
+        35,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_alchiba_s01d",
+      "atlasName": "fg_alchiba_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        36,
+        15,
+        37,
+        38,
+        39,
+        40,
+        20,
+        21,
+        22,
+        41,
+        42,
+        43,
+        44,
+        45,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_alchiba_s01e",
+      "atlasName": "fg_alchiba_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        46,
+        15,
+        47,
+        48,
+        49,
+        50,
+        20,
+        21,
+        22,
+        51,
+        52,
+        53,
+        54,
+        55,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_alchiba_s01f",
+      "atlasName": "fg_alchiba_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        56,
+        15,
+        16,
+        57,
+        58,
+        59,
+        20,
+        21,
+        22,
+        60,
+        61,
+        62,
+        12,
+        63,
+        12
+      ],
+      "transparentIndex": 12
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_barrel_s01",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6043491539627352138
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_barrel_s01",
+      "atlasName": "fg_barrel_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "transparentIndex": 14
+    },
+    {
+      "name": "fg_barrel_s01b",
+      "atlasName": "fg_barrel_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        15,
+        16,
+        11,
+        12,
+        13,
+        14
+      ],
+      "transparentIndex": 14
+    },
+    {
+      "name": "fg_barrel_s01c",
+      "atlasName": "fg_barrel_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        17,
+        18,
+        11,
+        12,
+        13,
+        14
+      ],
+      "transparentIndex": 14
+    },
+    {
+      "name": "fg_barrel_s01d",
+      "atlasName": "fg_barrel_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        19,
+        20,
+        11,
+        12,
+        13,
+        14
+      ],
+      "transparentIndex": 14
+    },
+    {
+      "name": "fg_barrel_s01e",
+      "atlasName": "fg_barrel_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        21,
+        22,
+        11,
+        12,
+        13,
+        14
+      ],
+      "transparentIndex": 14
+    },
+    {
+      "name": "fg_barrel_s01f",
+      "atlasName": "fg_barrel_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        23,
+        24,
+        11,
+        12,
+        13,
+        14
+      ],
+      "transparentIndex": 14
+    }
+  ]
+}

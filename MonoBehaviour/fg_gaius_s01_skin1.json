@@ -1,0 +1,238 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_gaius_s01_skin1",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 766918635902095145
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_gaius_s01_skin1",
+      "atlasName": "fg_gaius_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        2,
+        5,
+        6,
+        2,
+        7,
+        8,
+        2,
+        2,
+        2,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_gaius_s01b_skin1",
+      "atlasName": "fg_gaius_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        2,
+        5,
+        6,
+        2,
+        7,
+        9,
+        2,
+        2,
+        2,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_gaius_s01c_skin1",
+      "atlasName": "fg_gaius_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        2,
+        5,
+        6,
+        2,
+        7,
+        10,
+        2,
+        2,
+        2,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_gaius_s01d_skin1",
+      "atlasName": "fg_gaius_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        2,
+        5,
+        6,
+        2,
+        7,
+        11,
+        2,
+        2,
+        2,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_gaius_s01e_skin1",
+      "atlasName": "fg_gaius_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        2,
+        5,
+        6,
+        2,
+        7,
+        12,
+        2,
+        2,
+        2,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_gaius_s01f_skin1",
+      "atlasName": "fg_gaius_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        2,
+        5,
+        6,
+        2,
+        7,
+        13,
+        2,
+        2,
+        2,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_gaius_s01g_skin1",
+      "atlasName": "fg_gaius_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        14,
+        2,
+        3,
+        15,
+        2,
+        16,
+        6,
+        2,
+        7,
+        17,
+        2,
+        2,
+        2,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_gaius_s01h_skin1",
+      "atlasName": "fg_gaius_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        2,
+        5,
+        6,
+        2,
+        7,
+        18,
+        2,
+        2,
+        2,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_gaius_s01i_skin1",
+      "atlasName": "fg_gaius_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        2,
+        5,
+        6,
+        2,
+        7,
+        19,
+        2,
+        2,
+        2,
+        2
+      ],
+      "transparentIndex": 2
+    }
+  ]
+}

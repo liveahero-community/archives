@@ -1,0 +1,166 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_traineeEarth_h01_skin1",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3335314477850351501
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_traineeEarth_h01_skin1",
+      "atlasName": "fg_traineeEarth_h01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        13
+      ],
+      "transparentIndex": 13
+    },
+    {
+      "name": "fg_traineeEarth_h01b_skin1",
+      "atlasName": "fg_traineeEarth_h01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        14,
+        15,
+        16,
+        12,
+        13,
+        13
+      ],
+      "transparentIndex": 13
+    },
+    {
+      "name": "fg_traineeEarth_h01c_skin1",
+      "atlasName": "fg_traineeEarth_h01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        17,
+        18,
+        16,
+        12,
+        13,
+        13
+      ],
+      "transparentIndex": 13
+    },
+    {
+      "name": "fg_traineeEarth_h01d_skin1",
+      "atlasName": "fg_traineeEarth_h01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        19,
+        20,
+        11,
+        12,
+        13,
+        13
+      ],
+      "transparentIndex": 13
+    },
+    {
+      "name": "fg_traineeEarth_h01e_skin1",
+      "atlasName": "fg_traineeEarth_h01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        21,
+        22,
+        16,
+        12,
+        13,
+        13
+      ],
+      "transparentIndex": 13
+    },
+    {
+      "name": "fg_traineeEarth_h01f_skin1",
+      "atlasName": "fg_traineeEarth_h01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        23,
+        24,
+        16,
+        12,
+        13,
+        13
+      ],
+      "transparentIndex": 13
+    }
+  ]
+}

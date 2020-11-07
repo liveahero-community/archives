@@ -1,0 +1,262 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_danzo_h01",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1402264722262537598
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_danzo_h01",
+      "atlasName": "fg_danzo_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_danzo_h01b",
+      "atlasName": "fg_danzo_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        13,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_danzo_h01c",
+      "atlasName": "fg_danzo_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        14,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_danzo_h01d",
+      "atlasName": "fg_danzo_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        15,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_danzo_h01e",
+      "atlasName": "fg_danzo_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        16,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_danzo_h01f",
+      "atlasName": "fg_danzo_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        17,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_danzo_h01g",
+      "atlasName": "fg_danzo_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        18,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_danzo_h01h",
+      "atlasName": "fg_danzo_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        19,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_danzo_h01i",
+      "atlasName": "fg_danzo_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        20,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_danzo_h01j",
+      "atlasName": "fg_danzo_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        21,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    }
+  ]
+}

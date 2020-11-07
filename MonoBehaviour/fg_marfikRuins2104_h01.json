@@ -1,0 +1,166 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_marfikRuins2104_h01",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8279898021212204612
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_marfikRuins2104_h01",
+      "atlasName": "fg_marfikRuins2104_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_marfikRuins2104_h01b",
+      "atlasName": "fg_marfikRuins2104_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        14,
+        8,
+        15,
+        16,
+        11,
+        12,
+        13,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_marfikRuins2104_h01c",
+      "atlasName": "fg_marfikRuins2104_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        17,
+        8,
+        18,
+        19,
+        11,
+        12,
+        13,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_marfikRuins2104_h01d",
+      "atlasName": "fg_marfikRuins2104_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        20,
+        8,
+        15,
+        21,
+        11,
+        12,
+        13,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_marfikRuins2104_h01e",
+      "atlasName": "fg_marfikRuins2104_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        22,
+        8,
+        23,
+        24,
+        11,
+        12,
+        13,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_marfikRuins2104_h01f",
+      "atlasName": "fg_marfikRuins2104_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        22,
+        8,
+        18,
+        25,
+        11,
+        12,
+        13,
+        12
+      ],
+      "transparentIndex": 12
+    }
+  ]
+}
