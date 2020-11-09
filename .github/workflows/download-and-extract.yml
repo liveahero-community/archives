@@ -86,7 +86,7 @@ jobs:
       - uses: actions/checkout@v2
         if: env.BUNDLE_COUNT != '0'
         with:
-          ref: ${{ env.BUNDLE_COUNT }}
+          ref: ${{ env.ARTIFACTS_BRANCH }}
           clean: false
 
       - name: Commit artifacts
