@@ -45,6 +45,7 @@ jobs:
           npm run download:official-bundles
           $Env:BUNDLE_COUNT = (Get-ChildItem ${env:BUNDLES_DIR} | Measure-Object).Count
           Write-Output "BUNDLE_COUNT: ${env:BUNDLE_COUNT}"
+          echo "BUNDLE_COUNT=${env:BUNDLE_COUNT}" >> ${env:GITHUB_ENV}
 
       - name: Extract bundles
         if: env.BUNDLE_COUNT != '0'
