@@ -20,7 +20,7 @@ jobs:
       BUNDLES_DIR: bundles
       ARTIFACTS_DIR: artifacts
       FINISH_INDICATOR: done
-      SELECTED_FOLDERS: Texture2D, Sprite, Monobehaviour
+      SELECTED_FOLDERS: Texture2D, Sprite, MonoBehaviour
       ARTIFACTS_BRANCH: artifacts
     runs-on: windows-2019
     strategy:
