@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6006905502221329114
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6908784138586223207
+  },
+  "m_Name": "",
+  "Canvas": {
+    "m_FileID": 0,
+    "m_PathID": 6006905502221329114
+  },
+  "BuyMessage": {
+    "m_FileID": 0,
+    "m_PathID": 259512571830723104
+  }
+}

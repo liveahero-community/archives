@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6606060371108037278
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8124718764800776323
+  },
+  "m_Name": "",
+  "powerupButton": {
+    "m_FileID": 0,
+    "m_PathID": 472722217998450952
+  },
+  "rankupButton": {
+    "m_FileID": 0,
+    "m_PathID": -4505228264031438620
+  },
+  "loveindexupButton": {
+    "m_FileID": 0,
+    "m_PathID": -7759650634253328927
+  },
+  "SidekickRankupButton": {
+    "m_FileID": 0,
+    "m_PathID": -964701479947152110
+  },
+  "IncreaseFanButton": {
+    "m_FileID": 0,
+    "m_PathID": -2427158903172595073
+  },
+  "lvupReference": {
+    "m_AssetGUID": "7875df4cca9fadd40b7518d225b1ed49",
+    "m_SubObjectName": ""
+  }
+}

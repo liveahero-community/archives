@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7129532722365089009
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1891669630129263875
+  },
+  "m_Name": "",
+  "SalesName": {
+    "m_FileID": 0,
+    "m_PathID": -5258795747489786798
+  },
+  "Hour": {
+    "m_FileID": 0,
+    "m_PathID": 1326126165935844546
+  },
+  "Minutes": {
+    "m_FileID": 0,
+    "m_PathID": -4417443849573784510
+  },
+  "Exp": {
+    "m_FileID": 0,
+    "m_PathID": 1252072951383947506
+  },
+  "CharacterLimit": {
+    "m_FileID": 0,
+    "m_PathID": 4342566467071342937
+  },
+  "SalesIcon": {
+    "m_FileID": 0,
+    "m_PathID": 643436546935830049
+  },
+  "ItemObjectPool": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6086387546815831970
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1652246018410356122
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2985470300280235171
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2918160436302155836
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2100129251050446270
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 385582094838691844
+    }
+  ],
+  "BonusObjectPool": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6605399569188985271
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7476786902327074384
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 525411835847348730
+    }
+  ],
+  "salesId": 0
+}

@@ -1,0 +1,80 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4264707238547989395
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5921989570484104508
+  },
+  "m_Name": "",
+  "button": {
+    "m_FileID": 0,
+    "m_PathID": -5290628782599970888
+  },
+  "HeroSerifView": {
+    "m_FileID": 0,
+    "m_PathID": 2954759731120860835
+  },
+  "SidekickSerifView": {
+    "m_FileID": 0,
+    "m_PathID": -6567317141328275214
+  },
+  "HeroPlayable": {
+    "m_FileID": 0,
+    "m_PathID": -3967703865221429279
+  },
+  "SidekickPlayable": {
+    "m_FileID": 0,
+    "m_PathID": -3351918695030718909
+  },
+  "MixPlayable": {
+    "m_FileID": 0,
+    "m_PathID": -6331862198314822989
+  },
+  "HeroImage": {
+    "m_FileID": 0,
+    "m_PathID": 6154563050399752599
+  },
+  "SidekickImage": {
+    "m_FileID": 0,
+    "m_PathID": 7788488612606734338
+  },
+  "MixHeroImage": {
+    "m_FileID": 0,
+    "m_PathID": 1752160150624468538
+  },
+  "MixSidekickImage": {
+    "m_FileID": 0,
+    "m_PathID": 6181668676845315221
+  },
+  "EquipSkillObject": {
+    "m_FileID": 0,
+    "m_PathID": -2907054793275557116
+  },
+  "BeforeLv": {
+    "m_FileID": 0,
+    "m_PathID": -8277169952986645751
+  },
+  "AfterLv": {
+    "m_FileID": 0,
+    "m_PathID": -749234379811860187
+  },
+  "GetSkillInfo": {
+    "m_FileID": 0,
+    "m_PathID": -8367544061495812827
+  },
+  "ResultObject": {
+    "m_FileID": 0,
+    "m_PathID": -5799452081529944590
+  },
+  "SkillObject": {
+    "m_FileID": 0,
+    "m_PathID": -6018374146600207247
+  },
+  "RelationMaxView": {
+    "m_FileID": 0,
+    "m_PathID": -5026224055618432102
+  }
+}

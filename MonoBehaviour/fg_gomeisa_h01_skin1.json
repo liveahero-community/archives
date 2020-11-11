@@ -1,0 +1,190 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_gomeisa_h01_skin1",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2077371109885343839
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_gomeisa_h01_skin1",
+      "atlasName": "fg_gomeisa_h01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_gomeisa_h01b_skin1",
+      "atlasName": "fg_gomeisa_h01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        12,
+        26,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_gomeisa_h01c_skin1",
+      "atlasName": "fg_gomeisa_h01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        27,
+        28,
+        29,
+        12,
+        26,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_gomeisa_h01d_skin1",
+      "atlasName": "fg_gomeisa_h01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        27,
+        30,
+        29,
+        12,
+        26,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_gomeisa_h01e_skin1",
+      "atlasName": "fg_gomeisa_h01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        27,
+        31,
+        29,
+        12,
+        26,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_gomeisa_h01f_skin1",
+      "atlasName": "fg_gomeisa_h01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        27,
+        32,
+        29,
+        12,
+        26,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_gomeisa_h01g_skin1",
+      "atlasName": "fg_gomeisa_h01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        27,
+        33,
+        29,
+        12,
+        26,
+        12
+      ],
+      "transparentIndex": 12
+    }
+  ]
+}

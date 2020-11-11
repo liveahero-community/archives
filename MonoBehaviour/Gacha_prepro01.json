@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "Gacha_prepro01",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5908422749388545182
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7348475625227296144
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -928913789567276240
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 55341205907994709
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5465444370908494910
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3027042814305839900
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9142439571620175155
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2070567611323903662
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2418931317304758769
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5275306145553270528
+    }
+  ],
+  "m_FixedDuration": 5.5166666666666666,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0
+  },
+  "m_DurationMode": 1,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

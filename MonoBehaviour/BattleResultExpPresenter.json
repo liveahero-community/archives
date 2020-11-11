@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6482986977713622162
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5759665357738930297
+  },
+  "m_Name": "",
+  "ExpBanner": {
+    "m_AssetGUID": "b19b2eda5905a1e4e8acbeafd2ca1b54",
+    "m_SubObjectName": ""
+  },
+  "BannerArea": {
+    "m_FileID": 0,
+    "m_PathID": 5375658654085000359
+  }
+}

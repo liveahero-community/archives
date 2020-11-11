@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7865339972248088036
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1972475687503007080
+  },
+  "m_Name": "",
+  "Icon": {
+    "m_FileID": 0,
+    "m_PathID": 5383733604268386350
+  },
+  "Turn": {
+    "m_FileID": 0,
+    "m_PathID": 4057065362746416753
+  }
+}

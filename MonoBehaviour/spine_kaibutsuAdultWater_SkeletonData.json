@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8302033850027404168
+  },
+  "m_Name": "spine_kaibutsuAdultWater_SkeletonData",
+  "atlasAssets": [
+    {
+      "m_FileID": 1,
+      "m_PathID": 8586506819955438186
+    }
+  ],
+  "scale": 0.00135,
+  "skeletonJSON": {
+    "m_FileID": 2,
+    "m_PathID": 5054427361101591425
+  },
+  "skeletonDataModifiers": [],
+  "fromAnimation": [],
+  "toAnimation": [],
+  "duration": [],
+  "defaultMix": 0.2,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

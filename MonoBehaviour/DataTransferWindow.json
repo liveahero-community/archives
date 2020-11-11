@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1641578464939497179
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6962521769972411955
+  },
+  "m_Name": "",
+  "PopupRect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "transferCode": {
+    "m_FileID": 0,
+    "m_PathID": -321179810920015708
+  },
+  "passwordCode": {
+    "m_FileID": 0,
+    "m_PathID": -1533799994429112784
+  },
+  "TransferButton": {
+    "m_FileID": 0,
+    "m_PathID": -7769494248130061958
+  },
+  "CancelButton": {
+    "m_FileID": 0,
+    "m_PathID": -7787680474807468873
+  },
+  "SuccessButton": {
+    "m_FileID": 0,
+    "m_PathID": -7598733785618848666
+  },
+  "FailedButton": {
+    "m_FileID": 0,
+    "m_PathID": 6384459966449828188
+  },
+  "SuccessWindow": {
+    "m_FileID": 0,
+    "m_PathID": 9019941276881673988
+  },
+  "FailedWindow": {
+    "m_FileID": 0,
+    "m_PathID": 7179607022166961030
+  }
+}

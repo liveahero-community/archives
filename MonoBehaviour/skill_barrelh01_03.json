@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_barrelh01_03",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3641047240095423792
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3319675703436245530
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6722996573376275768
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1311100912218603350
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1343224695954595240
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7455715440185573913
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8384485434784391458
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5920873637998633367
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2567702766820229401
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4702017946831279457
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3465173250352397085
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 3776384302776285450
+  }
+}

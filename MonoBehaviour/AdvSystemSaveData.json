@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6075287801596531908
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2414941069066328199
+  },
+  "m_Name": "",
+  "dontUseSystemSaveData": 1,
+  "isAutoSaveOnQuit": 0,
+  "fileIOManager": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "directoryName": "SaveScene_Adv",
+  "fileName": "system"
+}

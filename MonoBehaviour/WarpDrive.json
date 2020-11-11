@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1539549868289197240
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7246737729977765264
+  },
+  "m_Name": "",
+  "warpFX": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "lensFlare": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "FlashTexture": {
+    "m_FileID": 0,
+    "m_PathID": 6388925105131341792
+  }
+}

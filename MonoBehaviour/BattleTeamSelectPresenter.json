@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1457609246779513266
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6796043941807137716
+  },
+  "m_Name": "",
+  "BackButton": {
+    "m_FileID": 0,
+    "m_PathID": 7691186248568194970
+  },
+  "BattleButton": {
+    "m_FileID": 0,
+    "m_PathID": -2251597952098591042
+  },
+  "TeamEditWindow": {
+    "m_FileID": 0,
+    "m_PathID": 4862942524953143959
+  }
+}

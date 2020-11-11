@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7141965998574480087
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6574831872915953476
+  },
+  "m_Name": "",
+  "speed": 2.0,
+  "distance": 0.3,
+  "destroyTime": 1.5,
+  "text": {
+    "m_FileID": 0,
+    "m_PathID": 633537962000250741
+  },
+  "NowDisplay": 0
+}

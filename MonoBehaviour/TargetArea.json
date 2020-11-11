@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9002428292388938296
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8959981035848544670
+  },
+  "m_Name": "",
+  "ObservableEventTrigger": {
+    "m_FileID": 0,
+    "m_PathID": 8391884512541571013
+  }
+}

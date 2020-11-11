@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5576883794232588317
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6009864321087546460
+  },
+  "m_Name": "",
+  "BackGroundRed": {
+    "m_FileID": 0,
+    "m_PathID": -765757998095022506
+  },
+  "Slider": {
+    "m_FileID": 0,
+    "m_PathID": -3090251103502955467
+  },
+  "FillImage": {
+    "m_FileID": 0,
+    "m_PathID": -7717383648294001687
+  }
+}

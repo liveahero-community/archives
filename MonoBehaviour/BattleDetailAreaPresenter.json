@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2241448128328715305
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4707552827083028015
+  },
+  "m_Name": "",
+  "Tabs": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6323776871025383376
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1915862637517633450
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6264898536526026237
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8959160693689468225
+    }
+  ],
+  "Windows": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3531696401252264566
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5120178216552464849
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8473449701433334157
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4467601810943571384
+    }
+  ],
+  "ParameterView": {
+    "m_FileID": 0,
+    "m_PathID": -309335350730460068
+  },
+  "SkillView": {
+    "m_FileID": 0,
+    "m_PathID": -5971442508733302187
+  },
+  "DetailStatusView": {
+    "m_FileID": 0,
+    "m_PathID": 395582229440050611
+  },
+  "DetailSkillEquip": {
+    "m_FileID": 0,
+    "m_PathID": -6229004348543971458
+  }
+}

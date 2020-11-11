@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8527721347768049860
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -964241068854535012
+  },
+  "m_Name": "",
+  "cellIdentifier": "MessageCellView",
+  "view": {
+    "m_FileID": 0,
+    "m_PathID": 4385518728643093582
+  }
+}

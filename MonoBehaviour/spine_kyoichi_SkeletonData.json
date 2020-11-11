@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8302033850027404168
+  },
+  "m_Name": "spine_kyoichi_SkeletonData",
+  "atlasAssets": [
+    {
+      "m_FileID": 1,
+      "m_PathID": 8956181205081915498
+    }
+  ],
+  "scale": 0.00147,
+  "skeletonJSON": {
+    "m_FileID": 4,
+    "m_PathID": 8206844749741549693
+  },
+  "skeletonDataModifiers": [],
+  "fromAnimation": [],
+  "toAnimation": [],
+  "duration": [],
+  "defaultMix": 0.2,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3758933413152062574
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7690396982758437526
+  },
+  "m_Name": "",
+  "MissionButton": {
+    "m_FileID": 0,
+    "m_PathID": -1061781401765286675
+  },
+  "title": {
+    "m_FileID": 0,
+    "m_PathID": 7115169187714642537
+  },
+  "Achieve": {
+    "m_FileID": 0,
+    "m_PathID": 2981520135035477939
+  },
+  "slider": {
+    "m_FileID": 0,
+    "m_PathID": 884543835260443267
+  },
+  "ClearedObject": {
+    "m_FileID": 0,
+    "m_PathID": -1845850828796483159
+  },
+  "ItemIcon": {
+    "m_FileID": 0,
+    "m_PathID": -8830379325238999719
+  },
+  "HeroIcon": {
+    "m_FileID": 0,
+    "m_PathID": 6788307242339616004
+  },
+  "SidekickIconObject": {
+    "m_FileID": 0,
+    "m_PathID": 9168074008987764542
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8302033850027404168
+  },
+  "m_Name": "spine_goro_SkeletonData",
+  "atlasAssets": [
+    {
+      "m_FileID": 1,
+      "m_PathID": -8217729462056749394
+    }
+  ],
+  "scale": 0.0015,
+  "skeletonJSON": {
+    "m_FileID": 2,
+    "m_PathID": -7684562241854507635
+  },
+  "skeletonDataModifiers": [],
+  "fromAnimation": [],
+  "toAnimation": [],
+  "duration": [],
+  "defaultMix": 0.2,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

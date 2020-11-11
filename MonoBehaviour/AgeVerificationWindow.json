@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8232532422872276820
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1092987660220426993
+  },
+  "m_Name": "",
+  "InputWindow": {
+    "m_FileID": 0,
+    "m_PathID": 5081212400815096532
+  },
+  "Year": {
+    "m_FileID": 0,
+    "m_PathID": -7070759326403203377
+  },
+  "Month": {
+    "m_FileID": 0,
+    "m_PathID": 3726368835826947903
+  },
+  "Day": {
+    "m_FileID": 0,
+    "m_PathID": 343566223543318889
+  },
+  "InputOKButton": {
+    "m_FileID": 0,
+    "m_PathID": 2538118156165646432
+  },
+  "InputCancelButton": {
+    "m_FileID": 0,
+    "m_PathID": 5641069315038017642
+  },
+  "ConfirmWindow": {
+    "m_FileID": 0,
+    "m_PathID": 4689955083177879375
+  },
+  "ConfirmBirthday": {
+    "m_FileID": 0,
+    "m_PathID": 3008178057505304132
+  },
+  "ConfirmOKButton": {
+    "m_FileID": 0,
+    "m_PathID": 1624382130719544661
+  },
+  "ConfirmCancelButton": {
+    "m_FileID": 0,
+    "m_PathID": 6517233961094224891
+  },
+  "PurchaseProducts": {
+    "m_FileID": 0,
+    "m_PathID": 933409101997482531
+  }
+}

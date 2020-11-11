@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6752204347434597122
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7420032320658215936
+  },
+  "m_Name": "",
+  "TutorialReferenceQueue": [
+    {
+      "m_AssetGUID": "6aa139b68f9686349a8160b7ef64d915",
+      "m_SubObjectName": ""
+    }
+  ],
+  "TutorialCode": "SalesEnd",
+  "TutorialType": 8192,
+  "SaveOnEndTutorial": 1
+}

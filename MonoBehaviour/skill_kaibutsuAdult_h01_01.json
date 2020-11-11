@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_kaibutsuAdult_h01_01",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -9141012021503662636
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7857005578032587373
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1404255138065638626
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -956726364076868043
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -8251953816250528722
+  }
+}

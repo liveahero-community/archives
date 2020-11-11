@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 103034642060677218
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6035711184707975509
+  },
+  "m_Name": "",
+  "AutoButton": {
+    "m_FileID": 0,
+    "m_PathID": -660397992064809178
+  },
+  "OnImage": {
+    "m_FileID": 0,
+    "m_PathID": -873867637595618225
+  },
+  "OffImage": {
+    "m_FileID": 0,
+    "m_PathID": 8451226388370210406
+  }
+}

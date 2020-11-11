@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1081662686518775246
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9113985073617024004
+  },
+  "m_Name": "",
+  "PlayerIdArea": {
+    "m_FileID": 0,
+    "m_PathID": -4164545835669152540
+  },
+  "SearchButton": {
+    "m_FileID": 0,
+    "m_PathID": -5650975027127500323
+  },
+  "MyPlayerId": {
+    "m_FileID": 0,
+    "m_PathID": -8424244638010588333
+  },
+  "CopyButton": {
+    "m_FileID": 0,
+    "m_PathID": -8914593372795621234
+  }
+}

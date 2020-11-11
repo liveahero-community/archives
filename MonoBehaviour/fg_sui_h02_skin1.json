@@ -1,0 +1,70 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_sui_h02_skin1",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3028459355410330368
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_sui_h02_skin1",
+      "atlasName": "fg_sui_h02_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    },
+    {
+      "name": "fg_sui_h02b_skin1",
+      "atlasName": "fg_sui_h02_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        13,
+        11,
+        12,
+        12,
+        12
+      ],
+      "transparentIndex": 12
+    }
+  ]
+}

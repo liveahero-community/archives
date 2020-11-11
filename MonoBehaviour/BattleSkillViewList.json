@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3955220340172741738
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5929105792030605698
+  },
+  "m_Name": "",
+  "BattleSkillViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4831583352139583130
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6185573314898073046
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4336058932152598758
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5147823086399250025
+    }
+  ]
+}

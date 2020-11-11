@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4505136737907424084
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6908476627201135977
+  },
+  "m_Name": "",
+  "OptionButton": {
+    "m_FileID": 0,
+    "m_PathID": 5848432618735012203
+  },
+  "MissionButton": {
+    "m_FileID": 0,
+    "m_PathID": -9176205253408812773
+  },
+  "PresentButton": {
+    "m_FileID": 0,
+    "m_PathID": 4057650248610034059
+  },
+  "FriendButton": {
+    "m_FileID": 0,
+    "m_PathID": -5421257203017717617
+  }
+}

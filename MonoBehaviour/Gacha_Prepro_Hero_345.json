@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "Gacha_Prepro_Hero_345",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3013856441116725497
+    }
+  ],
+  "m_FixedDuration": 5.5,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0
+  },
+  "m_DurationMode": 1,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -2757384219753249543
+  }
+}

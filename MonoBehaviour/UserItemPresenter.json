@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7819435322424620965
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7244664779525052781
+  },
+  "m_Name": "",
+  "MultipleLayout": {
+    "m_FileID": 0,
+    "m_PathID": 3001545600584732381
+  },
+  "UserItemView": {
+    "m_AssetGUID": "f051f723f2b00db478724ce15073b906",
+    "m_SubObjectName": ""
+  },
+  "TitleBar": {
+    "m_AssetGUID": "0f101576d0e48bf48a850e951bd9deed",
+    "m_SubObjectName": ""
+  },
+  "InstantiateArea": {
+    "m_FileID": 0,
+    "m_PathID": 2574712975795815884
+  }
+}

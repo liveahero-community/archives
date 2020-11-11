@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5793633584229013922
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2686636726609197661
+  },
+  "m_Name": "",
+  "SidekickName": {
+    "m_FileID": 0,
+    "m_PathID": -7333667036090035739
+  },
+  "SidekickImage": {
+    "m_FileID": 0,
+    "m_PathID": -32229025065096557
+  },
+  "BeforeRelationLimit": {
+    "m_FileID": 0,
+    "m_PathID": -4550359562244531484
+  },
+  "AfterRelationLimit": {
+    "m_FileID": 0,
+    "m_PathID": -3322900071327400266
+  },
+  "SkillEnhance": {
+    "m_FileID": 0,
+    "m_PathID": 7613101285564726679
+  },
+  "ConditionPresenter": {
+    "m_FileID": 0,
+    "m_PathID": -6018748561115010274
+  },
+  "ArrowImage": {
+    "m_FileID": 0,
+    "m_PathID": 8050676411822868449
+  }
+}

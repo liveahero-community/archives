@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4173834703841240189
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4982950923267993132
+  },
+  "m_Name": "",
+  "ItemListWindowAddress": "UserItemWindow",
+  "AccountTransferWindowAddress": "AccountTransferRegistWindow",
+  "ConfigWindowAddress": "ConfigWindow",
+  "PlayerSettingWindowAddress": "PlayerInfoWindow",
+  "ItemListButton": {
+    "m_FileID": 0,
+    "m_PathID": 3443368948953259411
+  },
+  "AccountTransferButton": {
+    "m_FileID": 0,
+    "m_PathID": -6566935199938554992
+  },
+  "ConfigButton": {
+    "m_FileID": 0,
+    "m_PathID": 4192383001113746732
+  },
+  "PlayerSettingButton": {
+    "m_FileID": 0,
+    "m_PathID": -1145158550314273959
+  },
+  "TitleButton": {
+    "m_FileID": 0,
+    "m_PathID": -1736417740101954236
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 2
+  },
+  "m_Name": "",
+  "PreLoadAssets": [
+    {
+      "m_AssetGUID": "14930aaad53c8844c96eb16a728fa2f4",
+      "m_SubObjectName": ""
+    },
+    {
+      "m_AssetGUID": "57268163808a5a04cb0118ebaff79a7d",
+      "m_SubObjectName": ""
+    },
+    {
+      "m_AssetGUID": "a8c15b24294a8664e95feda2f0f3a9ff",
+      "m_SubObjectName": ""
+    },
+    {
+      "m_AssetGUID": "258f9b2367640ac49b76cc19cef2e642",
+      "m_SubObjectName": ""
+    },
+    {
+      "m_AssetGUID": "49531f78ac373d146abadbe449ceb5af",
+      "m_SubObjectName": ""
+    }
+  ]
+}

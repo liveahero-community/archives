@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5172841261870955427
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5194026003169143083
+  },
+  "m_Name": "",
+  "CharacterDicingImage": {
+    "m_FileID": 0,
+    "m_PathID": 722381115862075663
+  },
+  "BeforeFanNumberText": {
+    "m_FileID": 0,
+    "m_PathID": -3843642869573813279
+  },
+  "PredictFanNumber": {
+    "m_FileID": 0,
+    "m_PathID": 7091247570716069412
+  },
+  "HeroName": {
+    "m_FileID": 0,
+    "m_PathID": -6034905866250170867
+  }
+}

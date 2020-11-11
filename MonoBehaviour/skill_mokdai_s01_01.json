@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_mokdai_s01_01",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -827745246037085438
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3002468525302029705
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 983024883460330012
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2706347800526077957
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1994879148940028444
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 3794427753933798473
+  }
+}

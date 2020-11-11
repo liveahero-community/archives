@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2014689194798688799
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1669481879842431651
+  },
+  "m_Name": "",
+  "BeforeTransformImage": {
+    "m_FileID": 0,
+    "m_PathID": 3275065611048741005
+  },
+  "AfterTransformImage": {
+    "m_FileID": 0,
+    "m_PathID": 5149314009223310875
+  },
+  "TimelineOnClickObserver": {
+    "m_FileID": 0,
+    "m_PathID": 6316625015117858192
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2307344982252422857
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7594224306739121947
+  },
+  "m_Name": "",
+  "BackButton": {
+    "m_FileID": 0,
+    "m_PathID": 1554777652058249345
+  },
+  "ButtonSpace": 110.0,
+  "Buttons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 836797191524931094
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5934357557791514057
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5757421612170734639
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -999542048376730090
+    }
+  ],
+  "DicingImage": {
+    "m_FileID": 0,
+    "m_PathID": -4601485985948385020
+  },
+  "HideUIs": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2307344982252422857
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6138337923990465922
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2795621337221591149
+    }
+  ],
+  "FaceButtonView": {
+    "m_FileID": 0,
+    "m_PathID": -3557882330985412397
+  },
+  "VoiceButtonView": {
+    "m_FileID": 0,
+    "m_PathID": 1294561450478454541
+  },
+  "FaceButton": {
+    "m_FileID": 0,
+    "m_PathID": -5757421612170734639
+  },
+  "VoiceButton": {
+    "m_FileID": 0,
+    "m_PathID": -999542048376730090
+  },
+  "BackGroundRayCaster": {
+    "m_FileID": 0,
+    "m_PathID": 4996677058205807153
+  },
+  "BattleButtonCategory": {
+    "m_FileID": 0,
+    "m_PathID": 7927040639148444370
+  },
+  "BattleCategoryButton": {
+    "m_FileID": 0,
+    "m_PathID": 836797191524931094
+  },
+  "SkinButton": {
+    "m_FileID": 0,
+    "m_PathID": 5934357557791514057
+  },
+  "WatchCharacterPresenter": {
+    "m_FileID": 0,
+    "m_PathID": -2509855706376768863
+  }
+}

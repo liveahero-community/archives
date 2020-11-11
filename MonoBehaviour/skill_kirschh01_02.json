@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_kirschh01_02",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4851510252291355340
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7312262933694557518
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5499852132700903020
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5655907629970461867
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3445644780590533946
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1415591227113255698
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -8452645193652860984
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6063624842879373998
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8950533921413038796
+  },
+  "m_Name": "",
+  "InfiniteScroll": {
+    "m_FileID": 0,
+    "m_PathID": 4768211517234613735
+  },
+  "BannerBase": {
+    "m_AssetGUID": "6faba24a92bf30541bf12d9c0972d380",
+    "m_SubObjectName": ""
+  },
+  "BannerToggle": {
+    "m_AssetGUID": "9f224be410263af4ca728cee4f0081dc",
+    "m_SubObjectName": ""
+  },
+  "BannerArea": {
+    "m_FileID": 0,
+    "m_PathID": 283408793454012840
+  },
+  "ToggleArea": {
+    "m_FileID": 0,
+    "m_PathID": -6698613955668632285
+  },
+  "LoadingText": {
+    "m_FileID": 0,
+    "m_PathID": 3207458702277671069
+  }
+}

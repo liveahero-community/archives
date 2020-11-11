@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_kyoichih01_02",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8534372719826952889
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7109031487106694153
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7478599279659792966
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4761530669741077396
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4121360426539584433
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7436268234730359092
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7884370193228454530
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -7717510043987476812
+  }
+}

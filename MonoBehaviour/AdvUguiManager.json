@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2717342748274440448
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8861490264254417478
+  },
+  "m_Name": "",
+  "engine": {
+    "m_FileID": 0,
+    "m_PathID": 3798206815888828203
+  },
+  "messageWindow": {
+    "m_FileID": 0,
+    "m_PathID": -8041506056485470853
+  },
+  "selection": {
+    "m_FileID": 0,
+    "m_PathID": 8871042108128889085
+  },
+  "backLog": {
+    "m_FileID": 0,
+    "m_PathID": -2478798920911366318
+  },
+  "disableMouseWheelBackLog": 0
+}

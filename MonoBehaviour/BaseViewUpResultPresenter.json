@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2235461633217488148
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5944765701062912225
+  },
+  "m_Name": "",
+  "ResultWindow": {
+    "m_FileID": 0,
+    "m_PathID": 5136791685467775015
+  },
+  "BeforeValue": {
+    "m_FileID": 0,
+    "m_PathID": 3620355704617646972
+  },
+  "AfterValue": {
+    "m_FileID": 0,
+    "m_PathID": 5645130680109691375
+  },
+  "TapArea": {
+    "m_FileID": 0,
+    "m_PathID": 8036081552507325348
+  },
+  "CharacterDicingImage": {
+    "m_FileID": 0,
+    "m_PathID": -431714126300945541
+  },
+  "Timeline": {
+    "m_FileID": 0,
+    "m_PathID": -4696112327144640957
+  }
+}

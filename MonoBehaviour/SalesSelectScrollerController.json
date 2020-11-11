@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7942611814822770372
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 277420914153001661
+  },
+  "m_Name": "",
+  "Scroller": {
+    "m_FileID": 0,
+    "m_PathID": 8756226733831260424
+  },
+  "cellSize": 124.0,
+  "QuestCellView": {
+    "m_FileID": 0,
+    "m_PathID": -6532509436244991946
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3134671099181844194
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2240410607754011196
+  },
+  "m_Name": "",
+  "BGMVolume": {
+    "m_FileID": 0,
+    "m_PathID": -475158049962686913
+  },
+  "SEVolume": {
+    "m_FileID": 0,
+    "m_PathID": 6325151708787221271
+  },
+  "VoiceVolume": {
+    "m_FileID": 0,
+    "m_PathID": -8831492712951205094
+  },
+  "InformationNotification": {
+    "m_FileID": 0,
+    "m_PathID": 871716011456119765
+  },
+  "SalesNotificationToggle": {
+    "m_FileID": 0,
+    "m_PathID": -373637380830116774
+  }
+}

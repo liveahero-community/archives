@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_crowne_h01_03",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8760537005325134928
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1780684369140713769
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2526728635921511172
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3090765656529911994
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6439816973348309676
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2386488603981284030
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 70131971940472887
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4742180574679281104
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3068559107235450796
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -8833310516596711595
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5577935505091645399
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7329340318435497035
+  },
+  "m_Name": "",
+  "PopupRect": {
+    "m_FileID": 0,
+    "m_PathID": -3573091940783718461
+  },
+  "CancelButton": {
+    "m_FileID": 0,
+    "m_PathID": 5840146218486896801
+  },
+  "RetireButton": {
+    "m_FileID": 0,
+    "m_PathID": -2400492724612679763
+  },
+  "ReturnButton": {
+    "m_FileID": 0,
+    "m_PathID": 6780111903165817546
+  }
+}

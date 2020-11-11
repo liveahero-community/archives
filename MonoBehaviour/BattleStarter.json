@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4540038524632094601
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -322913111253219141
+  },
+  "m_Name": "",
+  "test": 0,
+  "aspects": [],
+  "BattleOrderPresenter": {
+    "m_FileID": 0,
+    "m_PathID": -6064467212196192346
+  },
+  "BattleCommandPresenter": {
+    "m_FileID": 0,
+    "m_PathID": 6941861419673329646
+  },
+  "TargetArea": {
+    "m_FileID": 0,
+    "m_PathID": 2595658164081285255
+  },
+  "BattleCutinPresenter": {
+    "m_FileID": 0,
+    "m_PathID": 1972755485739562136
+  },
+  "BattleCharacterPresenterArea": {
+    "m_FileID": 0,
+    "m_PathID": -8547937056059021487
+  },
+  "BossCharacterPresenterArea": {
+    "m_FileID": 0,
+    "m_PathID": -7337969046949421689
+  },
+  "SpineArea": {
+    "m_FileID": 0,
+    "m_PathID": -5770899694583937677
+  },
+  "canvas": {
+    "m_FileID": 0,
+    "m_PathID": -1117470625451863239
+  },
+  "BattleListWindow": {
+    "m_FileID": 0,
+    "m_PathID": -4121289385005377379
+  },
+  "BattleStartCutin": {
+    "m_FileID": 0,
+    "m_PathID": -4656347861916281242
+  },
+  "BackGround": {
+    "m_FileID": 0,
+    "m_PathID": -3630890421588488951
+  },
+  "BossMark": {
+    "m_AssetGUID": "9991eb6e99e049d449f23b2c631f0cfe",
+    "m_SubObjectName": ""
+  },
+  "MenuPresenter": {
+    "m_FileID": 0,
+    "m_PathID": -5369708894265494486
+  },
+  "QuestId": 1,
+  "SerialNum": 3
+}

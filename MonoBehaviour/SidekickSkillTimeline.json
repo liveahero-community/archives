@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7762970950568400083
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6669618666446708889
+  },
+  "m_Name": "",
+  "Hero": {
+    "m_FileID": 0,
+    "m_PathID": -3407753976672776742
+  },
+  "Sidekick": {
+    "m_FileID": 0,
+    "m_PathID": 1103217068118357000
+  }
+}

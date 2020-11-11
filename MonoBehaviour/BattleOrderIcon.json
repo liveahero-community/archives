@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8364595607663783204
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4893670930103092056
+  },
+  "m_Name": "",
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": -7213793293945814848
+  },
+  "frame": {
+    "m_FileID": 0,
+    "m_PathID": 4760578996431072585
+  },
+  "element": {
+    "m_FileID": 0,
+    "m_PathID": -7607317311568459799
+  },
+  "ParticleSystem": {
+    "m_FileID": 0,
+    "m_PathID": 3786390972701055787
+  },
+  "ViewFrame": {
+    "m_FileID": 0,
+    "m_PathID": -6561318007583326783
+  },
+  "NeedView": {
+    "m_FileID": 0,
+    "m_PathID": 519458768989288795
+  }
+}

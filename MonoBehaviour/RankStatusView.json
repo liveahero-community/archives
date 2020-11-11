@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2495668244225680336
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5310194833168501698
+  },
+  "m_Name": "",
+  "lvValue": {
+    "m_FileID": 0,
+    "m_PathID": -3746203458723822762
+  },
+  "hpValue": {
+    "m_FileID": 0,
+    "m_PathID": -2815711674260269648
+  },
+  "atkValue": {
+    "m_FileID": 0,
+    "m_PathID": 4333209944977771020
+  },
+  "spdValue": {
+    "m_FileID": 0,
+    "m_PathID": -5245294659920937300
+  },
+  "viewValue": {
+    "m_FileID": 0,
+    "m_PathID": 608832979267247758
+  },
+  "DrawMaxLv": 0
+}

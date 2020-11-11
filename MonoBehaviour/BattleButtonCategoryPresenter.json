@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6761815810336361900
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6636218742130058680
+  },
+  "m_Name": "",
+  "BackButton": {
+    "m_FileID": 0,
+    "m_PathID": -63615531285045337
+  },
+  "ButtonSpace": 110.0,
+  "Buttons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6412567180481763516
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2930393227020991254
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2255860774299127757
+    }
+  ],
+  "HideUIs": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6138337923990465922
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6761815810336361900
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2795621337221591149
+    }
+  ],
+  "SpineAnimationView": {
+    "m_FileID": 0,
+    "m_PathID": -5661445450215997995
+  },
+  "SpineAnimationButton": {
+    "m_FileID": 0,
+    "m_PathID": 2255860774299127757
+  },
+  "SkinButton": {
+    "m_FileID": 0,
+    "m_PathID": 2930393227020991254
+  },
+  "BackFigureButton": {
+    "m_FileID": 0,
+    "m_PathID": 6412567180481763516
+  },
+  "BackGroundRayCaster": {
+    "m_FileID": 0,
+    "m_PathID": 4996677058205807153
+  },
+  "FigureButtonCategoryPresenter": {
+    "m_FileID": 0,
+    "m_PathID": -9048922927878198456
+  },
+  "WatchCharacterPresenter": {
+    "m_FileID": 0,
+    "m_PathID": -2509855706376768863
+  }
+}

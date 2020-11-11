@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2085882083685809582
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8446554794700661997
+  },
+  "m_Name": "",
+  "PlayerName": {
+    "m_FileID": 0,
+    "m_PathID": -5344271115944128162
+  },
+  "text": {
+    "m_FileID": 0,
+    "m_PathID": 2617081136737011403
+  },
+  "HankoAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 3025555219264717111
+  },
+  "HankoImage": {
+    "m_FileID": 0,
+    "m_PathID": 1640481113835557092
+  },
+  "Hanko1": {
+    "m_AssetGUID": "3129e47378381c445a14bbb3e42d2009",
+    "m_SubObjectName": ""
+  },
+  "Hanko2": {
+    "m_AssetGUID": "bc56c5568c1badd4b91f783e32a18b2e",
+    "m_SubObjectName": ""
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1989103566413497616
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9143351486067208772
+  },
+  "m_Name": "",
+  "PopupRect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "InfiniteScroll": {
+    "m_FileID": 0,
+    "m_PathID": -2559047380487758128
+  },
+  "RegionBanner": {
+    "m_AssetGUID": "0ead823c2f247d2488e6854bc167fdcf",
+    "m_SubObjectName": ""
+  },
+  "ToggleBase": {
+    "m_AssetGUID": "9f224be410263af4ca728cee4f0081dc",
+    "m_SubObjectName": ""
+  },
+  "presenter": {
+    "m_FileID": 0,
+    "m_PathID": -1166061579803147406
+  },
+  "ToggleArea": {
+    "m_FileID": 0,
+    "m_PathID": 386716936665064069
+  },
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 5322585934865093591
+  },
+  "TimeUntilText": {
+    "m_FileID": 0,
+    "m_PathID": 527806479921159737
+  }
+}

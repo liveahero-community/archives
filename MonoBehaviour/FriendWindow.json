@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1118386462296168037
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8321758462457743870
+  },
+  "m_Name": "",
+  "PopupRect": {
+    "m_FileID": 0,
+    "m_PathID": 1780927857384391788
+  },
+  "friendListPresenter": {
+    "m_FileID": 0,
+    "m_PathID": -1780667520609661506
+  },
+  "FriendRequestPresenter": {
+    "m_FileID": 0,
+    "m_PathID": -938819883262892706
+  },
+  "FriendSearchPresenter": {
+    "m_FileID": 0,
+    "m_PathID": -1512605746062116720
+  },
+  "FriendSearch": {
+    "m_FileID": 0,
+    "m_PathID": -1081662686518775246
+  },
+  "FriendSelector": {
+    "m_FileID": 0,
+    "m_PathID": -8130488358033440621
+  },
+  "FriendListButton": {
+    "m_FileID": 0,
+    "m_PathID": 4778484714621983063
+  },
+  "FriendRequestButton": {
+    "m_FileID": 0,
+    "m_PathID": 5813267788454222318
+  },
+  "FriendSearchButton": {
+    "m_FileID": 0,
+    "m_PathID": 305280019149233876
+  },
+  "EmptyMessage": {
+    "m_FileID": 0,
+    "m_PathID": 7702248097659536837
+  },
+  "nowFriendCount": {
+    "m_FileID": 0,
+    "m_PathID": -54538971204292834
+  }
+}

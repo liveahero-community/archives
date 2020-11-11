@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_narihitoh01_02",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3695022185817428132
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6783462920869288526
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4632510495232729117
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7358917402036720277
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1394950400957259554
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5504435745665091064
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1891224073250287954
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8232316623597828349
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 1624208563969859391
+  }
+}

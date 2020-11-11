@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 510082734817397116
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5401837608373344980
+  },
+  "m_Name": "",
+  "IllustratorName": {
+    "m_FileID": 0,
+    "m_PathID": 8231729585816219916
+  },
+  "VoiceActorName": {
+    "m_FileID": 0,
+    "m_PathID": -4311070645642437765
+  },
+  "OfficeName": {
+    "m_FileID": 0,
+    "m_PathID": -491448080645936866
+  },
+  "JobName": {
+    "m_FileID": 0,
+    "m_PathID": -3983919905274376395
+  },
+  "DetailStoryView": {
+    "m_FileID": 0,
+    "m_PathID": -3390210341998679503
+  },
+  "StillStoryView": {
+    "m_FileID": 0,
+    "m_PathID": 4772728065156644703
+  },
+  "MultipleLayout": {
+    "m_FileID": 0,
+    "m_PathID": -3611095885839477273
+  }
+}

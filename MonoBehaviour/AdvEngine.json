@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8591147843782734947
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2985913413865172160
+  },
+  "m_Name": "",
+  "graphicManager": {
+    "m_FileID": 0,
+    "m_PathID": 6128934475194657195
+  },
+  "effectManager": {
+    "m_FileID": 0,
+    "m_PathID": -7492562173248740325
+  },
+  "uiManager": {
+    "m_FileID": 0,
+    "m_PathID": 159619331067964082
+  },
+  "soundManager": {
+    "m_FileID": 0,
+    "m_PathID": -5594188430866974489
+  },
+  "cameraManager": {
+    "m_FileID": 0,
+    "m_PathID": 8078260569469686318
+  },
+  "time": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "bootAsync": 0,
+  "isStopSoundOnStart": 1,
+  "isStopSoundOnEnd": 1,
+  "onPreInit": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onOpenDialog": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onPageTextChange": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "OnClear": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onChangeLanguage": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

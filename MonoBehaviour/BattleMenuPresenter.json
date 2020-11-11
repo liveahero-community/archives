@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3878151961762973892
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5539469776360482941
+  },
+  "m_Name": "",
+  "MenuButton": {
+    "m_FileID": 0,
+    "m_PathID": -1164015794614953727
+  },
+  "ListButton": {
+    "m_FileID": 0,
+    "m_PathID": 2502401231906402799
+  },
+  "ListWindow": {
+    "m_FileID": 0,
+    "m_PathID": -4121289385005377379
+  },
+  "RetireWinodw": {
+    "m_FileID": 0,
+    "m_PathID": -8409439140923445769
+  }
+}

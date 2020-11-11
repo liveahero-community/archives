@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_digramh01_03",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1773955242995052966
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1274595658817955557
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3436415664698857906
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9142853309863387528
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4240057505537825193
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3762059237748506433
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1824919273101361901
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6905569543245347443
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1172805433093303820
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -350041330699864376
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1916149268298174115
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 822320076333747328
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -7830711021432373765
+  }
+}

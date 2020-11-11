@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5614511319961406783
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1305477760541761974
+  },
+  "m_Name": "",
+  "ComboNum": {
+    "m_FileID": 0,
+    "m_PathID": 1436376412801052043
+  },
+  "ComboMult": {
+    "m_FileID": 0,
+    "m_PathID": -2547926915404121030
+  },
+  "ComboObject": {
+    "m_FileID": 0,
+    "m_PathID": -5614511319961406783
+  }
+}

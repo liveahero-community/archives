@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3005893215882471539
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4101113475662354810
+  },
+  "m_Name": "",
+  "PinchObject": {
+    "m_FileID": 0,
+    "m_PathID": -971611653120735478
+  },
+  "onPinchInDisableSelectables": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4136295347955896168
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8798226457052477648
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6407559600876759040
+  },
+  "m_Name": "",
+  "FriendRequestWindow": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "RewardWindow": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

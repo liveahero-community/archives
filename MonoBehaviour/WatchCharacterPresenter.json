@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1153446245400779723
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3769728755017516254
+  },
+  "m_Name": "",
+  "Transform": {
+    "m_FileID": 0,
+    "m_PathID": 3155005531343001401
+  },
+  "Image": {
+    "m_FileID": 0,
+    "m_PathID": -4601485985948385020
+  },
+  "SpineDrag": {
+    "m_FileID": 0,
+    "m_PathID": 2782365479709410908
+  },
+  "SpinePinch": {
+    "m_FileID": 0,
+    "m_PathID": -5382719975177832669
+  },
+  "ImageDrag": {
+    "m_FileID": 0,
+    "m_PathID": 543663237983671
+  },
+  "ImagePinch": {
+    "m_FileID": 0,
+    "m_PathID": -971611653120735478
+  },
+  "PinchHandler": {
+    "m_FileID": 0,
+    "m_PathID": -8281348120352922853
+  },
+  "DragHandler": {
+    "m_FileID": 0,
+    "m_PathID": 93148190769351682
+  },
+  "ResetButton": {
+    "m_FileID": 0,
+    "m_PathID": -2034567312812948528
+  },
+  "VoiceView": {
+    "m_FileID": 0,
+    "m_PathID": 1294561450478454541
+  },
+  "battleCategoryPresenter": {
+    "m_FileID": 0,
+    "m_PathID": 7927040639148444370
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4553910967200104350
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1329431862790092533
+  },
+  "m_Name": "",
+  "productName": {
+    "m_FileID": 0,
+    "m_PathID": 6893625442543048826
+  },
+  "limitnum": {
+    "m_FileID": 0,
+    "m_PathID": -9176093324401690384
+  },
+  "PriceIcon": {
+    "m_FileID": 0,
+    "m_PathID": 7090653289226570579
+  },
+  "PriceNum": {
+    "m_FileID": 0,
+    "m_PathID": 5037216609133475560
+  },
+  "HaveValue": {
+    "m_FileID": 0,
+    "m_PathID": 2065869065654030480
+  },
+  "button": {
+    "m_FileID": 0,
+    "m_PathID": 6539153406210997539
+  },
+  "BlackOut": {
+    "m_FileID": 0,
+    "m_PathID": -8876870720015577630
+  },
+  "RewardDrawer": {
+    "m_FileID": 0,
+    "m_PathID": -4944888249581747093
+  }
+}

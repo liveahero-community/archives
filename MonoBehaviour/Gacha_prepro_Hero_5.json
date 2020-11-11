@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "Gacha_prepro_Hero_5",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -909954554358741736
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6899938197343186040
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6144333825353271977
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5497884275644343606
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8644546878134784564
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7304585116547228083
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5844680379553830028
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3560563057053981343
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 126390025998717422
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -492959767097181857
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7703520736301252518
+    }
+  ],
+  "m_FixedDuration": 5.5166666666666666,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0
+  },
+  "m_DurationMode": 1,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -2258244899339341350
+  }
+}

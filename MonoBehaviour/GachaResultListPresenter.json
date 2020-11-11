@@ -1,0 +1,90 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6556103915002721864
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5999134607154197481
+  },
+  "m_Name": "",
+  "BackButton": {
+    "m_FileID": 0,
+    "m_PathID": -6723621079330718807
+  },
+  "ContinueButtonPresenter": {
+    "m_FileID": 0,
+    "m_PathID": -8357540620045315109
+  },
+  "ContinueButton": {
+    "m_FileID": 0,
+    "m_PathID": -6357970133987081791
+  },
+  "TenGachaArea": {
+    "m_FileID": 0,
+    "m_PathID": -1215124158423410973
+  },
+  "OneGachaArea": {
+    "m_FileID": 0,
+    "m_PathID": -2730850023342511359
+  },
+  "TenGachaIcon": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2702498590897054012
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9086276499999595689
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1416401235867145395
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2022857717624362754
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2209742590189561699
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4419288845692576703
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6371296405870621722
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -214327340773344550
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1962105433118385629
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -398813269345604097
+    }
+  ],
+  "OneResultIcon": {
+    "m_FileID": 0,
+    "m_PathID": 6806124235241304873
+  },
+  "HeroIconObject": {
+    "m_AssetGUID": "eed513efc45102242944c52198f830ad",
+    "m_SubObjectName": ""
+  },
+  "SidekickIconObject": {
+    "m_AssetGUID": "c2acc3cd93b831c478182e3fb9e9e3b2",
+    "m_SubObjectName": ""
+  },
+  "ItemIconObject": {
+    "m_AssetGUID": "12b5f93498193274ea69c31afdbced9c",
+    "m_SubObjectName": ""
+  }
+}

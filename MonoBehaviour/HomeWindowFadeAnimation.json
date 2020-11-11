@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2118538956113488229
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5668009281599397758
+  },
+  "m_Name": "",
+  "CanvasGroups": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3179253966211740630
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7689852456047236465
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6853385609329369232
+    }
+  ],
+  "BackGroundOrangeBar": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2574503021162377589
+    }
+  ]
+}

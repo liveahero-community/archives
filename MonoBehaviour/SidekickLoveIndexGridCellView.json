@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8421292203947542571
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6226324391246226933
+  },
+  "m_Name": "",
+  "cellIdentifier": "SidekickLoveIndexGridCellView",
+  "Objects": [],
+  "SidekickObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3843467351772016197
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4042043779998573044
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2169404572795784242
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4221022922407117327
+    }
+  ]
+}

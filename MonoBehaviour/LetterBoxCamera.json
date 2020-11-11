@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7244275052822124678
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 571481468074997074
+  },
+  "m_Name": "",
+  "pixelsToUnits": 100,
+  "width": 640,
+  "height": 1136,
+  "isFlexible": 0,
+  "maxWidth": 640,
+  "maxHeight": 1136,
+  "anchor": 4,
+  "OnGameScreenSizeChange": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "zoom2D": 1.0,
+  "zoom2DCenter": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

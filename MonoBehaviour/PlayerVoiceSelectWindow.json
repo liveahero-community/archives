@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3686479631048179457
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2868329475166019882
+  },
+  "m_Name": "",
+  "PopupRect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OKButton": {
+    "m_FileID": 0,
+    "m_PathID": -7906668030701942873
+  },
+  "CloseButton": {
+    "m_FileID": 0,
+    "m_PathID": 4390426725727926735
+  },
+  "VoiceButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4604957515528671522
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -73346382992789804
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5733906909095639969
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6621275655264357969
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7530772317154226916
+    }
+  ],
+  "CharacterDicingImage": {
+    "m_FileID": 0,
+    "m_PathID": 1836956976909960120
+  }
+}

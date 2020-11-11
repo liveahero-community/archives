@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1942651276559794291
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 178372622734093918
+  },
+  "m_Name": "",
+  "GetAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -6099549705850059878
+  },
+  "BlackOut": {
+    "m_FileID": 0,
+    "m_PathID": -4849412806997786521
+  }
+}

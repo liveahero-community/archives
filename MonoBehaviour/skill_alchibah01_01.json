@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_alchibah01_01",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3080366826189477851
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4129283263750516301
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6392116236316447831
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4258428746596992376
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3019478500448736812
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 3034685107940417396
+  }
+}

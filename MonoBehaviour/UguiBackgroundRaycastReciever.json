@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7818885628097343104
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3084216354689989632
+  },
+  "m_Name": "",
+  "raycaster": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

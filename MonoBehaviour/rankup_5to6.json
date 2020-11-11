@@ -1,0 +1,116 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "rankup_5to6",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5486687955143122454
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8284068287996057129
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5404171902004938121
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6048173654856299718
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1867449940105856434
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3593905065524805348
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5856480952138148829
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6655589286889248654
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2254164160747331226
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8330084157269113281
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2216359692775917989
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1489583264080608722
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8086397126649234112
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5494060697692831696
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4983279128741500543
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8462351980401141405
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3789296202059751971
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6744650056521651211
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7288872820644551596
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6351200173685606825
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2050066120909312624
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8333438001960190294
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7877284467518034382
+    }
+  ],
+  "m_FixedDuration": 7.5,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0
+  },
+  "m_DurationMode": 1,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -4418752956822290585
+  }
+}

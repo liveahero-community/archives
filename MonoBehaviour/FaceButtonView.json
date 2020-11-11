@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7859406806256506540
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4303659632786656934
+  },
+  "m_Name": "",
+  "BackButton": {
+    "m_FileID": 0,
+    "m_PathID": -2852794126980026852
+  },
+  "ButtonSpace": 65.0,
+  "Buttons": [],
+  "FaceChangeButton": {
+    "m_AssetGUID": "91ee03619c0d4c4418b417a49706b1c2",
+    "m_SubObjectName": ""
+  },
+  "figureButtonCategoryPresenter": {
+    "m_FileID": 0,
+    "m_PathID": 9019412439228385497
+  },
+  "CharacterDicingImage": {
+    "m_FileID": 0,
+    "m_PathID": 3041284576349037448
+  }
+}

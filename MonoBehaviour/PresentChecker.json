@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3698200973915659426
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4359110525991806799
+  },
+  "m_Name": "",
+  "Checker": {
+    "m_FileID": 0,
+    "m_PathID": 1674476983423302914
+  },
+  "CheckerValueText": {
+    "m_FileID": 0,
+    "m_PathID": -1936996068117239870
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7875703487811359855
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2850450596118268240
+  },
+  "m_Name": "",
+  "IconArea": {
+    "m_FileID": 0,
+    "m_PathID": 1684137869531470922
+  },
+  "ItemIconObject": {
+    "m_AssetGUID": "12b5f93498193274ea69c31afdbced9c",
+    "m_SubObjectName": ""
+  },
+  "HeroIconObject": {
+    "m_AssetGUID": "eed513efc45102242944c52198f830ad",
+    "m_SubObjectName": ""
+  },
+  "SidekickIconObject": {
+    "m_AssetGUID": "c2acc3cd93b831c478182e3fb9e9e3b2",
+    "m_SubObjectName": ""
+  }
+}

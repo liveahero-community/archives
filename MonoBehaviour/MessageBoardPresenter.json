@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -946393966495850944
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2391979198217646404
+  },
+  "m_Name": "",
+  "Message": {
+    "m_FileID": 0,
+    "m_PathID": -2264801867412296214
+  },
+  "Received": {
+    "m_FileID": 0,
+    "m_PathID": -3158083175025907824
+  },
+  "AllGetButton": {
+    "m_FileID": 0,
+    "m_PathID": -7903682444186328342
+  },
+  "banner": {
+    "m_AssetGUID": "28d5465b1f594d5439ec5d3b73c88f59",
+    "m_SubObjectName": ""
+  },
+  "ScrollerController": {
+    "m_FileID": 0,
+    "m_PathID": -2177207550326964526
+  },
+  "EmptyMessage": {
+    "m_FileID": 0,
+    "m_PathID": -4539430012526131238
+  }
+}

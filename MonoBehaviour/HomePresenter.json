@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6609026810602608586
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3186297854054391883
+  },
+  "m_Name": "",
+  "MainCommandPresenter": {
+    "m_FileID": 0,
+    "m_PathID": 2777302786420620861
+  },
+  "SubCommandPresenter": {
+    "m_FileID": 0,
+    "m_PathID": 325060931256911465
+  },
+  "UIObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4505136737907424084
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8154835264050161018
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_goroh01_01",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7683356420250754874
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6384628928249403484
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -21007822388260273
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2712291038861468300
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3887380598576369745
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -3370778524558411000
+  }
+}

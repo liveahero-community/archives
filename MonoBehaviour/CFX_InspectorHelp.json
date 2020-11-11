@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8038214932696175224
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4316498336666064697
+  },
+  "m_Name": "",
+  "Locked": 1,
+  "Title": "PARTICLES COLLISION",
+  "HelpText": "You must edit the Collision tab on the children's Particle System Inspector of this object to make the collisions work properly.\nRelevant children to edit have the COL prefix on their name.",
+  "MsgType": 2
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3005893215882471539
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3786553848044379356
+  },
+  "m_Name": "",
+  "DragObject": {
+    "m_FileID": 0,
+    "m_PathID": 543663237983671
+  },
+  "onPinchInDisableSelectables": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4136295347955896168
+    }
+  ]
+}

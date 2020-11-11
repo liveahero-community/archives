@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1058514440715033907
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5476182743479351812
+  },
+  "m_Name": "",
+  "cellIdentifier": "BattleSupportBanner",
+  "SupportBannerView": {
+    "m_FileID": 0,
+    "m_PathID": -2305460128355465192
+  },
+  "BannerButton": {
+    "m_FileID": 0,
+    "m_PathID": 8529462157263377152
+  },
+  "FriendPointLabel": {
+    "m_FileID": 0,
+    "m_PathID": -3999064235995030298
+  },
+  "FriendPoint": {
+    "m_FileID": 0,
+    "m_PathID": -588874529942873806
+  },
+  "IsFriendMark": {
+    "m_FileID": 0,
+    "m_PathID": 5919674332595038989
+  },
+  "IsNPCMark": {
+    "m_FileID": 0,
+    "m_PathID": 7698484792777250462
+  },
+  "HeroIconButton": {
+    "m_FileID": 0,
+    "m_PathID": -3555892539145324451
+  },
+  "SidekickIconButton": {
+    "m_FileID": 0,
+    "m_PathID": -6825174944340465673
+  },
+  "NPCName": {
+    "m_FileID": 0,
+    "m_PathID": -6259101729888824264
+  },
+  "Banner": {
+    "m_FileID": 0,
+    "m_PathID": -6060393213715062806
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4040821573747561949
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6480303580933621555
+  },
+  "m_Name": "",
+  "m_FitTarget": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_FitOnLateUpdate": 0,
+  "m_OnlyForChildren": 0,
+  "m_ShowUnmaskGraphic": 0
+}

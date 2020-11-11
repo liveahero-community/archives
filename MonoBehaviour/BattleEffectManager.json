@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4540038524632094601
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3526457343625214941
+  },
+  "m_Name": "",
+  "DamageEffectRef": {
+    "m_AssetGUID": "81f768a3f7297f44286c7109bf87564f",
+    "m_SubObjectName": ""
+  },
+  "HealEffectRef": {
+    "m_AssetGUID": "f40e06c08d3af834dab11160e8da9fbc",
+    "m_SubObjectName": ""
+  },
+  "PowerUpEffectRef": {
+    "m_AssetGUID": "7837f663fca467e4395506004a09dbc1",
+    "m_SubObjectName": ""
+  },
+  "PowerDownEffectRef": {
+    "m_AssetGUID": "f876200217ea1754281926f627a03b01",
+    "m_SubObjectName": ""
+  },
+  "DotDamageEffectRef": {
+    "m_AssetGUID": "81f768a3f7297f44286c7109bf87564f",
+    "m_SubObjectName": ""
+  },
+  "MoreTurnEffectRef": {
+    "m_AssetGUID": "6d44bebbd5efd1d48b56c54d84b026e6",
+    "m_SubObjectName": ""
+  },
+  "TurnEffect": {
+    "m_FileID": 0,
+    "m_PathID": 5124926417494505815
+  },
+  "EffectArea": {
+    "m_FileID": 0,
+    "m_PathID": -5647070444203876112
+  }
+}

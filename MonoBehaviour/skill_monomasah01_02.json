@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_monomasah01_02",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6366205407087683678
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 617303189309725224
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2220764965476212646
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 555679846017804962
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4808211051696534844
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1761905519403826077
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7629721094853215051
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

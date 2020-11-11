@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5137947520775253068
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4084704089207854994
+  },
+  "m_Name": "",
+  "masterVolume": 1.0,
+  "taggedMasterVolumes": [],
+  "duckVolume": 0.5,
+  "duckFadeTime": 0.1,
+  "defaultFadeTime": 0.2,
+  "defaultVoiceFadeTime": 0.05,
+  "voicePlayMode": 1,
+  "onCreateSoundSystem": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

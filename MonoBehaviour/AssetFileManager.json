@@ -1,0 +1,112 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9018645154697646171
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8332986118656183527
+  },
+  "m_Name": "",
+  "fileIOManager": {
+    "m_FileID": 0,
+    "m_PathID": -4202300485830301087
+  },
+  "enableResourcesLoadAsync": 1,
+  "timeOutDownload": 10.0,
+  "autoRetryCountOnDonwloadError": 5,
+  "loadFileMax": 5,
+  "rangeOfFilesOnMemory": {
+    "min": 10,
+    "max": 20
+  },
+  "unloadType": 0,
+  "isOutPutDebugLog": 0,
+  "isDebugCacheFileName": 0,
+  "isDebugBootDeleteChacheTextAndBinary": 0,
+  "isDebugBootDeleteChacheAll": 0,
+  "settings": {
+    "loadType": 0,
+    "fileSettings": [
+      {
+        "fileType": 0,
+        "isStreamingAssets": 0,
+        "extensions": [
+          ".txt",
+          ".json",
+          ".html",
+          ".htm",
+          ".xml",
+          ".yaml",
+          ".fnt",
+          ".bin",
+          ".bytes",
+          ".csv",
+          ".tsv"
+        ]
+      },
+      {
+        "fileType": 1,
+        "isStreamingAssets": 0,
+        "extensions": [
+          ".png",
+          ".jpg",
+          ".bmp",
+          ".psd",
+          ".tif",
+          ".tga",
+          ".gif",
+          ".iff",
+          ".pict"
+        ]
+      },
+      {
+        "fileType": 2,
+        "isStreamingAssets": 0,
+        "extensions": [
+          ".mp3",
+          ".ogg",
+          ".wav",
+          ".aif",
+          ".aiff",
+          ".xm",
+          ".mod",
+          ".it",
+          ".s3m"
+        ]
+      },
+      {
+        "fileType": 3,
+        "isStreamingAssets": 0,
+        "extensions": [
+          ""
+        ]
+      }
+    ]
+  },
+  "assetBundleInfoManager": {
+    "m_FileID": 0,
+    "m_PathID": -438652985277490215
+  },
+  "dummyFiles": {
+    "isEnable": 0,
+    "outputErrorLog": 1,
+    "texture": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "sound": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "text": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "asset": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  }
+}

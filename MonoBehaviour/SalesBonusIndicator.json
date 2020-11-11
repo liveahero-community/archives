@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5968285197640851627
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6572700798922560983
+  },
+  "m_Name": "",
+  "IndicatorObject": {
+    "m_AssetGUID": "beb4f40e3dc302243ae6a5db539f9205",
+    "m_SubObjectName": ""
+  },
+  "IndicatorArea": {
+    "m_FileID": 0,
+    "m_PathID": -4386371885318267725
+  },
+  "BonusDescription": {
+    "m_FileID": 0,
+    "m_PathID": -1153370072856741285
+  },
+  "BonusValue": {
+    "m_FileID": 0,
+    "m_PathID": -4290811680000156490
+  },
+  "OnUpwardRateMaterial": {
+    "m_FileID": 4,
+    "m_PathID": -1922389222168809615
+  },
+  "Icon": {
+    "m_FileID": 0,
+    "m_PathID": 9000197567556276818
+  },
+  "OnNormalRateMaterial": {
+    "m_FileID": 4,
+    "m_PathID": -9141059823901312580
+  }
+}

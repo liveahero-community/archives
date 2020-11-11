@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7858797840940726070
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4682653329290331138
+  },
+  "m_Name": "",
+  "Button": {
+    "m_FileID": 0,
+    "m_PathID": 1071258707196937287
+  },
+  "HelpWindow": {
+    "m_AssetGUID": "7f46fbfed32f7bd44bbdb851c469b24f",
+    "m_SubObjectName": ""
+  }
+}

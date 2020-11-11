@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_goro_s01_01",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1735479359782567619
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3020240628617508659
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2957717563079723618
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5829913933406465402
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7861704949329694887
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -948990297961934036
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3861445483172266341
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 5885798767423768829
+  }
+}

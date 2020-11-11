@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1798189604510327544
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7203803782007118167
+  },
+  "m_Name": "",
+  "PopupRect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "StaminaBanner": {
+    "m_AssetGUID": "70525daba1fa2f745998b875d0175698",
+    "m_SubObjectName": ""
+  },
+  "InstantiateArea": {
+    "m_FileID": 0,
+    "m_PathID": -6370723660497729197
+  }
+}

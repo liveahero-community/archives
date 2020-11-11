@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4335728522779441490
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7239368222439461970
+  },
+  "m_Name": "",
+  "RankupButton": {
+    "m_FileID": 0,
+    "m_PathID": -4899431278191629386
+  },
+  "CancelButton": {
+    "m_FileID": 0,
+    "m_PathID": -1599122492904881513
+  }
+}

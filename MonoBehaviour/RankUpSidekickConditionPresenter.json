@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3224785445652021340
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3756951956909064260
+  },
+  "m_Name": "",
+  "CountableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5771527205367532214
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2417049717055180733
+    }
+  ],
+  "OKButton": {
+    "m_FileID": 0,
+    "m_PathID": 1813237166848521548
+  },
+  "HeartIconImage": {
+    "m_FileID": 0,
+    "m_PathID": -8125992305876700212
+  },
+  "GeneralHeartIconImage": {
+    "m_FileID": 0,
+    "m_PathID": -2956939531442701897
+  },
+  "UserItemSidekickHeartIcon": {
+    "m_FileID": 0,
+    "m_PathID": 9203082271498287397
+  },
+  "UserItemGeneralHeartIcon": {
+    "m_FileID": 0,
+    "m_PathID": -7241072984516132049
+  },
+  "SidekickHeartValueText": {
+    "m_FileID": 0,
+    "m_PathID": 2561054593441707897
+  },
+  "GeneralHeartValueText": {
+    "m_FileID": 0,
+    "m_PathID": -8448380163505858139
+  }
+}

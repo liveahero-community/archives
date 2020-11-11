@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4161378474838208286
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2051525138197807348
+  },
+  "m_Name": "",
+  "SelectableSalesBannerView": {
+    "m_AssetGUID": "258f9b2367640ac49b76cc19cef2e642",
+    "m_SubObjectName": ""
+  },
+  "InstantiateArea": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ScrollerController": {
+    "m_FileID": 0,
+    "m_PathID": 8368506567465304907
+  }
+}

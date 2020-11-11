@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7340867977954011666
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2936779616708796991
+  },
+  "m_Name": "",
+  "SkillName": {
+    "m_FileID": 0,
+    "m_PathID": 5625360789138292136
+  },
+  "SkillCost": {
+    "m_FileID": 0,
+    "m_PathID": -5625789127156785547
+  },
+  "SkillDescription": {
+    "m_FileID": 0,
+    "m_PathID": 6514567605830935483
+  }
+}

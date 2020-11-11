@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_raktas01_01",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8130139021998243581
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4767625138219120338
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7760845038374925213
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 509886212598986735
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6502582145640243405
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4290950392450746632
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 6905084424294837663
+  }
+}

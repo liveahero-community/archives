@@ -1,0 +1,166 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_shoen_h01",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1678371290475407065
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_shoen_h01",
+      "atlasName": "fg_shoen_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        11,
+        11
+      ],
+      "transparentIndex": 11
+    },
+    {
+      "name": "fg_shoen_h01b",
+      "atlasName": "fg_shoen_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        13,
+        8,
+        9,
+        14,
+        11,
+        12,
+        11,
+        11
+      ],
+      "transparentIndex": 11
+    },
+    {
+      "name": "fg_shoen_h01c",
+      "atlasName": "fg_shoen_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        15,
+        16,
+        17,
+        18,
+        19,
+        11,
+        12,
+        11,
+        11
+      ],
+      "transparentIndex": 11
+    },
+    {
+      "name": "fg_shoen_h01d",
+      "atlasName": "fg_shoen_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        20,
+        8,
+        9,
+        21,
+        11,
+        12,
+        11,
+        11
+      ],
+      "transparentIndex": 11
+    },
+    {
+      "name": "fg_shoen_h01e",
+      "atlasName": "fg_shoen_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        22,
+        8,
+        9,
+        23,
+        11,
+        12,
+        11,
+        11
+      ],
+      "transparentIndex": 11
+    },
+    {
+      "name": "fg_shoen_h01f",
+      "atlasName": "fg_shoen_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        15,
+        24,
+        17,
+        25,
+        26,
+        11,
+        12,
+        11,
+        11
+      ],
+      "transparentIndex": 11
+    }
+  ]
+}

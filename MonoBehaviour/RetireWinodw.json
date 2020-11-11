@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4104988569043640344
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -85030332423457858
+  },
+  "m_Name": "",
+  "RetireButton": {
+    "m_FileID": 0,
+    "m_PathID": 4094260430239394393
+  },
+  "CancelButton": {
+    "m_FileID": 0,
+    "m_PathID": -2003530874306998060
+  }
+}

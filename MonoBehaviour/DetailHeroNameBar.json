@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2372297575876689312
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6805960800782251425
+  },
+  "m_Name": "",
+  "Name": {
+    "m_FileID": 0,
+    "m_PathID": -902555563701110688
+  },
+  "StarAsset": {
+    "m_AssetGUID": "77210d151be8eca439fe76b4ff388144",
+    "m_SubObjectName": "ui_symbol_star_01"
+  },
+  "StarArea": {
+    "m_FileID": 0,
+    "m_PathID": 4703982539460059423
+  },
+  "BlackStar": {
+    "m_AssetGUID": "b5905de71acc9014081bc9fd45347aad",
+    "m_SubObjectName": "ui_symbol_star_03"
+  },
+  "Element": {
+    "m_FileID": 0,
+    "m_PathID": -4983885950813877134
+  }
+}

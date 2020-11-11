@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 7
+  },
+  "m_Name": "",
+  "Button": {
+    "m_FileID": 0,
+    "m_PathID": 222
+  },
+  "BeforeSprite": {
+    "m_FileID": 7,
+    "m_PathID": -1108969856388369990
+  },
+  "PushedSprite": {
+    "m_FileID": 7,
+    "m_PathID": -831938187018882603
+  },
+  "<Category>k__BackingField": 1
+}

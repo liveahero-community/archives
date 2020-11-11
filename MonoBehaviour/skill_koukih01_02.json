@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_koukih01_02",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3370408516138469579
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3096966597894348481
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2482451599488955173
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2693270416776512652
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3648561766809015745
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 7793201565837866251
+  }
+}

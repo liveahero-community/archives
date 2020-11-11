@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6446415433156630550
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4612738718775994076
+  },
+  "m_Name": "",
+  "OKButton": {
+    "m_FileID": 0,
+    "m_PathID": 5279006284623600656
+  },
+  "AllRarityButton": {
+    "m_FileID": 0,
+    "m_PathID": 2106782040355072714
+  },
+  "RarityToggleGroup": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1905638597584010231
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3859182740536220327
+    }
+  ]
+}

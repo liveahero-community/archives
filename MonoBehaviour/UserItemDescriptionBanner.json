@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7878702956927988924
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4683933796421069635
+  },
+  "m_Name": "",
+  "ItemIconObject": {
+    "m_FileID": 0,
+    "m_PathID": 3343373786590639474
+  },
+  "Title": {
+    "m_FileID": 0,
+    "m_PathID": -3616151986993589694
+  },
+  "Num": {
+    "m_FileID": 0,
+    "m_PathID": -4794047494143265254
+  },
+  "Description": {
+    "m_FileID": 0,
+    "m_PathID": 2684297322409788138
+  },
+  "PossessionsTextFormat": "UI_ITEM_POSSESSIONS"
+}

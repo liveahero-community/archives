@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7508626102134293331
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8596889187246972086
+  },
+  "m_Name": "",
+  "cellIdentifier": "FriendBanner",
+  "SupportBannerView": {
+    "m_FileID": 0,
+    "m_PathID": -1092907364867581467
+  }
+}

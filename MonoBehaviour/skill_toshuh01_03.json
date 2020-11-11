@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_toshuh01_03",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7756042663776796330
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6549833696047898971
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4752526819595126391
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1200506452172658476
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6959159880369155094
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -769445899513287598
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5159240473305495740
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4120256315237945098
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4180119316702688635
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3650192962826051756
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1303597216769077849
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8527998152895228047
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5629629947838407723
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 8645098999222488220
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3020968315487155633
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5129194225403799072
+  },
+  "m_Name": "",
+  "BlackOut": {
+    "m_FileID": 0,
+    "m_PathID": -235763343831747014
+  },
+  "Selected": {
+    "m_FileID": 0,
+    "m_PathID": -3308666155176255099
+  },
+  "IconArea": {
+    "m_FileID": 0,
+    "m_PathID": -309451338656755412
+  },
+  "Rarity4Frame": {
+    "m_AssetGUID": "0504a00a92ac38043b7940ef0b0c64ee",
+    "m_SubObjectName": ""
+  },
+  "Rarity3Frame": {
+    "m_AssetGUID": "8e5756c0f3b886e4794c1794e52430cb",
+    "m_SubObjectName": ""
+  },
+  "Rarity4Back": {
+    "m_AssetGUID": "35cc551e450b65a44a5f2fbe6c3223fe",
+    "m_SubObjectName": ""
+  },
+  "Rarity3Back": {
+    "m_AssetGUID": "3c25ad1d659c1a941adc494665c5e5c3",
+    "m_SubObjectName": ""
+  },
+  "Button": {
+    "m_FileID": 0,
+    "m_PathID": -5383188658867268603
+  },
+  "Frame": {
+    "m_FileID": 0,
+    "m_PathID": -3265646516264682583
+  },
+  "BackGround": {
+    "m_FileID": 0,
+    "m_PathID": -6143096762355417097
+  },
+  "Drawer": {
+    "m_FileID": 0,
+    "m_PathID": 3083756992068291960
+  },
+  "Stars": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 903942461774412513
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2380990950572174481
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5803912376683887628
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4042829742751392668
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1947232391100887409
+    }
+  ],
+  "RemoveObject": {
+    "m_FileID": 0,
+    "m_PathID": -6058863933387253606
+  },
+  "IsSupport": 0
+}

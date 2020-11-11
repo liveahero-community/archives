@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5342697693425636181
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2315606058304428629
+  },
+  "m_Name": "",
+  "lighting": 5.0,
+  "lightPower": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "flashFlg": 0,
+  "flashTimer": 0.6,
+  "lightKeepFlg": 0,
+  "revOnTime": 0.0,
+  "keepOnTime": 0.0,
+  "keepTime": 0.0,
+  "flashingFlg": 0,
+  "minLight": 0.0,
+  "maxLight": 1.0,
+  "lightOffFlg": 0,
+  "flashingOff": 0.0,
+  "flashingOffPower": 0.0,
+  "flashingOffIntensity": 1.0
+}

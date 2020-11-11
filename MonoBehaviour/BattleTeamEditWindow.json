@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1457609246779513266
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4792563571091274921
+  },
+  "m_Name": "",
+  "PopupRect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "WindowUiAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -7385611336650907912
+  },
+  "InfiniteScrollPresenter": {
+    "m_FileID": 0,
+    "m_PathID": 9041870034660601909
+  },
+  "BaseCanvas": {
+    "m_FileID": 0,
+    "m_PathID": -3963066916040798628
+  },
+  "TeamEditBoardReference": {
+    "m_AssetGUID": "ce2a4b5f314ad3e4e9efa4cd9c86cc45",
+    "m_SubObjectName": ""
+  },
+  "InstantiateArea": {
+    "m_FileID": 0,
+    "m_PathID": 5584082758945405600
+  },
+  "IsAutoLoadTeam": 0
+}

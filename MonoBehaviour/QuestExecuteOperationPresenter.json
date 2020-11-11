@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5154798099476669128
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8536458648964812764
+  },
+  "m_Name": "",
+  "BattleOnlyButton": {
+    "m_FileID": 0,
+    "m_PathID": -5301722367494558806
+  },
+  "ScenarioOnlyButton": {
+    "m_FileID": 0,
+    "m_PathID": -2838092895542964473
+  },
+  "CancelButton": {
+    "m_FileID": 0,
+    "m_PathID": -1511068367862894464
+  },
+  "QuestConsumeStamina": {
+    "m_FileID": 0,
+    "m_PathID": -8438338797499613684
+  },
+  "ScenarioConsumeStamina": {
+    "m_FileID": 0,
+    "m_PathID": 5301166661919768221
+  }
+}

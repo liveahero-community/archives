@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4390103029512240101
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -493621772762115189
+  },
+  "m_Name": "",
+  "bgColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "ignoreCancel": 0,
+  "cancelFadeTime": 0.5,
+  "renderTarget": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "overrideRootDirectory": 0,
+  "rootDirectory": ""
+}

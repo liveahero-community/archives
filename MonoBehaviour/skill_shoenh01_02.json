@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_shoenh01_02",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2507767123298582393
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2608554008393341857
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7809414902715679436
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1892967862206651992
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3853698012752988551
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -228020599352815722
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -5394472871965102923
+  }
+}

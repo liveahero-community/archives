@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2906822659010758658
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6033023708264230170
+  },
+  "m_Name": "",
+  "Scroller": {
+    "m_FileID": 0,
+    "m_PathID": 1635600865925141475
+  },
+  "GroupCellNum": 4,
+  "cellSize": 132.0,
+  "HeroIconObject": {
+    "m_FileID": 1,
+    "m_PathID": -683816183892401758
+  },
+  "SidekickIconObject": {
+    "m_FileID": 1,
+    "m_PathID": -2752318883512788568
+  },
+  "EquipSkillObject": {
+    "m_FileID": 0,
+    "m_PathID": -8750157199971840405
+  }
+}

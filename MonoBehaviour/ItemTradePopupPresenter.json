@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8425220536645254270
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2341694156372007457
+  },
+  "m_Name": "",
+  "ItemIconImage": {
+    "m_FileID": 0,
+    "m_PathID": -7217141417601675834
+  },
+  "TradeItemIconImage": {
+    "m_FileID": 0,
+    "m_PathID": -3389652276284775524
+  },
+  "TradeRate": {
+    "m_FileID": 0,
+    "m_PathID": -7886663921289812687
+  },
+  "Slider": {
+    "m_FileID": 0,
+    "m_PathID": -3222821710910229064
+  },
+  "PlusButton": {
+    "m_FileID": 0,
+    "m_PathID": 7130908874368618702
+  },
+  "MinusButton": {
+    "m_FileID": 0,
+    "m_PathID": -5145861752732302798
+  },
+  "ItemName": {
+    "m_FileID": 0,
+    "m_PathID": -2039399532443157845
+  },
+  "UserHaveValue": {
+    "m_FileID": 0,
+    "m_PathID": -4318095865921951078
+  },
+  "TradeValueText": {
+    "m_FileID": 0,
+    "m_PathID": 5537631168015164068
+  },
+  "ResultValueText": {
+    "m_FileID": 0,
+    "m_PathID": -5544928954819332836
+  },
+  "ItemIcon": {
+    "m_FileID": 0,
+    "m_PathID": -7298761048573683260
+  },
+  "TradeItemIcon": {
+    "m_FileID": 0,
+    "m_PathID": 5997353968824570052
+  },
+  "UserItemIcon": {
+    "m_FileID": 0,
+    "m_PathID": 9165821404792787297
+  },
+  "OKButton": {
+    "m_FileID": 0,
+    "m_PathID": -7365910456588684269
+  },
+  "ResultPopup": {
+    "m_FileID": 0,
+    "m_PathID": -8821461972555274942
+  }
+}

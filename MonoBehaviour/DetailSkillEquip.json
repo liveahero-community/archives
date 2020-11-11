@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4467601810943571384
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2576483629032419491
+  },
+  "m_Name": "",
+  "SkillBlockViews": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7191091890926115927
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1118811698572192958
+    }
+  ],
+  "Blanks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4490403736464027143
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3633214398501993674
+    }
+  ],
+  "Slot1Button": {
+    "m_FileID": 0,
+    "m_PathID": 4309919371074421338
+  },
+  "Slot2Button": {
+    "m_FileID": 0,
+    "m_PathID": -8503293347982535182
+  },
+  "Slot1LockButton": {
+    "m_FileID": 0,
+    "m_PathID": 235842852718617320
+  },
+  "Slot2LockButton": {
+    "m_FileID": 0,
+    "m_PathID": -5864692077015379381
+  }
+}

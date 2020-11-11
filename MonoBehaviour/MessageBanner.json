@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8527721347768049860
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1440146436266951131
+  },
+  "m_Name": "",
+  "RewardDrawer": {
+    "m_FileID": 0,
+    "m_PathID": -6667561892366075159
+  },
+  "Title": {
+    "m_FileID": 0,
+    "m_PathID": -3617865420331535295
+  },
+  "Message": {
+    "m_FileID": 0,
+    "m_PathID": 657276086404151159
+  },
+  "Limit": {
+    "m_FileID": 0,
+    "m_PathID": 5142129185456882895
+  },
+  "GetButton": {
+    "m_FileID": 0,
+    "m_PathID": -1095448390525817279
+  },
+  "ReceivedMask": {
+    "m_FileID": 0,
+    "m_PathID": 6076402575451889836
+  }
+}

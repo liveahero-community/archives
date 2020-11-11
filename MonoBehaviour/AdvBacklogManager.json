@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6075287801596531908
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -9008807285965678809
+  },
+  "m_Name": "",
+  "maxLog": 9999,
+  "ignoreLog": 0,
+  "onAddPage": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onAddData": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

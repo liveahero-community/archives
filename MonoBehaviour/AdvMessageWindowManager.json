@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6075287801596531908
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1471001821711460163
+  },
+  "m_Name": "",
+  "onReset": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onChangeActiveWindows": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onChangeCurrentWindow": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onTextChange": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 933409101997482531
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9101306272819209590
+  },
+  "m_Name": "",
+  "etherNum": {
+    "m_FileID": 0,
+    "m_PathID": 822150212923295002
+  },
+  "ShikinkessaiButton": {
+    "m_FileID": 0,
+    "m_PathID": 6324639982916369630
+  },
+  "TokuteiShoutorihikiButton": {
+    "m_FileID": 0,
+    "m_PathID": -1730280201032429269
+  },
+  "SupportButton": {
+    "m_FileID": 0,
+    "m_PathID": 6024670272820650317
+  },
+  "BackButton": {
+    "m_FileID": 0,
+    "m_PathID": -5231544876852626653
+  },
+  "RestPurchaseValue": {
+    "m_FileID": 0,
+    "m_PathID": 549189841176241277
+  }
+}

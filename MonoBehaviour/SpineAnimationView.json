@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7681345373080319568
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3656914412982686677
+  },
+  "m_Name": "",
+  "BackButton": {
+    "m_FileID": 0,
+    "m_PathID": -7835057295518315998
+  },
+  "ButtonSpace": 65.0,
+  "Buttons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5394023468163671057
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7220638670058928086
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6695270768998649805
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 619235514879960006
+    }
+  ],
+  "ButtonCategoryPresenter": {
+    "m_FileID": 0,
+    "m_PathID": 7927040639148444370
+  }
+}

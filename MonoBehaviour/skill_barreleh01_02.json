@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_barreleh01_02",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4926444346154988869
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 987539582051108961
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1910571420345270841
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2346286624312952338
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1481240088653134453
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1751265711684654577
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2805977422531109735
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 3116025229778772845
+  }
+}

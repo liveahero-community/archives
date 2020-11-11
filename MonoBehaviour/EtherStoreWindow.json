@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1176311953371484500
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 680396269339749827
+  },
+  "m_Name": "",
+  "PurchaseProducts": {
+    "m_FileID": 0,
+    "m_PathID": 933409101997482531
+  },
+  "AgeVaridation": {
+    "m_FileID": 0,
+    "m_PathID": -8232532422872276820
+  },
+  "CanNotPayment": {
+    "m_FileID": 0,
+    "m_PathID": 7017538798527423957
+  },
+  "StoreInitializeError": {
+    "m_FileID": 0,
+    "m_PathID": 2410926135737072272
+  }
+}

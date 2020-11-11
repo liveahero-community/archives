@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_loren_s01_01",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2975388885702503301
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3741868259967299535
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4622376622891981766
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3447749073463275091
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5915912720787291476
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8534241741335990514
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2147433943560699343
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 5247041335257374597
+  }
+}

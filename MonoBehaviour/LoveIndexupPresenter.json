@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1321121759180879020
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5823541271996718625
+  },
+  "m_Name": "",
+  "HeroCharacter": {
+    "m_FileID": 0,
+    "m_PathID": 6868566904819004557
+  },
+  "SidekickCharacter": {
+    "m_FileID": 0,
+    "m_PathID": -4732103052067172378
+  },
+  "SidekickAppearArea": {
+    "m_FileID": 0,
+    "m_PathID": -494018570399375437
+  },
+  "HeroButton": {
+    "m_FileID": 0,
+    "m_PathID": 1553910114877657524
+  },
+  "SidekickButton": {
+    "m_FileID": 0,
+    "m_PathID": 8870217359038178429
+  },
+  "slider": {
+    "m_FileID": 0,
+    "m_PathID": -8929757494318835760
+  },
+  "PlusSliderButton": {
+    "m_FileID": 0,
+    "m_PathID": 8375874200407006672
+  },
+  "MinusSliderButton": {
+    "m_FileID": 0,
+    "m_PathID": 4398211333651851207
+  },
+  "OKButton": {
+    "m_FileID": 0,
+    "m_PathID": -3006033953167452375
+  },
+  "BackButton": {
+    "m_FileID": 0,
+    "m_PathID": -6998762328762666925
+  },
+  "ConsumeValueText": {
+    "m_FileID": 0,
+    "m_PathID": -4806203231474228627
+  },
+  "TotalLoveIndex": {
+    "m_FileID": 0,
+    "m_PathID": -1197529561209035581
+  },
+  "UserValue": {
+    "m_FileID": 0,
+    "m_PathID": -6755290314500627323
+  },
+  "Level": {
+    "m_FileID": 0,
+    "m_PathID": -1029557436478080884
+  }
+}

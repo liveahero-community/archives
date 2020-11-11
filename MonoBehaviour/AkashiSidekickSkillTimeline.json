@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "AkashiSidekickSkillTimeline",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3332005974201356842
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6058865625773033460
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4839397849207563587
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5762972094960687238
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 851160189707987947
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2146478105648127863
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

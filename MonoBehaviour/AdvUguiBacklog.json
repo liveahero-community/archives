@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1668562615675128959
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7800354191445454973
+  },
+  "m_Name": "",
+  "text": {
+    "m_FileID": 0,
+    "m_PathID": 6369722644395210237
+  },
+  "characterName": {
+    "m_FileID": 0,
+    "m_PathID": -3543024502431306916
+  },
+  "soundIcon": {
+    "m_FileID": 0,
+    "m_PathID": -2331498159693407172
+  },
+  "isMultiTextInPage": 0
+}

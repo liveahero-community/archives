@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7864769268233567807
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7951249330805494749
+  },
+  "m_Name": "",
+  "ParameterArea": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Commands": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2320459039593107120
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6736352270743235729
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4561398757318253021
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5313762720760866133
+    }
+  ],
+  "WaitButton": {
+    "m_FileID": 0,
+    "m_PathID": 1301212929723090940
+  },
+  "Hp": {
+    "m_FileID": 0,
+    "m_PathID": 7571506211417230066
+  },
+  "HpText": {
+    "m_FileID": 0,
+    "m_PathID": -6321290267173086292
+  },
+  "SpeedText": {
+    "m_FileID": 0,
+    "m_PathID": 8686740204944471061
+  },
+  "CommandBlackOut": {
+    "m_FileID": 0,
+    "m_PathID": 2014017852530425099
+  }
+}

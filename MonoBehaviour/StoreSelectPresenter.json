@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3922374188877941819
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -407804108410400996
+  },
+  "m_Name": "",
+  "EtherButton": {
+    "m_FileID": 0,
+    "m_PathID": -139944693241593198
+  },
+  "StoreBanner": {
+    "m_AssetGUID": "a984c085d7c329a4488b485178bd4b2a",
+    "m_SubObjectName": ""
+  },
+  "InstantiateArea": {
+    "m_FileID": 0,
+    "m_PathID": -2108755622724079100
+  }
+}

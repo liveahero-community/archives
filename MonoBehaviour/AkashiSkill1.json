@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "AkashiSkill1",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2573716421198791574
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1278518130047956249
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7742197764596932864
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8874975461316831109
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

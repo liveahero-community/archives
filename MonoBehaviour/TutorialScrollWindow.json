@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7329523841529722429
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4625981101453230131
+  },
+  "m_Name": "",
+  "PopupRect": {
+    "m_FileID": 0,
+    "m_PathID": -272408222293662969
+  },
+  "CloseButton": {
+    "m_FileID": 0,
+    "m_PathID": -6225773801810799040
+  },
+  "SkipButton": {
+    "m_FileID": 0,
+    "m_PathID": -970717768800425193
+  },
+  "ToggleArea": {
+    "m_FileID": 0,
+    "m_PathID": 1067370925574013679
+  },
+  "ToggleBase": {
+    "m_AssetGUID": "9f224be410263af4ca728cee4f0081dc",
+    "m_SubObjectName": ""
+  },
+  "Scroll": {
+    "m_FileID": 0,
+    "m_PathID": 3901138152149619509
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6973172864577684751
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1743699264862088042
+  },
+  "m_Name": "",
+  "InstantiateArea": {
+    "m_FileID": 0,
+    "m_PathID": -5151758520464951051
+  },
+  "Controller": {
+    "m_FileID": 0,
+    "m_PathID": -1386516095356845445
+  },
+  "FilterButton": {
+    "m_FileID": 0,
+    "m_PathID": 6639486272702749685
+  },
+  "SortButton": {
+    "m_FileID": 0,
+    "m_PathID": -5406637209608003751
+  },
+  "AscendButton": {
+    "m_FileID": 0,
+    "m_PathID": 2067598754584048148
+  },
+  "AscendButtonView": {
+    "m_FileID": 0,
+    "m_PathID": 5812853166225874515
+  },
+  "IsRemovable": 0
+}

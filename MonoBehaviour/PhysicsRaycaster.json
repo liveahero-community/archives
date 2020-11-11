@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2531873002874006983
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6876648779898062806
+  },
+  "m_Name": "",
+  "m_EventMask": {
+    "m_Bits": 4294967295
+  },
+  "m_MaxRayIntersections": 0
+}

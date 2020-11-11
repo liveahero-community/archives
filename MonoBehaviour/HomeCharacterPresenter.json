@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3202082191166614029
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1206471631736866185
+  },
+  "m_Name": "",
+  "InfiniteScroll": {
+    "m_FileID": 0,
+    "m_PathID": 6310557401165122099
+  },
+  "ObjectArea": {
+    "m_FileID": 0,
+    "m_PathID": -7371704087302438234
+  },
+  "SerifArea": {
+    "m_FileID": 0,
+    "m_PathID": 3068358109031260129
+  },
+  "SerifText": {
+    "m_FileID": 0,
+    "m_PathID": 3850822490462131176
+  },
+  "Speaker": {
+    "m_FileID": 0,
+    "m_PathID": 4841275470327401335
+  },
+  "SerifChangeButton": {
+    "m_FileID": 0,
+    "m_PathID": -2801720529736297703
+  },
+  "CharacterBoard": {
+    "m_AssetGUID": "72433269d67dcc745a6948a42a9e9545",
+    "m_SubObjectName": ""
+  },
+  "HomePresenter": {
+    "m_FileID": 0,
+    "m_PathID": -6611072960438322126
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3203399006742807208
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4709362897058861993
+  },
+  "m_Name": "",
+  "BlackOut": {
+    "m_FileID": 0,
+    "m_PathID": 2511638896542616507
+  },
+  "Selected": {
+    "m_FileID": 0,
+    "m_PathID": -6866561834221239021
+  },
+  "ElementIcon": {
+    "m_FileID": 0,
+    "m_PathID": -4695226037099562530
+  },
+  "Drawer": {
+    "m_FileID": 0,
+    "m_PathID": -3932696716358950905
+  },
+  "Frame": {
+    "m_FileID": 0,
+    "m_PathID": 1340737048805691702
+  },
+  "BackGround": {
+    "m_FileID": 0,
+    "m_PathID": 8545593514801614246
+  },
+  "isSupport": 0,
+  "Button": {
+    "m_FileID": 0,
+    "m_PathID": 6461358896269112358
+  },
+  "RankArea": {
+    "m_FileID": 0,
+    "m_PathID": 6646012547581575764
+  },
+  "Rarity6": {
+    "m_AssetGUID": "4a1806e04d53124419f5c2baf8daf44d",
+    "m_SubObjectName": "ui_frame_h_04"
+  },
+  "Rarity5": {
+    "m_AssetGUID": "c7c2ccb3daca584468669282b77dc708",
+    "m_SubObjectName": "ui_frame_h_03"
+  },
+  "Rarity4": {
+    "m_AssetGUID": "32e1c12b0ead4fb4984bf65bbc449b44",
+    "m_SubObjectName": "ui_frame_h_02"
+  },
+  "Rarity3": {
+    "m_AssetGUID": "fe324361c3cb4f14a91a82a383777822",
+    "m_SubObjectName": "ui_frame_h_01"
+  },
+  "Star": {
+    "m_AssetGUID": "77210d151be8eca439fe76b4ff388144",
+    "m_SubObjectName": "ui_symbol_star_01"
+  },
+  "BlackStar": {
+    "m_AssetGUID": "b5905de71acc9014081bc9fd45347aad",
+    "m_SubObjectName": "ui_symbol_star_03"
+  },
+  "Stars": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3303350342895838827
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1458643793968496889
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7570802253515502212
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -22317597302325033
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2676377657388570268
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 200607399660881724
+    }
+  ],
+  "DetailArea": {
+    "m_FileID": 0,
+    "m_PathID": 5231875370142128524
+  },
+  "DetailTitle": {
+    "m_FileID": 0,
+    "m_PathID": -2927011179611310492
+  },
+  "Detail": {
+    "m_FileID": 0,
+    "m_PathID": -4025960516050633505
+  },
+  "RemoveObject": {
+    "m_FileID": 0,
+    "m_PathID": -2021633417936151124
+  }
+}

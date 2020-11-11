@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 739870767319601366
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6441144543124814138
+  },
+  "m_Name": "",
+  "HPBar": {
+    "m_FileID": 0,
+    "m_PathID": -7370717788535186966
+  },
+  "statusArea": {
+    "m_FileID": 0,
+    "m_PathID": 1011835467839575608
+  },
+  "DetailButton": {
+    "m_FileID": 0,
+    "m_PathID": -2108248979565178463
+  }
+}

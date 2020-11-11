@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1965477092380301748
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9049639810903231967
+  },
+  "m_Name": "",
+  "RegionName": {
+    "m_FileID": 0,
+    "m_PathID": 9161199782247109731
+  },
+  "RegionSubName": {
+    "m_FileID": 0,
+    "m_PathID": -2686296471803874820
+  },
+  "ResourseInfo": {
+    "m_FileID": 0,
+    "m_PathID": 4344267283624093251
+  },
+  "RegionImage": {
+    "m_FileID": 0,
+    "m_PathID": -8010870267040810777
+  }
+}

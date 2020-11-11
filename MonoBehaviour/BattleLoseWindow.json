@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2341197207508474680
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 57594328890923969
+  },
+  "m_Name": "",
+  "PopupRect": {
+    "m_FileID": 0,
+    "m_PathID": 4347999991136175632
+  },
+  "HomeButton": {
+    "m_FileID": 0,
+    "m_PathID": -106768531514129619
+  },
+  "ContinueButton": {
+    "m_FileID": 0,
+    "m_PathID": 5911765432799074738
+  },
+  "StoneValue": {
+    "m_FileID": 0,
+    "m_PathID": 3404733796805502804
+  },
+  "FreeStoneValue": {
+    "m_FileID": 0,
+    "m_PathID": 6829843725928022162
+  },
+  "TextMessage": {
+    "m_FileID": 0,
+    "m_PathID": 1662024335763067721
+  },
+  "StoneInfo": {
+    "m_FileID": 0,
+    "m_PathID": 2667004376123604966
+  }
+}

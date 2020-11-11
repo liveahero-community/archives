@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4039074944609837448
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6888862563099609229
+  },
+  "m_Name": "",
+  "PopupRect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scrollerPresenter": {
+    "m_FileID": 0,
+    "m_PathID": 6411879393328900362
+  },
+  "userItemView": {
+    "m_FileID": 0,
+    "m_PathID": 2173646074708529142
+  }
+}

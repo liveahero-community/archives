@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3553679298230691949
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4600105637457927169
+  },
+  "m_Name": "",
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": 7607492098186861488
+  },
+  "frame": {
+    "m_FileID": 0,
+    "m_PathID": -3018042579474410897
+  },
+  "ElementIcon": {
+    "m_FileID": 0,
+    "m_PathID": -7782896686631323194
+  },
+  "ElementBackGround": {
+    "m_FileID": 0,
+    "m_PathID": 6047094312812769728
+  },
+  "WeakImage": {
+    "m_FileID": 0,
+    "m_PathID": -5960704571469226557
+  },
+  "SelectedFrame": {
+    "m_FileID": 6,
+    "m_PathID": 7840722916937162921
+  },
+  "SelectableFrame": {
+    "m_FileID": 6,
+    "m_PathID": -3511919585442704686
+  },
+  "WeakFrame": {
+    "m_FileID": 6,
+    "m_PathID": -2298694364680515307
+  },
+  "TeamFrame": {
+    "m_FileID": 6,
+    "m_PathID": 6513169741013459091
+  },
+  "IconEffect": {
+    "m_FileID": 0,
+    "m_PathID": 7319028045904907241
+  }
+}

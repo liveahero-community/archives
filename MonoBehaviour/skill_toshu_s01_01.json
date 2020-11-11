@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_toshu_s01_01",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1849650420517031264
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3076498594791839784
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5993055979210482340
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7206585192099129769
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8789269419147215620
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2662597682047665564
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 6955891786514695689
+  }
+}

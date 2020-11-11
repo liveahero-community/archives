@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "Lvup_timeline",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -791786772257418006
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6069803031448795774
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2414817781511899188
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3151804693468818175
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3835383935098512054
+    }
+  ],
+  "m_FixedDuration": 2.0166666666666666,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0
+  },
+  "m_DurationMode": 1,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 8550902650058303705
+  }
+}

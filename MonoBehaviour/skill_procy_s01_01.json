@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_procy_s01_01",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7571924500434455551
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5885884249034389454
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1299082095463632694
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6013858840252739900
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7196607672681745894
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4230350622730315263
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -312857881779681389
+  }
+}

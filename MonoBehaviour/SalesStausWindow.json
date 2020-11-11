@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6752204347434597122
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8116791588941047952
+  },
+  "m_Name": "",
+  "PopupRect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "presenter": {
+    "m_FileID": 0,
+    "m_PathID": -333238602013926912
+  },
+  "TutorialPresenter": {
+    "m_FileID": 0,
+    "m_PathID": 6940152161602836832
+  },
+  "EndTutorialPresenter": {
+    "m_FileID": 0,
+    "m_PathID": 1956620476505273873
+  },
+  "WindowUiAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 8227801111532906680
+  }
+}

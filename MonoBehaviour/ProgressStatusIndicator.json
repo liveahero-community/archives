@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6423468322402799522
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3835863950786130590
+  },
+  "m_Name": "",
+  "BackGround": {
+    "m_FileID": 0,
+    "m_PathID": 5186248083665388497
+  },
+  "InitializeImage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ProgressImage": {
+    "m_FileID": 0,
+    "m_PathID": -3589260729474169872
+  },
+  "CompleteImage": {
+    "m_FileID": 0,
+    "m_PathID": 2575647023641032478
+  }
+}

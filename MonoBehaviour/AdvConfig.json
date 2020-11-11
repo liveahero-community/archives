@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8591147843782734947
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1799849963733158817
+  },
+  "m_Name": "",
+  "dontUseSystemSaveData": 1,
+  "ignoreSoundVolume": 0,
+  "dontSaveFullScreen": 1,
+  "sendCharWaitSecMax": 0.1,
+  "autoPageWaitSecMax": 2.5,
+  "autoPageWaitSecMin": 0.0,
+  "forceSkipInputCtl": 1,
+  "useMessageSpeedRead": 0,
+  "skipSpeed": 20.0,
+  "skipVoiceAndSe": 0,
+  "defaultData": {
+    "isFullScreen": 0,
+    "isMouseWheelSendMessage": 1,
+    "isEffect": 1,
+    "isSkipUnread": 1,
+    "isStopSkipInSelection": 1,
+    "messageSpeed": 0.5,
+    "autoBrPageSpeed": 0.5,
+    "messageWindowTransparency": 0.3,
+    "soundMasterVolume": 1.0,
+    "bgmVolume": 0.5,
+    "seVolume": 0.5,
+    "ambienceVolume": 0.5,
+    "voiceVolume": 0.75,
+    "voiceStopType": 0,
+    "isAutoBrPage": 0,
+    "messageSpeedRead": 0.5,
+    "hideMessageWindowOnPlayingVoice": 0,
+    "taggedMasterVolumeList": [
+      {
+        "tag": "Others",
+        "volume": 1.0
+      }
+    ]
+  }
+}

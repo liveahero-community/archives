@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_marfikh01_02",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7936542458408942247
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5983953847325009821
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -477936065011603813
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -628474529403828296
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8366064397158799295
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -5018780078609319822
+  }
+}

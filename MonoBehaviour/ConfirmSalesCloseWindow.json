@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8509745689652972760
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3683416853086422578
+  },
+  "m_Name": "",
+  "PopupRect": {
+    "m_FileID": 0,
+    "m_PathID": -7564988871339234346
+  },
+  "text": {
+    "m_FileID": 0,
+    "m_PathID": -3639443358472411983
+  },
+  "OkButton": {
+    "m_FileID": 0,
+    "m_PathID": 6197342933195217616
+  }
+}

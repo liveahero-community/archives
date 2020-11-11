@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6459683514312822370
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 44769224667108882
+  },
+  "m_Name": "",
+  "CountableButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2417901641190302820
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8132825140200060257
+    }
+  ],
+  "OKButton": {
+    "m_FileID": 0,
+    "m_PathID": 8292020750888973772
+  },
+  "MemoryIconImage": {
+    "m_FileID": 0,
+    "m_PathID": 2262276045481263766
+  },
+  "GeneralMemoryIconImage": {
+    "m_FileID": 0,
+    "m_PathID": -4234419535557901419
+  },
+  "BaseViewUpPresenter": {
+    "m_FileID": 0,
+    "m_PathID": 6608146207673404028
+  },
+  "UserItemHeroMemoryIcon": {
+    "m_FileID": 0,
+    "m_PathID": 5961810141599664308
+  },
+  "UserItemGeneralMemoryIcon": {
+    "m_FileID": 0,
+    "m_PathID": 2521324182359139320
+  },
+  "HeroMemoryValueText": {
+    "m_FileID": 0,
+    "m_PathID": -4475470944487887581
+  },
+  "GeneralMemoryValueText": {
+    "m_FileID": 0,
+    "m_PathID": 7111256837034241061
+  }
+}

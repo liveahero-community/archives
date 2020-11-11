@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4075778138493860678
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4733778346476863613
+  },
+  "m_Name": "",
+  "engine": {
+    "m_FileID": 0,
+    "m_PathID": -3183604293241115859
+  },
+  "readColorMode": 0,
+  "readColor": {
+    "r": 0.8,
+    "g": 0.8,
+    "b": 0.8,
+    "a": 1.0
+  },
+  "text": {
+    "m_FileID": 0,
+    "m_PathID": -2154564547672656964
+  },
+  "nameText": {
+    "m_FileID": 0,
+    "m_PathID": -6586827871979175688
+  },
+  "rootChildren": {
+    "m_FileID": 0,
+    "m_PathID": 925058655572109668
+  },
+  "translateMessageWindowRoot": {
+    "m_FileID": 0,
+    "m_PathID": 7161666679342268081
+  },
+  "iconWaitInput": {
+    "m_FileID": 0,
+    "m_PathID": 527224143062743622
+  },
+  "iconBrPage": {
+    "m_FileID": 0,
+    "m_PathID": -7668920858341327803
+  },
+  "isLinkPositionIconBrPage": 1
+}

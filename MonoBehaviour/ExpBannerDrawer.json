@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -251344638926471707
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2961508638196475688
+  },
+  "m_Name": "",
+  "Slider": {
+    "m_FileID": 0,
+    "m_PathID": 8897081817048537250
+  },
+  "ParticleSystem": {
+    "m_FileID": 0,
+    "m_PathID": -211838274166761016
+  },
+  "LvValueText": {
+    "m_FileID": 0,
+    "m_PathID": 2611944331167899628
+  },
+  "IsEndAnimation": {
+    "value": 0
+  },
+  "CharacterIcon": {
+    "m_FileID": 0,
+    "m_PathID": 941139177354853236
+  },
+  "Element": {
+    "m_FileID": 0,
+    "m_PathID": 6764783466050428859
+  },
+  "GetExp": {
+    "m_FileID": 0,
+    "m_PathID": -130110538320571748
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2344027372886276623
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 802258647956436541
+  },
+  "m_Name": "",
+  "InfoText": {
+    "m_FileID": 0,
+    "m_PathID": -2230341916890402370
+  },
+  "TitleText": {
+    "m_FileID": 0,
+    "m_PathID": -6504459574025268227
+  },
+  "FriendPointHaveValue": {
+    "m_FileID": 0,
+    "m_PathID": 2458240901169316504
+  },
+  "FriendPointButton": {
+    "m_FileID": 0,
+    "m_PathID": -8971993636425568875
+  }
+}

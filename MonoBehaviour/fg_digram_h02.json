@@ -1,0 +1,70 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_digram_h02",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6997901284582518794
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_digram_h02",
+      "atlasName": "fg_digram_h02_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "transparentIndex": -1
+    },
+    {
+      "name": "fg_digram_h02b",
+      "atlasName": "fg_digram_h02_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        15,
+        16,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "transparentIndex": -1
+    }
+  ]
+}

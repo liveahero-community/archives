@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3573005764274637782
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3117804958465405973
+  },
+  "m_Name": "",
+  "DicingImage": {
+    "m_FileID": 0,
+    "m_PathID": -5745396967324696521
+  },
+  "TapArea": {
+    "m_FileID": 0,
+    "m_PathID": -5487938144436663445
+  },
+  "PlayableDirector": {
+    "m_FileID": 0,
+    "m_PathID": 645438484261034510
+  },
+  "StatusView": {
+    "m_FileID": 0,
+    "m_PathID": 8867215318697910024
+  },
+  "SkillBlockView": {
+    "m_FileID": 0,
+    "m_PathID": 5730354468262998557
+  },
+  "SkillView": {
+    "m_FileID": 0,
+    "m_PathID": -2394317501081269181
+  }
+}

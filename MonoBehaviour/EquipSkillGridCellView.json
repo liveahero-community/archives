@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5984038055541501817
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4955364112211893114
+  },
+  "m_Name": "",
+  "cellIdentifier": "SKillGridCell",
+  "Objects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1511784314315083486
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3794017257335335109
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8631945408800175553
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5179678150396095462
+    }
+  ]
+}

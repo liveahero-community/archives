@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2118538956113488229
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -9074504918382599712
+  },
+  "m_Name": "",
+  "PopupRect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "HomeCharacterPresenter": {
+    "m_FileID": 0,
+    "m_PathID": -3024773175983735216
+  },
+  "HomePresenter": {
+    "m_FileID": 0,
+    "m_PathID": -6611072960438322126
+  },
+  "HomeBannerPresenter": {
+    "m_FileID": 0,
+    "m_PathID": -4028384183777312081
+  },
+  "SubCommandChecker": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6962569451009665966
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6642857113263415312
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2683858702471886999
+    }
+  ],
+  "TutorialPresenter": {
+    "m_FileID": 0,
+    "m_PathID": -5730773288501716964
+  },
+  "WindowUiAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -4981396664618834225
+  }
+}

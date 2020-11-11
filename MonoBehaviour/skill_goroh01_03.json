@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_goroh01_03",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7624312405227140036
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1150833241987138112
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 356305425004255937
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1184395517677134100
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6287877214534295955
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5597575360336021382
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5385749055114232715
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5891624552804765381
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1978703926039765802
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -989079585966656372
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4125008800027766045
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -5266268477820070445
+  }
+}

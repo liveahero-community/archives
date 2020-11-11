@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 954241873358711854
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4792160591722515709
+  },
+  "m_Name": "",
+  "PopupRect": {
+    "m_FileID": 0,
+    "m_PathID": 6843617174269735882
+  },
+  "OKButton": {
+    "m_FileID": 0,
+    "m_PathID": -5331708310653954555
+  },
+  "CancelButton": {
+    "m_FileID": 0,
+    "m_PathID": -3335992587697641713
+  }
+}

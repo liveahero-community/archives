@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_ryekie_h01_03",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3477100767793882163
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6139957858431597597
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4973688155401037788
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1852508585265859940
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 814673588532224619
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2861259173820153424
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7577254564959264257
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3783674419352607889
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -431392514641103508
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4918881341977293505
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5122910573435546686
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9168397315181606577
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -293753164216473957
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -3594391278533192133
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7985749586515893719
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8963403365803589330
+  },
+  "m_Name": "",
+  "BGMSource": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "SESource": {
+    "m_FileID": 0,
+    "m_PathID": -4793414207698441255
+  },
+  "VoiceSource": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

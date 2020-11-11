@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Spine_model1_Atlas",
+  "atlasFile": {
+    "m_FileID": 1,
+    "m_PathID": 4295936613767885684
+  },
+  "materials": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -3339525116438603994
+    }
+  ]
+}

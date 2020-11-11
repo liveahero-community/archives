@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6779187901435443253
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5990017927456928593
+  },
+  "m_Name": "",
+  "SkillNameText": {
+    "m_FileID": 0,
+    "m_PathID": -4718532387469565444
+  },
+  "ViewText": {
+    "m_FileID": 0,
+    "m_PathID": -738402329039200005
+  },
+  "ViewPointLabelArea": {
+    "m_FileID": 0,
+    "m_PathID": -7355401675399504918
+  },
+  "ViewPointValueArea": {
+    "m_FileID": 0,
+    "m_PathID": -4199229733182562179
+  },
+  "SkillIcon": {
+    "m_FileID": 0,
+    "m_PathID": -8719702580443502292
+  }
+}

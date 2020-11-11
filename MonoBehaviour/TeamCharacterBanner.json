@@ -1,0 +1,74 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5341176407220259393
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7177976461946445838
+  },
+  "m_Name": "",
+  "<Position>k__BackingField": 5,
+  "BannerBase": {
+    "m_FileID": 0,
+    "m_PathID": -5479858794114331791
+  },
+  "NormalBanner": {
+    "m_FileID": 3,
+    "m_PathID": 8913800132501618873
+  },
+  "SupportBanner": {
+    "m_FileID": 3,
+    "m_PathID": 422036790229231705
+  },
+  "FixedBanner": {
+    "m_FileID": 3,
+    "m_PathID": 9091509522468664689
+  },
+  "RestrictBanner": {
+    "m_FileID": 3,
+    "m_PathID": 2588536169896255048
+  },
+  "FixedArea": {
+    "m_FileID": 0,
+    "m_PathID": -5924941273591997357
+  },
+  "SupportMark": {
+    "m_FileID": 0,
+    "m_PathID": -6764762105392553922
+  },
+  "HeroButton": {
+    "m_FileID": 0,
+    "m_PathID": -5510102887394067977
+  },
+  "SidekickIconButton": {
+    "m_FileID": 0,
+    "m_PathID": -576028891868625558
+  },
+  "EmptyHeroButton": {
+    "m_FileID": 0,
+    "m_PathID": -4830573740861590236
+  },
+  "EmptySidekickButton": {
+    "m_FileID": 0,
+    "m_PathID": 7044363906379255310
+  },
+  "SupportMessage": {
+    "m_FileID": 0,
+    "m_PathID": -5414391278766796988
+  },
+  "RestrictText": {
+    "m_FileID": 0,
+    "m_PathID": 4002976813440247667
+  },
+  "ParameterView": {
+    "m_FileID": 0,
+    "m_PathID": 295865621897241172
+  },
+  "StatusArea": {
+    "m_FileID": 0,
+    "m_PathID": -5805503850393569521
+  },
+  "IsRestrictBanner": 0
+}

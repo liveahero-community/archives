@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_victomh01_03",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8970577126629249691
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3393402086831518530
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8969711638296609783
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -978528079107247178
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7678013769447751513
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8382816347198256488
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3228198030201241752
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3693671133823036376
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4693318115820106092
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 8070061988229735738
+  }
+}

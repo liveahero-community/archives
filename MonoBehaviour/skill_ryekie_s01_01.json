@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_ryekie_s01_01",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1046672036642012658
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4778163121132252851
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5799332684811866157
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7700664646484893209
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6073127304082661732
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -3547130022940704998
+  }
+}

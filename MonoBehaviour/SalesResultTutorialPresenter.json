@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6752204347434597122
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2883773783875674178
+  },
+  "m_Name": "",
+  "TutorialReferenceQueue": [
+    {
+      "m_AssetGUID": "f2633e14d6edf2645929a89e48cd72c0",
+      "m_SubObjectName": ""
+    },
+    {
+      "m_AssetGUID": "4ab8d679a1de5ed47bdba465b32f696f",
+      "m_SubObjectName": ""
+    }
+  ],
+  "TutorialCode": "SalesStatusResult",
+  "TutorialType": 4096,
+  "SaveOnEndTutorial": 1
+}

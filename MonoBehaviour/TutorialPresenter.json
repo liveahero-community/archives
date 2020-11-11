@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2621016783912060229
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8975053823518317047
+  },
+  "m_Name": "",
+  "TutorialReferenceQueue": [
+    {
+      "m_AssetGUID": "f7d5855777527d7428801ee7114a0319",
+      "m_SubObjectName": ""
+    }
+  ],
+  "TutorialCode": "SalesConfirm",
+  "TutorialType": 256,
+  "SaveOnEndTutorial": 1
+}

@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 378115080907091143
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3072655260918683689
+  },
+  "m_Name": "",
+  "cellIdentifier": "SidekickGridCell",
+  "Objects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4029029074282159343
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5605840785263771368
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 408204264925152683
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7570448655190557852
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "rankup3to4",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1764521165236444005
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5162935421462285896
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8948274874983034447
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5436439483111054402
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -958332654945807058
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4814811741767781328
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6938093378944959916
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5925252950204005077
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -252211718350523969
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -847909133793785482
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1120866751031481915
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1650552026170971670
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6116108936627883757
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9070921154568633750
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3656992814333045889
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1802238109662666190
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8379868744594497206
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -486734052936105961
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8401342736871818795
+    }
+  ],
+  "m_FixedDuration": 7.5,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0
+  },
+  "m_DurationMode": 1,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": 3358130065602365136
+  }
+}

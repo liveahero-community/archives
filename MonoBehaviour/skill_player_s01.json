@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_player_s01",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6324900417348773876
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1476780035806236710
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3583631714708808533
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7047424999867293116
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2042500313021957007
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -9096893126625517484
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2080189540537484850
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3478024786945435231
+  },
+  "m_Name": "",
+  "cellIdentifier": "SalesGridCellView",
+  "Objects": [],
+  "IconButtons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5048660442873462718
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3800662144180720474
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9001658543485368237
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3075110642000397089
+    }
+  ]
+}

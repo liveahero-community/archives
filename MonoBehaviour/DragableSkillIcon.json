@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8469798456392832702
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1405130651093322492
+  },
+  "m_Name": "",
+  "m_rectTransform": {
+    "m_FileID": 0,
+    "m_PathID": -6808684743723086419
+  },
+  "MainCamera": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "UICamera": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Canvas": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": 33870274681962696
+  }
+}

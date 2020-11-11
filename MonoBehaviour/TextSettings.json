@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1863130952329646417
+  },
+  "m_Name": "TextSettings",
+  "wordWrapSeparator": "!#%&(),-.:<=>?@[]{}",
+  "kinsokuTop": ",)]}、〕〉》」』】〙〗〟’”｠»ゝゞーァィゥェォッャュョヮヵヶぁぃぅぇぉっゃゅょゎゕゖㇰㇱㇲㇳㇴㇵㇶㇷㇸㇹㇷ゚ㇺㇻㇼㇽㇾㇿ々〻‐゠–〜～?!‼⁇⁈⁉・:;/。.，）］｝＝？！：；／",
+  "kinsokuEnd": "([{〔〈《「『【〘〖〝‘“｟«（［｛",
+  "ignoreLetterSpace": "…‒–—―⁓〜〰",
+  "autoIndentation": "",
+  "forceIgonreJapaneseKinsoku": 0
+}

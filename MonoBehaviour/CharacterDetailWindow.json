@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2364381029248677925
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7567813582440474442
+  },
+  "m_Name": "",
+  "PopupRect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "DetailAreaPresenter": {
+    "m_FileID": 0,
+    "m_PathID": 2959673533163162120
+  },
+  "NameBarPresenter": {
+    "m_FileID": 0,
+    "m_PathID": -946531906532941602
+  },
+  "DicingImage": {
+    "m_FileID": 0,
+    "m_PathID": -4189769231187292849
+  },
+  "CharacterWatchButton": {
+    "m_FileID": 0,
+    "m_PathID": -4532334655138207039
+  },
+  "CharacterVisualChangeButton": {
+    "m_FileID": 0,
+    "m_PathID": -5032654340801504637
+  },
+  "GreetingMemoryButton": {
+    "m_FileID": 0,
+    "m_PathID": -4569844042576098728
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3830777659850323227
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4239274207494798894
+  },
+  "m_Name": "",
+  "VoiceButton": {
+    "m_AssetGUID": "bce71102acd177c409f62559f26344e9",
+    "m_SubObjectName": ""
+  },
+  "ButtonArea": {
+    "m_FileID": 0,
+    "m_PathID": 6198456186049660444
+  }
+}

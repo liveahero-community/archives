@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8097821814924875905
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -9037810537328321157
+  },
+  "m_Name": "",
+  "BlackOut": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Selected": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Drawer": {
+    "m_FileID": 0,
+    "m_PathID": -7604539374515692480
+  },
+  "ValueObject": {
+    "m_FileID": 0,
+    "m_PathID": 7886614941725887966
+  },
+  "ValueText": {
+    "m_FileID": 0,
+    "m_PathID": -4067745408235495130
+  },
+  "Button": {
+    "m_FileID": 0,
+    "m_PathID": -1693341431408920118
+  }
+}
