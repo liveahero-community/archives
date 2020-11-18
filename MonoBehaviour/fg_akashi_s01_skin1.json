@@ -1,0 +1,190 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_akashi_s01_skin1",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7536278258964708216
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_akashi_s01_skin1",
+      "atlasName": "fg_akashi_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        2,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        2,
+        11,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_akashi_s01b_skin1",
+      "atlasName": "fg_akashi_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        12,
+        4,
+        2,
+        5,
+        13,
+        7,
+        14,
+        15,
+        10,
+        2,
+        11,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_akashi_s01c_skin1",
+      "atlasName": "fg_akashi_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        16,
+        1,
+        2,
+        17,
+        4,
+        2,
+        5,
+        6,
+        7,
+        8,
+        18,
+        10,
+        2,
+        11,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_akashi_s01d_skin1",
+      "atlasName": "fg_akashi_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        19,
+        4,
+        2,
+        5,
+        20,
+        7,
+        8,
+        21,
+        10,
+        2,
+        11,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_akashi_s01e_skin1",
+      "atlasName": "fg_akashi_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        16,
+        1,
+        2,
+        22,
+        4,
+        2,
+        5,
+        23,
+        7,
+        8,
+        24,
+        10,
+        2,
+        11,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_akashi_s01f_skin1",
+      "atlasName": "fg_akashi_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        25,
+        4,
+        2,
+        5,
+        26,
+        7,
+        8,
+        27,
+        10,
+        2,
+        11,
+        2
+      ],
+      "transparentIndex": 2
+    },
+    {
+      "name": "fg_akashi_s01g_skin1",
+      "atlasName": "fg_akashi_s01_skin1_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        28,
+        4,
+        2,
+        5,
+        29,
+        7,
+        8,
+        30,
+        10,
+        2,
+        11,
+        2
+      ],
+      "transparentIndex": 2
+    }
+  ]
+}

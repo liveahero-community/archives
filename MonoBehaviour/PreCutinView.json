@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 7165084522207528215
+    "m_PathID": -6628711435877903241
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -11,6 +11,6 @@
   "m_Name": "",
   "Hero": {
     "m_FileID": 0,
-    "m_PathID": 8414329664633550650
+    "m_PathID": -4521253163488096433
   }
 }

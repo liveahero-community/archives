@@ -38,6 +38,464 @@
         {
           "rowIndex": 1,
           "strings": [
+            "*greeting_suhail_s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 2,
+          "strings": [
+            "Bg",
+            "海賊船ブリッジ_大気圏内",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 3,
+          "strings": [
+            "Wait",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ".5",
+            "",
+            ""
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 4,
+          "strings": [
+            "",
+            "スハイル",
+            "驚き",
+            "ガチャ立ち絵",
+            "",
+            "",
+            "",
+            "",
+            "この大海賊・スハイル様に、\nサポートを任せるだァ？",
+            "",
+            "voice_suhail_s_gachaResult1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 5,
+          "strings": [
+            "",
+            "スハイル",
+            "笑い",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "ハッ、面白ぇ事抜かすじゃねえかァ！\n気に入ったァ！　子分同様、\nばっちり面倒見てやろうともォッ！",
+            "",
+            "voice_suhail_s_gachaResult2"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 6,
+          "strings": [
+            "EndScenario"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 7,
+          "strings": [
+            "*greeting_suhail_h",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 8,
+          "strings": [
+            "Bg",
+            "海賊船ブリッジ",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 9,
+          "strings": [
+            "Wait",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ".5",
+            "",
+            ""
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 10,
+          "strings": [
+            "",
+            "スハイル変身後戦闘",
+            "照れ",
+            "キャラ背景",
+            "",
+            "",
+            "",
+            "",
+            "海賊すら味方にしようたァ、豪儀な奴だ！\n面白ェ！テメェの提案、\n乗ったろうじゃねェかァ！",
+            "",
+            "voice_suhail_h_gachaResult1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 11,
+          "strings": [
+            "",
+            "スハイル変身後戦闘",
+            "通常",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "このスハイル船長に、ドーンと任せなァ！\nガハハハハァッ！！",
+            "",
+            "voice_suhail_h_gachaResult2"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 12,
+          "strings": [
+            "EndScenario"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        }
+      ],
+      "name": "Assets/Scene_Adv/Scenario/gacha/greeting.xls:greeting_suhail",
+      "type": 1,
+      "textLength": 500,
+      "headerRow": 0,
+      "entityIndexTbl": [],
+      "entityDataList": []
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Command",
+            "Arg1",
+            "Arg2",
+            "Arg3",
+            "Arg4",
+            "Arg5",
+            "Arg6",
+            "WaitType",
+            "Text",
+            "PageCtrl",
+            "Voice",
+            "WindowType",
+            "English",
+            "ChineseTraditional",
+            "ChineseSimplified"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 1,
+          "strings": [
+            "*greeting_gammei_s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 2,
+          "strings": [
+            "Bg",
+            "オフィス",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 3,
+          "strings": [
+            "Wait",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ".5",
+            "",
+            ""
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 4,
+          "strings": [
+            "",
+            "ガンメイ",
+            "通常",
+            "ガチャ立ち絵",
+            "",
+            "",
+            "",
+            "",
+            "オリエントシティ市警、ガンメイ刑事だ。\nああ、お前の協力要請、承ろう。",
+            "",
+            "voice_gammei_s_gachaResult1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 5,
+          "strings": [
+            "",
+            "ガンメイ",
+            "泣き",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "捜査じゃ飯は……\n食えねえからな。",
+            "",
+            "voice_gammei_s_gachaResult2"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 6,
+          "strings": [
+            "EndScenario",
+            ""
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 7,
+          "strings": [
+            "*greeting_gammei_h",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 8,
+          "strings": [
+            "Bg",
+            "オリエントシティ遠景_夕",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 9,
+          "strings": [
+            "Wait",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ".5",
+            "",
+            ""
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 10,
+          "strings": [
+            "",
+            "ガンメイ変身後",
+            "通常",
+            "キャラ中央",
+            "",
+            "",
+            "",
+            "",
+            "オリエントシティ市警の刑事、\nガンメイだ。事件の捜査がてら、\nヒーローの仕事もやっている。",
+            "",
+            "voice_gammei_h_gachaResult1"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 11,
+          "strings": [
+            "",
+            "ガンメイ変身後",
+            "笑い",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "凶悪犯を見つけたら、\nいつでも連絡入れてくれや。",
+            "",
+            "voice_gammei_h_gachaResult2"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 12,
+          "strings": [
+            "EndScenario",
+            ""
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        }
+      ],
+      "name": "Assets/Scene_Adv/Scenario/gacha/greeting.xls:greeting_gammei",
+      "type": 1,
+      "textLength": 468,
+      "headerRow": 0,
+      "entityIndexTbl": [],
+      "entityDataList": []
+    },
+    {
+      "rows": [
+        {
+          "rowIndex": 0,
+          "strings": [
+            "Command",
+            "Arg1",
+            "Arg2",
+            "Arg3",
+            "Arg4",
+            "Arg5",
+            "Arg6",
+            "WaitType",
+            "Text",
+            "PageCtrl",
+            "Voice",
+            "WindowType",
+            "English",
+            "ChineseTraditional",
+            "ChineseSimplified"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 1,
+          "strings": [
             "*greeting_akashi_s",
             "",
             "",

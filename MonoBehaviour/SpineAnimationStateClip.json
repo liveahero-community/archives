@@ -5,14 +5,14 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
+    "m_FileID": 1,
     "m_PathID": -6617529616628678929
   },
   "m_Name": "SpineAnimationStateClip",
   "template": {
     "animationReference": {
-      "m_FileID": 3,
-      "m_PathID": -5011766891367634869
+      "m_FileID": 2,
+      "m_PathID": -1951134345595196102
     },
     "loop": 0,
     "customDuration": 0,

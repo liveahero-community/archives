@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 7064886598271137228
+    "m_PathID": 8740802117292099783
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -17,7 +17,7 @@
     "r": 1.0,
     "g": 1.0,
     "b": 1.0,
-    "a": 0.0
+    "a": 1.0
   },
   "m_RaycastTarget": 1,
   "m_Maskable": 1,

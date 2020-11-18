@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -7141965998574480087
+    "m_PathID": 1975343451090211364
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -26,14 +26,14 @@
       "m_Calls": []
     }
   },
-  "m_text": "0000",
+  "m_text": "ATKアップ",
   "m_isRightToLeft": 0,
   "m_fontAsset": {
-    "m_FileID": 2,
+    "m_FileID": 4,
     "m_PathID": 744446416769406934
   },
   "m_sharedMaterial": {
-    "m_FileID": 2,
+    "m_FileID": 4,
     "m_PathID": -1922389222168809615
   },
   "m_fontSharedMaterials": [],
@@ -52,36 +52,36 @@
     "a": 1.0
   },
   "m_enableVertexGradient": 1,
-  "m_colorMode": 2,
+  "m_colorMode": 3,
   "m_fontColorGradient": {
     "topLeft": {
       "r": 1.0,
-      "g": 0.954961658,
-      "b": 0.0,
+      "g": 1.0,
+      "b": 1.0,
       "a": 1.0
     },
     "topRight": {
       "r": 1.0,
-      "g": 0.954961658,
-      "b": 0.0,
+      "g": 1.0,
+      "b": 1.0,
       "a": 1.0
     },
     "bottomLeft": {
-      "r": 0.429605544,
-      "g": 0.9339623,
-      "b": 0.18943575,
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
       "a": 1.0
     },
     "bottomRight": {
-      "r": 0.429605544,
-      "g": 0.9339623,
-      "b": 0.18943575,
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
       "a": 1.0
     }
   },
   "m_fontColorGradientPreset": {
     "m_FileID": 0,
-    "m_PathID": -5630467190823502510
+    "m_PathID": 1211777757054818904
   },
   "m_spriteAsset": {
     "m_FileID": 0,
@@ -97,14 +97,14 @@
   "m_faceColor": {
     "rgba": 4294967295
   },
-  "m_fontSize": 4.0,
-  "m_fontSizeBase": 4.0,
+  "m_fontSize": 3.0,
+  "m_fontSizeBase": 3.0,
   "m_fontWeight": 400,
-  "m_enableAutoSizing": 0,
-  "m_fontSizeMin": 18.0,
-  "m_fontSizeMax": 72.0,
+  "m_enableAutoSizing": 1,
+  "m_fontSizeMin": 1.0,
+  "m_fontSizeMax": 3.0,
   "m_fontStyle": 0,
-  "m_HorizontalAlignment": 2,
+  "m_HorizontalAlignment": 1,
   "m_VerticalAlignment": 512,
   "m_textAlignment": 65535,
   "m_characterSpacing": 0.0,
@@ -150,9 +150,9 @@
   "m_hasFontAssetChanged": 0,
   "m_renderer": {
     "m_FileID": 0,
-    "m_PathID": 8129215212884982450
+    "m_PathID": -535826585552284757
   },
   "m_maskType": 0,
-  "_SortingLayerID": 1147913787,
+  "_SortingLayerID": 0,
   "_SortingOrder": 0
 }

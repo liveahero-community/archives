@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -8589436536501624091
+    "m_PathID": -2954635029599893785
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -11,7 +11,7 @@
   "m_Name": "",
   "skeletonDataAsset": {
     "m_FileID": 2,
-    "m_PathID": -5283505410740112572
+    "m_PathID": 3484539692661708037
   },
   "initialSkinName": "normal",
   "initialFlipX": 0,
@@ -34,7 +34,7 @@
     "materialsOutsideMask": []
   },
   "disableRenderingOnOverride": 1,
-  "_animationName": "Idle",
-  "loop": 1,
+  "_animationName": "",
+  "loop": 0,
   "timeScale": 1.0
 }

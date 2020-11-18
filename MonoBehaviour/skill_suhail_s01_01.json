@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "skill_suhail_s01_01",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6754659865875184812
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -311493773945221055
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4401821141921696047
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -691684038889315744
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2222593264562345071
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5973309726619280820
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2110047862090157685
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2878319288064549164
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8983146354171520462
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2340876454166434051
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 30.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -6685848852818666651
+  }
+}

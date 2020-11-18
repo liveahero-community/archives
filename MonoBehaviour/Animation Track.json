@@ -5,7 +5,7 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 1,
+    "m_FileID": 0,
     "m_PathID": -1326188021205359011
   },
   "m_Name": "Animation Track",
@@ -23,19 +23,19 @@
   },
   "m_Parent": {
     "m_FileID": 0,
-    "m_PathID": -9005098428000274291
+    "m_PathID": -7985398604079530880
   },
   "m_Children": [],
   "m_Clips": [],
   "m_Markers": {
     "m_Objects": []
   },
-  "m_InfiniteClipPreExtrapolation": 1,
-  "m_InfiniteClipPostExtrapolation": 1,
+  "m_InfiniteClipPreExtrapolation": 0,
+  "m_InfiniteClipPostExtrapolation": 0,
   "m_InfiniteClipOffsetPosition": {
     "x": 0.0,
     "y": 0.0,
-    "z": -89.36
+    "z": 0.0
   },
   "m_InfiniteClipOffsetEulerAngles": {
     "x": 0.0,
@@ -65,7 +65,7 @@
   "m_TrackOffset": 0,
   "m_InfiniteClip": {
     "m_FileID": 0,
-    "m_PathID": 2517293365903880915
+    "m_PathID": 0
   },
   "m_OpenClipOffsetRotation": {
     "x": 0.0,

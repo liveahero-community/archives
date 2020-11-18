@@ -5,7 +5,7 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
+    "m_FileID": 1,
     "m_PathID": -6140739481308358681
   },
   "m_Name": "Control Track (1)",
@@ -23,23 +23,23 @@
   },
   "m_Parent": {
     "m_FileID": 0,
-    "m_PathID": 2624287823082860321
+    "m_PathID": -7141496461219093373
   },
   "m_Children": [],
   "m_Clips": [
     {
       "m_Version": 1,
-      "m_Start": 0.33333333333333331,
+      "m_Start": 0.9,
       "m_ClipIn": 0.0,
       "m_Asset": {
         "m_FileID": 0,
-        "m_PathID": -8498579403944931107
+        "m_PathID": -2312498863932490872
       },
-      "m_Duration": 1.6833333333333333,
+      "m_Duration": 1.4333333333333336,
       "m_TimeScale": 1.0,
       "m_ParentTrack": {
         "m_FileID": 0,
-        "m_PathID": 1593408333653027756
+        "m_PathID": -6686748060318268965
       },
       "m_EaseInDuration": 0.0,
       "m_EaseOutDuration": 0.0,
@@ -107,7 +107,7 @@
       "m_PreExtrapolationMode": 0,
       "m_PostExtrapolationTime": 0.0,
       "m_PreExtrapolationTime": 0.0,
-      "m_DisplayName": "add_Burst_Gravity"
+      "m_DisplayName": "syuusoku_burst"
     }
   ],
   "m_Markers": {

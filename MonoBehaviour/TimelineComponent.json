@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -8365813857760442503
+    "m_PathID": 7762970950568400083
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -15,11 +15,11 @@
   },
   "invokerCameraTransform": {
     "m_FileID": 0,
-    "m_PathID": -2172819716268804784
+    "m_PathID": 0
   },
   "targetTransform": {
     "m_FileID": 0,
-    "m_PathID": -141903549912137465
+    "m_PathID": 0
   },
-  "nextSize": 5.0
+  "nextSize": 4.75
 }

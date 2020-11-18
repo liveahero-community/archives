@@ -10,7 +10,7 @@
   },
   "m_Name": "TimelineEventClip(Clone)(Clone)(Clone)",
   "template": {
-    "HandlerKey": "Lifewonders.LAH.Battle.TimelineComponent.GoToInvoker",
+    "HandlerKey": "Lifewonders.LAH.Battle.TimelineComponent.BackToCameraPosition",
     "IsMethodWithParam": 0,
     "InvokeEventsInEditMode": 0,
     "TargetObject": {

@@ -5,7 +5,7 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 1,
+    "m_FileID": 2,
     "m_PathID": -6140739481308358681
   },
   "m_Name": "Control Track (2)",
@@ -23,23 +23,23 @@
   },
   "m_Parent": {
     "m_FileID": 0,
-    "m_PathID": -9005098428000274291
+    "m_PathID": -2179009583718101768
   },
   "m_Children": [],
   "m_Clips": [
     {
       "m_Version": 1,
-      "m_Start": 0.0,
+      "m_Start": 0.9,
       "m_ClipIn": 0.0,
       "m_Asset": {
         "m_FileID": 0,
-        "m_PathID": 1299706833474240937
+        "m_PathID": 3223679903136320884
       },
-      "m_Duration": 1.0,
+      "m_Duration": 1.2321658253669741,
       "m_TimeScale": 1.0,
       "m_ParentTrack": {
         "m_FileID": 0,
-        "m_PathID": 4644911930158217639
+        "m_PathID": -6796397400815960076
       },
       "m_EaseInDuration": 0.0,
       "m_EaseOutDuration": 0.0,
@@ -107,7 +107,7 @@
       "m_PreExtrapolationMode": 0,
       "m_PostExtrapolationTime": 0.0,
       "m_PreExtrapolationTime": 0.0,
-      "m_DisplayName": "BG"
+      "m_DisplayName": "Temp_Oneshot"
     }
   ],
   "m_Markers": {

@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -658540729482238472
+    "m_PathID": -3490377978350356639
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -11,12 +11,12 @@
   "m_Name": "",
   "TextKey": "",
   "FontSetting": {
-    "m_FileID": 6,
+    "m_FileID": 2,
     "m_PathID": -8249165160190525977
   },
   "text": {
     "m_FileID": 0,
-    "m_PathID": 7082073322472547641
+    "m_PathID": -8833438694553669591
   },
   "outline": 1
 }
