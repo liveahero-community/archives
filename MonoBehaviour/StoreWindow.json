@@ -13,12 +13,12 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
+  "StorePresenter": {
+    "m_FileID": 0,
+    "m_PathID": -2504381322750929418
+  },
   "scrollerPresenter": {
     "m_FileID": 0,
     "m_PathID": 6411879393328900362
-  },
-  "userItemView": {
-    "m_FileID": 0,
-    "m_PathID": 2173646074708529142
   }
 }

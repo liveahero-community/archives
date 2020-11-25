@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 8436251671816376029
+    "m_PathID": 3587232670644635471
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -91,14 +91,14 @@
   "m_Interactable": 1,
   "m_TargetGraphic": {
     "m_FileID": 0,
-    "m_PathID": 6453728194174055537
+    "m_PathID": 4574879725410897663
   },
   "m_HandleRect": {
     "m_FileID": 0,
-    "m_PathID": -6556035785669998371
+    "m_PathID": 6124342370088660893
   },
   "m_Direction": 2,
-  "m_Value": 1.0,
+  "m_Value": 0.0,
   "m_Size": 1.0,
   "m_NumberOfSteps": 0,
   "m_OnValueChanged": {

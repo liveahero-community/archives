@@ -5,7 +5,7 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 1,
+    "m_FileID": 0,
     "m_PathID": 8320850124548970631
   },
   "m_Name": "SPINE_1",
@@ -23,7 +23,7 @@
   },
   "m_Parent": {
     "m_FileID": 0,
-    "m_PathID": 8419588160684337940
+    "m_PathID": 2624287823082860321
   },
   "m_Children": [],
   "m_Clips": [
@@ -33,13 +33,13 @@
       "m_ClipIn": 0.0,
       "m_Asset": {
         "m_FileID": 0,
-        "m_PathID": 5762748038644907172
+        "m_PathID": -3602925783910005897
       },
-      "m_Duration": 1.333299994468689,
+      "m_Duration": 1.8833333333333333,
       "m_TimeScale": 1.0,
       "m_ParentTrack": {
         "m_FileID": 0,
-        "m_PathID": 2700725337719063887
+        "m_PathID": 3529228218397820424
       },
       "m_EaseInDuration": 0.0,
       "m_EaseOutDuration": 0.0,
@@ -107,21 +107,21 @@
       "m_PreExtrapolationMode": 0,
       "m_PostExtrapolationTime": 0.0,
       "m_PreExtrapolationTime": 0.0,
-      "m_DisplayName": "Attack"
+      "m_DisplayName": "BattleIn"
     },
     {
       "m_Version": 1,
-      "m_Start": 1.333299994468689,
+      "m_Start": 1.8833333333333333,
       "m_ClipIn": 0.0,
       "m_Asset": {
         "m_FileID": 0,
-        "m_PathID": 2707198582907306393
+        "m_PathID": 7088342978256150054
       },
-      "m_Duration": 0.067198871744462929,
+      "m_Duration": 0.1333333333333333,
       "m_TimeScale": 1.0,
       "m_ParentTrack": {
         "m_FileID": 0,
-        "m_PathID": 2700725337719063887
+        "m_PathID": 3529228218397820424
       },
       "m_EaseInDuration": 0.0,
       "m_EaseOutDuration": 0.0,

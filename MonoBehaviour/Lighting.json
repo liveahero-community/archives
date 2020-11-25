@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 5342697693425636181
+    "m_PathID": -2290845671589229893
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -9,13 +9,13 @@
     "m_PathID": 2315606058304428629
   },
   "m_Name": "",
-  "lighting": 5.0,
+  "lighting": 0.7,
   "lightPower": {
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "flashFlg": 0,
-  "flashTimer": 0.6,
+  "flashFlg": 1,
+  "flashTimer": 2.5,
   "lightKeepFlg": 0,
   "revOnTime": 0.0,
   "keepOnTime": 0.0,

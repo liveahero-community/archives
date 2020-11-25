@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 739870767319601366
+    "m_PathID": 8657229749749908243
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -11,14 +11,14 @@
   "m_Name": "",
   "HPBar": {
     "m_FileID": 0,
-    "m_PathID": -7370717788535186966
+    "m_PathID": -2431102991576721073
   },
   "statusArea": {
     "m_FileID": 0,
-    "m_PathID": 1011835467839575608
+    "m_PathID": 8075792827739770722
   },
   "DetailButton": {
     "m_FileID": 0,
-    "m_PathID": -2108248979565178463
+    "m_PathID": 4141846400143697716
   }
 }

@@ -23,9 +23,26 @@
   },
   "m_Parent": {
     "m_FileID": 0,
-    "m_PathID": -8527114649630031061
+    "m_PathID": -5775000820031500271
   },
-  "m_Children": [],
+  "m_Children": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6170119985817320444
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4657654354204702002
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3067650456156058417
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8767718544590090412
+    }
+  ],
   "m_Clips": [],
   "m_Markers": {
     "m_Objects": []

@@ -23,7 +23,7 @@
   },
   "m_Parent": {
     "m_FileID": 0,
-    "m_PathID": 8419588160684337940
+    "m_PathID": 8043213392974803632
   },
   "m_Children": [],
   "m_Clips": [
@@ -33,13 +33,13 @@
       "m_ClipIn": 0.0,
       "m_Asset": {
         "m_FileID": 0,
-        "m_PathID": 7509041032231741471
+        "m_PathID": -3275640536919941907
       },
       "m_Duration": 0.33333333333333331,
       "m_TimeScale": 1.0,
       "m_ParentTrack": {
         "m_FileID": 0,
-        "m_PathID": -5860215719676572386
+        "m_PathID": -3019478500448736812
       },
       "m_EaseInDuration": 0.0,
       "m_EaseOutDuration": 0.0,
@@ -115,13 +115,13 @@
       "m_ClipIn": 0.0,
       "m_Asset": {
         "m_FileID": 0,
-        "m_PathID": -7304797103513067991
+        "m_PathID": 5804770832476988597
       },
       "m_Duration": 0.26716553287981859,
       "m_TimeScale": 1.0,
       "m_ParentTrack": {
         "m_FileID": 0,
-        "m_PathID": -5860215719676572386
+        "m_PathID": -3019478500448736812
       },
       "m_EaseInDuration": 0.0,
       "m_EaseOutDuration": 0.0,
@@ -197,13 +197,13 @@
       "m_ClipIn": 0.0,
       "m_Asset": {
         "m_FileID": 0,
-        "m_PathID": -2567123697704913115
+        "m_PathID": 3795178275559870503
       },
       "m_Duration": 0.10000000000000009,
       "m_TimeScale": 1.0,
       "m_ParentTrack": {
         "m_FileID": 0,
-        "m_PathID": -5860215719676572386
+        "m_PathID": -3019478500448736812
       },
       "m_EaseInDuration": 0.0,
       "m_EaseOutDuration": 0.0,

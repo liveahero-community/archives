@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -6153962256335117018
+    "m_PathID": -4889542886986941358
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -55,10 +55,10 @@
       "a": 1.0
     },
     "m_DisabledColor": {
-      "r": 0.5882353,
-      "g": 0.5882353,
-      "b": 0.5882353,
-      "a": 1.0
+      "r": 0.784313738,
+      "g": 0.784313738,
+      "b": 0.784313738,
+      "a": 0.5019608
     },
     "m_ColorMultiplier": 1.0,
     "m_FadeDuration": 0.1
@@ -91,7 +91,7 @@
   "m_Interactable": 1,
   "m_TargetGraphic": {
     "m_FileID": 0,
-    "m_PathID": -3706390306654553887
+    "m_PathID": -646753245620123008
   },
   "m_OnClick": {
     "m_PersistentCalls": {

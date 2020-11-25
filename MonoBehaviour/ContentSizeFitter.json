@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -1184058579195123329
+    "m_PathID": -1397076909704637159
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -9,6 +9,6 @@
     "m_PathID": -5392852106782294089
   },
   "m_Name": "",
-  "m_HorizontalFit": 0,
-  "m_VerticalFit": 2
+  "m_HorizontalFit": 2,
+  "m_VerticalFit": 0
 }

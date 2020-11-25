@@ -1,16 +1,16 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 4559045391651839225
+    "m_PathID": 8704185625676942328
   },
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 470472269831378617
+    "m_PathID": 5584741585621336294
   },
   "m_Name": "",
-  "IconImage": {
+  "PlayableDirector": {
     "m_FileID": 0,
-    "m_PathID": 5843102832881281117
+    "m_PathID": 8732988036239395754
   }
 }

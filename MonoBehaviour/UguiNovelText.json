@@ -1,11 +1,11 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 5761028990920246112
+    "m_PathID": 4058562151342152126
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
+    "m_FileID": 1,
     "m_PathID": -1169004333852722566
   },
   "m_Name": "",
@@ -28,7 +28,7 @@
   },
   "m_FontData": {
     "m_Font": {
-      "m_FileID": 2,
+      "m_FileID": 4,
       "m_PathID": 8457371072047476483
     },
     "m_FontSize": 24,

@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -1207986319281042021
+    "m_PathID": 6198456186049660444
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -10,22 +10,22 @@
   },
   "m_Name": "",
   "m_Padding": {
-    "m_Left": 20,
-    "m_Right": 20,
-    "m_Top": 0,
+    "m_Left": 0,
+    "m_Right": 0,
+    "m_Top": 5,
     "m_Bottom": 0
   },
-  "m_ChildAlignment": 0,
+  "m_ChildAlignment": 1,
   "m_StartCorner": 0,
-  "m_StartAxis": 0,
+  "m_StartAxis": 1,
   "m_CellSize": {
-    "x": 95.0,
-    "y": 95.0
+    "x": 358.0,
+    "y": 50.0
   },
   "m_Spacing": {
-    "x": 6.0,
-    "y": 6.0
+    "x": 0.0,
+    "y": 5.0
   },
-  "m_Constraint": 0,
-  "m_ConstraintCount": 2
+  "m_Constraint": 1,
+  "m_ConstraintCount": 1
 }

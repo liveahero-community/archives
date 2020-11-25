@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 5576883794232588317
+    "m_PathID": -8889570255810220557
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -11,14 +11,14 @@
   "m_Name": "",
   "BackGroundRed": {
     "m_FileID": 0,
-    "m_PathID": -765757998095022506
+    "m_PathID": -8686626719483045904
   },
   "Slider": {
     "m_FileID": 0,
-    "m_PathID": -3090251103502955467
+    "m_PathID": -5517466319600691643
   },
   "FillImage": {
     "m_FileID": 0,
-    "m_PathID": -7717383648294001687
+    "m_PathID": 7230274283830674149
   }
 }

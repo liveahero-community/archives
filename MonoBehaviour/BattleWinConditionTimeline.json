@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -657477701292886207
+  },
+  "m_Name": "BattleWinConditionTimeline",
+  "m_Version": 0,
+  "m_Tracks": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8078621724310142907
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2162850592997865127
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1861920203973720628
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1364477980926519097
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6572993592056318624
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1457906430960873725
+    }
+  ],
+  "m_FixedDuration": 0.0,
+  "m_EditorSettings": {
+    "m_Framerate": 60.0
+  },
+  "m_DurationMode": 0,
+  "m_MarkerTrack": {
+    "m_FileID": 0,
+    "m_PathID": -6319432127660682186
+  }
+}

@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 5985219007783796074
+    "m_PathID": -658540729482238472
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -9,14 +9,14 @@
     "m_PathID": -7666735621553623696
   },
   "m_Name": "",
-  "TextKey": "UI_REMOVE_CHARACTER",
+  "TextKey": "",
   "FontSetting": {
-    "m_FileID": 0,
+    "m_FileID": 6,
     "m_PathID": -8249165160190525977
   },
   "text": {
     "m_FileID": 0,
-    "m_PathID": 8440501780629207132
+    "m_PathID": 7082073322472547641
   },
-  "outline": 2
+  "outline": 1
 }

@@ -9,8 +9,6 @@
     "m_PathID": -322913111253219141
   },
   "m_Name": "",
-  "test": 0,
-  "aspects": [],
   "BattleOrderPresenter": {
     "m_FileID": 0,
     "m_PathID": -6064467212196192346
@@ -38,10 +36,6 @@
   "SpineArea": {
     "m_FileID": 0,
     "m_PathID": -5770899694583937677
-  },
-  "canvas": {
-    "m_FileID": 0,
-    "m_PathID": -1117470625451863239
   },
   "BattleListWindow": {
     "m_FileID": 0,

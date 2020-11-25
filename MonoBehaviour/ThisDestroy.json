@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": -2126240653539566199
+    "m_PathID": 6861045999980874371
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -9,5 +9,5 @@
     "m_PathID": 4681386374706231083
   },
   "m_Name": "",
-  "time": 5.5
+  "time": 2.5
 }

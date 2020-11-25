@@ -33207,7 +33207,7 @@
             "",
             "",
             "",
-            "ガンメイが端末を操作し、\n主人公の携帯端末にかざす。"
+            "ガンメイが端末を操作し、\n<param=playerName>の\n携帯端末にかざす。"
           ],
           "isEmpty": 0,
           "isCommentOut": 0
@@ -36233,7 +36233,7 @@
       ],
       "name": "Assets/Scene_Adv/Scenario/main/main2.xls:quest_main2-4",
       "type": 1,
-      "textLength": 13273,
+      "textLength": 13289,
       "headerRow": 0,
       "entityIndexTbl": [],
       "entityDataList": []
