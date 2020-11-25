@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 5454581681237068821
+    "m_PathID": -4585728520594164895
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -28,7 +28,7 @@
       "m_PathID": 0
     }
   },
-  "m_Transition": 1,
+  "m_Transition": 0,
   "m_Colors": {
     "m_NormalColor": {
       "r": 1.0,
@@ -91,7 +91,7 @@
   "m_Interactable": 1,
   "m_TargetGraphic": {
     "m_FileID": 0,
-    "m_PathID": -8030750286487045818
+    "m_PathID": -6744874427139766656
   },
   "m_OnClick": {
     "m_PersistentCalls": {

@@ -1,11 +1,11 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 2779316673673227871
+    "m_PathID": 2586669463561853237
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 1,
+    "m_FileID": 0,
     "m_PathID": -131519606285851045
   },
   "m_Name": "",
@@ -14,13 +14,13 @@
   "wordWrap": -1,
   "lengthOfView": -1,
   "textSettings": {
-    "m_FileID": 1,
+    "m_FileID": 0,
     "m_PathID": -7465436432276290367
   },
   "rubySizeScale": 0.5,
   "supOrSubSizeScale": 0.5,
   "emojiData": {
-    "m_FileID": 1,
+    "m_FileID": 0,
     "m_PathID": 280212601939159644
   },
   "dashChar": 8212,

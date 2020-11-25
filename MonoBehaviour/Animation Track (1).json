@@ -5,7 +5,7 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
+    "m_FileID": 1,
     "m_PathID": -1326188021205359011
   },
   "m_Name": "Animation Track (1)",
@@ -23,7 +23,7 @@
   },
   "m_Parent": {
     "m_FileID": 0,
-    "m_PathID": 1436014198884513125
+    "m_PathID": -9005098428000274291
   },
   "m_Children": [],
   "m_Clips": [],
@@ -65,7 +65,7 @@
   "m_TrackOffset": 0,
   "m_InfiniteClip": {
     "m_FileID": 0,
-    "m_PathID": -6867216782230477752
+    "m_PathID": 78401804543695499
   },
   "m_OpenClipOffsetRotation": {
     "x": 0.0,

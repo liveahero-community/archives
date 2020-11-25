@@ -5,7 +5,7 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 2,
+    "m_FileID": 1,
     "m_PathID": -367257248164769705
   },
   "m_Name": "SE",
@@ -23,23 +23,23 @@
   },
   "m_Parent": {
     "m_FileID": 0,
-    "m_PathID": -2179009583718101768
+    "m_PathID": 8419588160684337940
   },
   "m_Children": [],
   "m_Clips": [
     {
       "m_Version": 1,
-      "m_Start": 0.9,
-      "m_ClipIn": 0.0,
+      "m_Start": 0.33333333333333331,
+      "m_ClipIn": 0.10049886621315185,
       "m_Asset": {
         "m_FileID": 0,
-        "m_PathID": 2019119371575328146
+        "m_PathID": -4242416370506655867
       },
-      "m_Duration": 0.40345641371884855,
+      "m_Duration": 0.8,
       "m_TimeScale": 1.0,
       "m_ParentTrack": {
         "m_FileID": 0,
-        "m_PathID": 4118678501589657248
+        "m_PathID": -1644153702820177086
       },
       "m_EaseInDuration": 0.0,
       "m_EaseOutDuration": 0.0,
@@ -107,89 +107,7 @@
       "m_PreExtrapolationMode": 0,
       "m_PostExtrapolationTime": 0.0,
       "m_PreExtrapolationTime": 0.0,
-      "m_DisplayName": "se_shoot"
-    },
-    {
-      "m_Version": 1,
-      "m_Start": 1.4333333333333333,
-      "m_ClipIn": 0.0,
-      "m_Asset": {
-        "m_FileID": 0,
-        "m_PathID": 2005769952038313647
-      },
-      "m_Duration": 0.69883249203364051,
-      "m_TimeScale": 1.0,
-      "m_ParentTrack": {
-        "m_FileID": 0,
-        "m_PathID": 4118678501589657248
-      },
-      "m_EaseInDuration": 0.0,
-      "m_EaseOutDuration": 0.0,
-      "m_BlendInDuration": -1.0,
-      "m_BlendOutDuration": -1.0,
-      "m_MixInCurve": {
-        "m_Curve": [
-          {
-            "time": 0.0,
-            "value": 0.0,
-            "inSlope": 0.0,
-            "outSlope": 0.0,
-            "weightedMode": 0,
-            "inWeight": 0.0,
-            "outWeight": 0.0
-          },
-          {
-            "time": 1.0,
-            "value": 1.0,
-            "inSlope": 0.0,
-            "outSlope": 0.0,
-            "weightedMode": 0,
-            "inWeight": 0.0,
-            "outWeight": 0.0
-          }
-        ],
-        "m_PreInfinity": 2,
-        "m_PostInfinity": 2,
-        "m_RotationOrder": 4
-      },
-      "m_MixOutCurve": {
-        "m_Curve": [
-          {
-            "time": 0.0,
-            "value": 1.0,
-            "inSlope": 0.0,
-            "outSlope": 0.0,
-            "weightedMode": 0,
-            "inWeight": 0.0,
-            "outWeight": 0.0
-          },
-          {
-            "time": 1.0,
-            "value": 0.0,
-            "inSlope": 0.0,
-            "outSlope": 0.0,
-            "weightedMode": 0,
-            "inWeight": 0.0,
-            "outWeight": 0.0
-          }
-        ],
-        "m_PreInfinity": 2,
-        "m_PostInfinity": 2,
-        "m_RotationOrder": 4
-      },
-      "m_BlendInCurveMode": 0,
-      "m_BlendOutCurveMode": 0,
-      "m_ExposedParameterNames": [],
-      "m_AnimationCurves": {
-        "m_FileID": 0,
-        "m_PathID": 0
-      },
-      "m_Recordable": 0,
-      "m_PostExtrapolationMode": 0,
-      "m_PreExtrapolationMode": 0,
-      "m_PostExtrapolationTime": 0.0,
-      "m_PreExtrapolationTime": 0.0,
-      "m_DisplayName": "se_frozen"
+      "m_DisplayName": "Hit06-1"
     }
   ],
   "m_Markers": {

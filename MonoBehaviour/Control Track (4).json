@@ -5,7 +5,7 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 0,
+    "m_FileID": 1,
     "m_PathID": -6140739481308358681
   },
   "m_Name": "Control Track (4)",
@@ -23,23 +23,23 @@
   },
   "m_Parent": {
     "m_FileID": 0,
-    "m_PathID": 3695836760657723781
+    "m_PathID": 2112817108079076115
   },
   "m_Children": [],
   "m_Clips": [
     {
       "m_Version": 1,
-      "m_Start": 2.0166666666666666,
+      "m_Start": 0.0,
       "m_ClipIn": 0.0,
       "m_Asset": {
         "m_FileID": 0,
-        "m_PathID": 8787615537091315719
+        "m_PathID": -2196784817995820734
       },
-      "m_Duration": 2.0999999999999996,
+      "m_Duration": 3.2420226987451315,
       "m_TimeScale": 1.0,
       "m_ParentTrack": {
         "m_FileID": 0,
-        "m_PathID": -6116108936627883757
+        "m_PathID": -3068913849706388965
       },
       "m_EaseInDuration": 0.0,
       "m_EaseOutDuration": 0.0,
@@ -107,21 +107,21 @@
       "m_PreExtrapolationMode": 0,
       "m_PostExtrapolationTime": 0.0,
       "m_PreExtrapolationTime": 0.0,
-      "m_DisplayName": "rank"
+      "m_DisplayName": "eff_skillcharge"
     },
     {
       "m_Version": 1,
-      "m_Start": 4.1334240362811787,
+      "m_Start": 4.4333333333333336,
       "m_ClipIn": 0.0,
       "m_Asset": {
         "m_FileID": 0,
-        "m_PathID": 6603685035452225771
+        "m_PathID": 5330858258297764614
       },
-      "m_Duration": 5.0,
+      "m_Duration": 1.0547142778124128,
       "m_TimeScale": 1.0,
       "m_ParentTrack": {
         "m_FileID": 0,
-        "m_PathID": -6116108936627883757
+        "m_PathID": -3068913849706388965
       },
       "m_EaseInDuration": 0.0,
       "m_EaseOutDuration": 0.0,
@@ -189,7 +189,7 @@
       "m_PreExtrapolationMode": 0,
       "m_PostExtrapolationTime": 0.0,
       "m_PreExtrapolationTime": 0.0,
-      "m_DisplayName": "rankup"
+      "m_DisplayName": "impact"
     }
   ],
   "m_Markers": {

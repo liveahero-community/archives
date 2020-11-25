@@ -1,7 +1,7 @@
 {
   "m_GameObject": {
     "m_FileID": 0,
-    "m_PathID": 7765831598633694010
+    "m_PathID": -1520216220362856935
   },
   "m_Enabled": 1,
   "m_Script": {
@@ -26,14 +26,14 @@
       "m_Calls": []
     }
   },
-  "m_text": "バトル結果",
+  "m_text": "使用中",
   "m_isRightToLeft": 0,
   "m_fontAsset": {
-    "m_FileID": 3,
+    "m_FileID": 2,
     "m_PathID": 744446416769406934
   },
   "m_sharedMaterial": {
-    "m_FileID": 3,
+    "m_FileID": 2,
     "m_PathID": -1922389222168809615
   },
   "m_fontSharedMaterials": [],
@@ -92,21 +92,21 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "m_TextStyleHashCode": -1183493901,
+  "m_TextStyleHashCode": 0,
   "m_overrideHtmlColors": 0,
   "m_faceColor": {
     "rgba": 4294967295
   },
-  "m_fontSize": 22.0,
-  "m_fontSizeBase": 22.0,
+  "m_fontSize": 20.0,
+  "m_fontSizeBase": 20.0,
   "m_fontWeight": 400,
-  "m_enableAutoSizing": 1,
-  "m_fontSizeMin": 16.0,
-  "m_fontSizeMax": 22.0,
+  "m_enableAutoSizing": 0,
+  "m_fontSizeMin": 18.0,
+  "m_fontSizeMax": 72.0,
   "m_fontStyle": 0,
-  "m_HorizontalAlignment": 2,
-  "m_VerticalAlignment": 512,
-  "m_textAlignment": 65535,
+  "m_HorizontalAlignment": 1,
+  "m_VerticalAlignment": 256,
+  "m_textAlignment": 514,
   "m_characterSpacing": 0.0,
   "m_wordSpacing": 0.0,
   "m_lineSpacing": 0.0,

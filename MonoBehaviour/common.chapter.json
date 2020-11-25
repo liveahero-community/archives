@@ -134185,6 +134185,17 @@
         {
           "rowIndex": 110,
           "strings": [
+            "se_machine",
+            "",
+            "Se",
+            "se_machine"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 111,
+          "strings": [
             "se_machinegun",
             "",
             "Se",
@@ -134194,7 +134205,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 111,
+          "rowIndex": 112,
           "strings": [
             "se_magic",
             "",
@@ -134205,7 +134216,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 112,
+          "rowIndex": 113,
           "strings": [
             "se_mamemame",
             "",
@@ -134216,7 +134227,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 113,
+          "rowIndex": 114,
           "strings": [
             "se_mist",
             "",
@@ -134227,7 +134238,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 114,
+          "rowIndex": 115,
           "strings": [
             "se_noisy_street",
             "",
@@ -134238,7 +134249,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 115,
+          "rowIndex": 116,
           "strings": [
             "se_paper",
             "",
@@ -134249,7 +134260,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 116,
+          "rowIndex": 117,
           "strings": [
             "se_paperbag",
             "",
@@ -134260,7 +134271,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 117,
+          "rowIndex": 118,
           "strings": [
             "se_phone",
             "",
@@ -134271,7 +134282,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 118,
+          "rowIndex": 119,
           "strings": [
             "se_phone_silent",
             "",
@@ -134282,7 +134293,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 119,
+          "rowIndex": 120,
           "strings": [
             "se_photo",
             "",
@@ -134293,7 +134304,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 120,
+          "rowIndex": 121,
           "strings": [
             "se_pi",
             "",
@@ -134304,7 +134315,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 121,
+          "rowIndex": 122,
           "strings": [
             "se_piearce",
             "",
@@ -134315,7 +134326,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 122,
+          "rowIndex": 123,
           "strings": [
             "se_ping",
             "",
@@ -134326,7 +134337,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 123,
+          "rowIndex": 124,
           "strings": [
             "se_ping2",
             "",
@@ -134337,7 +134348,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 124,
+          "rowIndex": 125,
           "strings": [
             "se_poyo",
             "",
@@ -134348,7 +134359,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 125,
+          "rowIndex": 126,
           "strings": [
             "se_punch_rush",
             "",
@@ -134359,7 +134370,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 126,
+          "rowIndex": 127,
           "strings": [
             "se_quake",
             "",
@@ -134370,7 +134381,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 127,
+          "rowIndex": 128,
           "strings": [
             "se_quake2",
             "",
@@ -134381,7 +134392,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 128,
+          "rowIndex": 129,
           "strings": [
             "se_quake_short",
             "",
@@ -134392,7 +134403,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 129,
+          "rowIndex": 130,
           "strings": [
             "se_rain",
             "",
@@ -134403,7 +134414,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 130,
+          "rowIndex": 131,
           "strings": [
             "se_regi",
             "",
@@ -134414,7 +134425,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 131,
+          "rowIndex": 132,
           "strings": [
             "se_reload",
             "",
@@ -134425,7 +134436,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 132,
+          "rowIndex": 133,
           "strings": [
             "se_ring",
             "",
@@ -134436,7 +134447,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 133,
+          "rowIndex": 134,
           "strings": [
             "se_roar",
             "",
@@ -134447,7 +134458,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 134,
+          "rowIndex": 135,
           "strings": [
             "se_rotation",
             "",
@@ -134458,7 +134469,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 135,
+          "rowIndex": 136,
           "strings": [
             "se_rush",
             "",
@@ -134469,7 +134480,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 136,
+          "rowIndex": 137,
           "strings": [
             "se_shake",
             "",
@@ -134480,7 +134491,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 137,
+          "rowIndex": 138,
           "strings": [
             "se_shakin",
             "",
@@ -134491,7 +134502,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 138,
+          "rowIndex": 139,
           "strings": [
             "se_shakin2",
             "",
@@ -134502,7 +134513,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 139,
+          "rowIndex": 140,
           "strings": [
             "se_shine",
             "",
@@ -134513,7 +134524,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 140,
+          "rowIndex": 141,
           "strings": [
             "se_shine2",
             "",
@@ -134524,7 +134535,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 141,
+          "rowIndex": 142,
           "strings": [
             "se_shock",
             "",
@@ -134535,7 +134546,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 142,
+          "rowIndex": 143,
           "strings": [
             "se_shock2",
             "",
@@ -134546,7 +134557,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 143,
+          "rowIndex": 144,
           "strings": [
             "se_shoot",
             "",
@@ -134557,7 +134568,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 144,
+          "rowIndex": 145,
           "strings": [
             "se_shutter",
             "",
@@ -134568,7 +134579,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 145,
+          "rowIndex": 146,
           "strings": [
             "se_siren_police",
             "",
@@ -134579,7 +134590,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 146,
+          "rowIndex": 147,
           "strings": [
             "se_skill",
             "",
@@ -134590,7 +134601,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 147,
+          "rowIndex": 148,
           "strings": [
             "se_skill2",
             "",
@@ -134601,7 +134612,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 148,
+          "rowIndex": 149,
           "strings": [
             "se_slap",
             "",
@@ -134612,7 +134623,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 149,
+          "rowIndex": 150,
           "strings": [
             "se_slash",
             "",
@@ -134623,7 +134634,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 150,
+          "rowIndex": 151,
           "strings": [
             "se_slash1",
             "",
@@ -134634,7 +134645,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 151,
+          "rowIndex": 152,
           "strings": [
             "se_slash2",
             "",
@@ -134645,7 +134656,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 152,
+          "rowIndex": 153,
           "strings": [
             "se_slurp",
             "",
@@ -134656,7 +134667,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 153,
+          "rowIndex": 154,
           "strings": [
             "se_step",
             "",
@@ -134667,7 +134678,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 154,
+          "rowIndex": 155,
           "strings": [
             "se_step2",
             "",
@@ -134678,7 +134689,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 155,
+          "rowIndex": 156,
           "strings": [
             "se_step_heavy",
             "",
@@ -134689,7 +134700,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 156,
+          "rowIndex": 157,
           "strings": [
             "se_step_heavy2",
             "",
@@ -134700,7 +134711,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 157,
+          "rowIndex": 158,
           "strings": [
             "se_step_water",
             "",
@@ -134711,7 +134722,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 158,
+          "rowIndex": 159,
           "strings": [
             "se_stomach",
             "",
@@ -134722,7 +134733,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 159,
+          "rowIndex": 160,
           "strings": [
             "se_summernight",
             "",
@@ -134733,7 +134744,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 160,
+          "rowIndex": 161,
           "strings": [
             "se_swipe",
             "",
@@ -134744,7 +134755,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 161,
+          "rowIndex": 162,
           "strings": [
             "se_sword_drawn",
             "",
@@ -134755,7 +134766,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 162,
+          "rowIndex": 163,
           "strings": [
             "se_sword_hit",
             "",
@@ -134766,7 +134777,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 163,
+          "rowIndex": 164,
           "strings": [
             "se_sword_hit2",
             "",
@@ -134777,7 +134788,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 164,
+          "rowIndex": 165,
           "strings": [
             "se_sword_hit3",
             "",
@@ -134788,7 +134799,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 165,
+          "rowIndex": 166,
           "strings": [
             "se_sword_kamae",
             "",
@@ -134799,7 +134810,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 166,
+          "rowIndex": 167,
           "strings": [
             "se_sword_off",
             "",
@@ -134810,7 +134821,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 167,
+          "rowIndex": 168,
           "strings": [
             "se_temptation",
             "",
@@ -134821,7 +134832,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 168,
+          "rowIndex": 169,
           "strings": [
             "se_thrust",
             "",
@@ -134832,7 +134843,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 169,
+          "rowIndex": 170,
           "strings": [
             "se_thunder",
             "",
@@ -134843,7 +134854,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 170,
+          "rowIndex": 171,
           "strings": [
             "se_thunder2",
             "",
@@ -134854,7 +134865,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 171,
+          "rowIndex": 172,
           "strings": [
             "se_thunderbolt",
             "",
@@ -134865,7 +134876,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 172,
+          "rowIndex": 173,
           "strings": [
             "se_thunderStrike",
             "",
@@ -134876,7 +134887,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 173,
+          "rowIndex": 174,
           "strings": [
             "se_tidalwave",
             "",
@@ -134887,7 +134898,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 174,
+          "rowIndex": 175,
           "strings": [
             "se_tobi",
             "",
@@ -134898,7 +134909,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 175,
+          "rowIndex": 176,
           "strings": [
             "se_tornado",
             "",
@@ -134909,7 +134920,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 176,
+          "rowIndex": 177,
           "strings": [
             "se_tornado_rev",
             "",
@@ -134920,7 +134931,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 177,
+          "rowIndex": 178,
           "strings": [
             "se_underwater",
             "",
@@ -134931,7 +134942,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 178,
+          "rowIndex": 179,
           "strings": [
             "se_wadaiko",
             "",
@@ -134942,7 +134953,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 179,
+          "rowIndex": 180,
           "strings": [
             "se_walk",
             "",
@@ -134953,7 +134964,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 180,
+          "rowIndex": 181,
           "strings": [
             "se_walk2",
             "",
@@ -134964,7 +134975,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 181,
+          "rowIndex": 182,
           "strings": [
             "se_warp",
             "",
@@ -134975,7 +134986,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 182,
+          "rowIndex": 183,
           "strings": [
             "se_water",
             "",
@@ -134986,7 +134997,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 183,
+          "rowIndex": 184,
           "strings": [
             "se_waterfall",
             "",
@@ -134997,7 +135008,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 184,
+          "rowIndex": 185,
           "strings": [
             "se_wave",
             "",
@@ -135008,7 +135019,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 185,
+          "rowIndex": 186,
           "strings": [
             "se_whistle",
             "",
@@ -135019,7 +135030,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 186,
+          "rowIndex": 187,
           "strings": [
             "se_whistle2",
             "",
@@ -135030,7 +135041,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 187,
+          "rowIndex": 188,
           "strings": [
             "se_whoosh",
             "",
@@ -135041,7 +135052,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 188,
+          "rowIndex": 189,
           "strings": [
             "se_whoosh2",
             "",
@@ -135052,7 +135063,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 189,
+          "rowIndex": 190,
           "strings": [
             "se_wind",
             "",
@@ -135063,7 +135074,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 190,
+          "rowIndex": 191,
           "strings": [
             "se_wind2",
             "",
@@ -135074,7 +135085,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 191,
+          "rowIndex": 192,
           "strings": [
             "se_woodcreak",
             "",
@@ -135085,7 +135096,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 192,
+          "rowIndex": 193,
           "strings": [
             "se_wyvern_flap",
             "",
@@ -135096,7 +135107,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 193,
+          "rowIndex": 194,
           "strings": [
             "se_wyvern_roar",
             "",
@@ -135107,7 +135118,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 194,
+          "rowIndex": 195,
           "strings": [
             "se_smallMonster",
             "",
@@ -135118,7 +135129,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 195,
+          "rowIndex": 196,
           "strings": [
             "se_viewUp",
             "",
@@ -135131,7 +135142,7 @@
       ],
       "name": "Assets/Scene_Adv/Settings/common/Sound.xls:Sound",
       "type": 1,
-      "textLength": 4626,
+      "textLength": 4648,
       "headerRow": 0
     },
     {
@@ -136936,6 +136947,70 @@
         {
           "rowIndex": 75,
           "strings": [
+            "倉庫街_夜",
+            "Bg",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "bg_harbour.jpg"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 76,
+          "strings": [
+            "倉庫内",
+            "Bg",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "bg_harbour_warehouse.jpg"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 77,
+          "strings": [
+            "船室",
+            "Bg",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "bg_harbour_warehouse_blue.jpg"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 78,
+          "strings": [
+            "艦内廊下",
+            "Bg",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "bg_basement_blue.jpg"
+          ],
+          "isEmpty": 0,
+          "isCommentOut": 0
+        },
+        {
+          "rowIndex": 79,
+          "strings": [
             "",
             "",
             "",
@@ -136958,7 +137033,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 76,
+          "rowIndex": 80,
           "strings": [
             "海浜公園_夕",
             "Bg",
@@ -136982,7 +137057,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 77,
+          "rowIndex": 81,
           "strings": [
             "市警本部前",
             "Bg",
@@ -137006,7 +137081,7 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 78,
+          "rowIndex": 82,
           "strings": [
             "裏通り_昼",
             "Bg",
@@ -137030,105 +137105,9 @@
           "isCommentOut": 0
         },
         {
-          "rowIndex": 79,
-          "strings": [
-            "日本地図",
-            "Bg",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "bg_black.jpg",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 80,
-          "strings": [
-            "倉庫街_夜",
-            "Bg",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "bg_black.jpg",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 81,
-          "strings": [
-            "倉庫内",
-            "Bg",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "bg_black.jpg",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
-          "rowIndex": 82,
-          "strings": [
-            "船室",
-            "Bg",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "bg_black.jpg",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ],
-          "isEmpty": 0,
-          "isCommentOut": 0
-        },
-        {
           "rowIndex": 83,
           "strings": [
-            "艦内廊下",
+            "日本地図",
             "Bg",
             "",
             "",
@@ -140104,7 +140083,7 @@
       ],
       "name": "Assets/Scene_Adv/Settings/common/Texture.xls:Texture",
       "type": 1,
-      "textLength": 2959,
+      "textLength": 2998,
       "headerRow": 0
     }
   ]

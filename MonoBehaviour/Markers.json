@@ -5,7 +5,7 @@
   },
   "m_Enabled": 1,
   "m_Script": {
-    "m_FileID": 2,
+    "m_FileID": 0,
     "m_PathID": -5888585824096903559
   },
   "m_Name": "Markers",
@@ -23,7 +23,7 @@
   },
   "m_Parent": {
     "m_FileID": 0,
-    "m_PathID": -2179009583718101768
+    "m_PathID": -3340685215267520877
   },
   "m_Children": [],
   "m_Clips": [],
