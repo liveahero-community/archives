@@ -1,5 +1,7 @@
 ![download-and-extract](https://github.com/liveahero-community/archives/workflows/download-and-extract/badge.svg)
 
+![SIZE](https://img.shields.io/github/repo-size/liveahero-community/archives)
+
 ---
 
 * All Artifacts (ignored sensitive data): https://github.com/liveahero-community/archives/tree/artifacts
