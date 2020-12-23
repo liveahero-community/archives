@@ -1,0 +1,190 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_flamier_s01",
+  "cellSize": 256,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4541216961429217398
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_flamier_s01",
+      "atlasName": "fg_flamier_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        8,
+        8,
+        11,
+        8
+      ],
+      "transparentIndex": 8
+    },
+    {
+      "name": "fg_flamier_s01b",
+      "atlasName": "fg_flamier_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        12,
+        13,
+        8,
+        8,
+        11,
+        8
+      ],
+      "transparentIndex": 8
+    },
+    {
+      "name": "fg_flamier_s01c",
+      "atlasName": "fg_flamier_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        14,
+        8,
+        8,
+        11,
+        8
+      ],
+      "transparentIndex": 8
+    },
+    {
+      "name": "fg_flamier_s01d",
+      "atlasName": "fg_flamier_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        15,
+        8,
+        8,
+        11,
+        8
+      ],
+      "transparentIndex": 8
+    },
+    {
+      "name": "fg_flamier_s01e",
+      "atlasName": "fg_flamier_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        16,
+        8,
+        8,
+        11,
+        8
+      ],
+      "transparentIndex": 8
+    },
+    {
+      "name": "fg_flamier_s01f",
+      "atlasName": "fg_flamier_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        17,
+        8,
+        8,
+        11,
+        8
+      ],
+      "transparentIndex": 8
+    },
+    {
+      "name": "fg_flamier_s01g",
+      "atlasName": "fg_flamier_s01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        18,
+        8,
+        8,
+        11,
+        8
+      ],
+      "transparentIndex": 8
+    }
+  ]
+}
