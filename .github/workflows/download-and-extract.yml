@@ -104,3 +104,10 @@ jobs:
           git add --all
           git commit -m "auto-extract assets to artifacts"
           git push origin HEAD
+
+      - name: Trigger to update atlas
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ env.MY_SECRET }}
+          repository: liveahero-community/atlas
+          event-type: altas-update
