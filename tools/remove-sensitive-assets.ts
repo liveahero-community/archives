@@ -6,7 +6,7 @@ import { trim } from 'lodash';
 const keepPartialFolders = async (path: string, filterPatternRaws: string[]) => {
   const subPaths = await fs.readdir(path);
 
-  // filterPatternRaws: ['Texture2D', 'Sprite', 'MonoBehaviour|(fg_\\w+)\\.json']
+  // filterPatternRaws: ['Texture2D', 'Sprite', 'MonoBehaviour|(fg_\w+)\.json']
   const filterPatterns = filterPatternRaws.map((filterPatternRaw) => {
     const [filteredPath, filteredRule] = filterPatternRaw.split('|');
     return {
@@ -41,7 +41,7 @@ const keepPartialFolders = async (path: string, filterPatternRaws: string[]) => 
 
 const main = async () => {
   // [ARG1] artifactPath: 'artifacts'
-  // [ARG2] pathPattern: 'Texture2D, Sprite, MonoBehaviour|(fg_\\w+)\\.json'
+  // [ARG2] pathPattern: 'Texture2D, Sprite, MonoBehaviour|(fg_\w+)\.json'
   const [artifactPath, pathPattern] = process.argv.slice(2);
   const filterPatternRaws = pathPattern.split(',').map(trim);
   await keepPartialFolders(artifactPath, filterPatternRaws);
