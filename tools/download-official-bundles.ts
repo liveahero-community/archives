@@ -29,8 +29,8 @@ const getVersion = async (options: RequestInit) => {
   }
 };
 
-const getDiffAssetList = async (options: RequestInit) => {
-  const url = `${STATIC_URL}/assetList.Android`;
+const getDiffAssetList = async (options: RequestInit, appVersion: string) => {
+  const url = `${STATIC_URL}/${appVersion}/assetList.Android`;
   const res = await fetch(url, options);
 
   const listAssets = (raw: string) => raw.split('\n').filter(Boolean).map((line) => {
@@ -57,8 +57,8 @@ const getDiffAssetList = async (options: RequestInit) => {
   return [];
 };
 
-const downloadAsset = async (filePath: string) => {
-  const url = `${STATIC_URL}/${filePath}`;
+const downloadAsset = async (filePath: string, appVersion: string) => {
+  const url = `${STATIC_URL}/${appVersion}/${filePath}`;
   const res = await fetch(url);
 
   await new Promise((resolve, reject) => {
@@ -89,12 +89,12 @@ const main = async () => {
   console.log(`Version: ${appVersion}`);
 
   // Step 2: get asset list and download the assets.
-  const assetList = await getDiffAssetList(options);
+  const assetList = await getDiffAssetList(options, appVersion);
 
   for await (const asset of assetList) {
     const index = assetList.indexOf(asset) + 1;
     await fs.mkdirp(`${BUNDLES_DIR}/${dirname(asset.filePath)}`);
-    await downloadAsset(asset.filePath);
+    await downloadAsset(asset.filePath, appVersion);
     console.log(`[${index} / ${assetList.length}] ${asset.filePath}`);
   }
 
