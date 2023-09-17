@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_kaibutsuIdLarvaShadow_h01",
+  "cellSize": 128,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1419607555449608017
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_kaibutsuIdLarvaShadow_h01",
+      "atlasName": "fg_kaibutsuIdLarvaShadow_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        0,
+        0,
+        0,
+        0,
+        3,
+        4,
+        5,
+        6,
+        0,
+        0,
+        7,
+        8,
+        9,
+        10,
+        0,
+        0,
+        11,
+        12,
+        13,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "transparentIndex": 0
+    }
+  ]
+}

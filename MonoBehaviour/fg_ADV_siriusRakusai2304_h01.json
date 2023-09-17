@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_ADV_siriusRakusai2304_h01",
+  "cellSize": 128,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3666171848856722001
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_ADV_siriusRakusai2304_h01",
+      "atlasName": "fg_ADV_siriusRakusai2304_h01_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        3,
+        3,
+        4,
+        5,
+        6,
+        7,
+        3,
+        3,
+        8,
+        9,
+        10,
+        11,
+        3,
+        3,
+        12,
+        13,
+        14,
+        15,
+        3,
+        3,
+        16,
+        17,
+        18,
+        19,
+        3,
+        3,
+        20,
+        21,
+        22,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "transparentIndex": 3
+    }
+  ]
+}

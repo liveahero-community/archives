@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2773386506308366186
+  },
+  "m_Name": "fg_ADV_sirius_s01_skin3",
+  "cellSize": 128,
+  "padding": 3,
+  "atlasTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3400347839255125293
+    }
+  ],
+  "textureDataList": [
+    {
+      "name": "fg_ADV_sirius_s01_skin3",
+      "atlasName": "fg_ADV_sirius_s01_skin3_Atlas0",
+      "width": 640,
+      "height": 1024,
+      "cellIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        4,
+        10,
+        11,
+        12,
+        13,
+        14,
+        4,
+        15,
+        16,
+        17,
+        4,
+        4,
+        4,
+        18,
+        19,
+        20,
+        4,
+        4,
+        4,
+        21,
+        22,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "transparentIndex": 4
+    }
+  ]
+}
